@@ -15,7 +15,7 @@ my $timestamp = gmtime()->datetime;
 my $from_column  = "ddc";
 my $to_column    = "rvk";
 my $label_column = "label";
-
+my $label_language = "de";
 
 my $importer = Catmandu::Importer::CSV->new(file => $file);
 my $exporter = Catmandu::Exporter::JSON->new;
@@ -35,13 +35,13 @@ $importer->each(sub {
 
     push @{ $mappings{$from} }, {
         notation => $to,
-        (defined $label ? (label => $label) : ()),
+        (defined $label ? ( label => { $label_language => $label } ) : ()),
     };
 });
 
 while (my ($from, $to) = each %mappings) {
     my $json = {
-        from      => $from,
+        from      => { notation => $from },
         to        => $to,
         timestamp => $timestamp,
         creator   => $creator
