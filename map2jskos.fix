@@ -1,0 +1,31 @@
+# Fix-Skript zur Konvertierung von DDC- und RVK-Mappings (bidirektional)
+#Befehl DDC zu RVK: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <ddc100.xls >ddc100.json
+#Befehl RVK zu: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <rvkcacz.xls >rvkcacz.json 
+#
+
+# Leerzeichen am Anfang und Ende entfernen
+trim(DDCnotation)
+trim(RVKnotation)
+
+# Ausgangs- und Ziel-KOS (URI)
+#add_field( sourceScheme, "http://d-nb.info/gnd/4449787-8" )
+#add_field( targetScheme, "http://dewey.info/scheme/edition/e22/" )
+
+add_field( sourceScheme, "http://dewey.info/scheme/edition/e22/" )
+add_field( targetScheme, "http://d-nb.info/gnd/4449787-8" )
+
+# DDC (mit prefLabel)
+move_field( DDCnotation, from.conceptSet.0.notation.0 )
+move_field( DDCprefLabel, from.conceptSet.0.prefLabel.en)
+
+# RVK
+move_field( RVKnotation, to.conceptSet.0.notation.0 )
+
+move_field( RVKprefLabel, from.conceptSet.0.prefLabel.de)
+
+
+# Metadaten des Mappings
+add_field(creator,"VZG")
+ 
+
+
