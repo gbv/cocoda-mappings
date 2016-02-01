@@ -1,7 +1,6 @@
 # Fix-Skript zur Konvertierung von DDC- und RVK-Mappings (bidirektional)
-#Befehl DDC zu RVK: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <ddc100.xls >ddc100.json
-#Befehl RVK zu: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <rvkcacz.xls >rvkcacz.json 
-#
+# Befehl DDC zu RVK: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <ddc100.xls >ddc100.json
+# Befehl RVK zu: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <rvkcacz.xls >rvkcacz.json 
 
 # Leerzeichen am Anfang und Ende entfernen
 trim(DDCnotation)
