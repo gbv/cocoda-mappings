@@ -17,6 +17,10 @@ use URI::Escape;
 my $xmlfile   = 'rvko_2015_4.xml';    # input file
 my $jskosfile = 'rvk_2015_4.json';    # output file
 
+my $expandLabels    = 0;
+my $expandNotations = 1;
+my $expandType      = 0;
+
 my $rvkuri   = 'http://bartoc.org/en/node/533';
 my $urispace = 'http://uri.gbv.de/terminology/rvk/';
 
@@ -36,10 +40,19 @@ sub conceptURI {
 sub conceptType {
     my $notation = shift;
 
-    # TODO: notation ranges such as "FX 403998 - FX 404305" may need to have another type
+# TODO: notation ranges such as "FX 403998 - FX 404305" may need to have another type
     my $type = ['http://www.w3.org/2004/02/skos/core#Concept'];
 
     return $type;
+}
+
+sub concept {
+    my ( $notation, $benennung ) = @_;
+    my $jskos = { uri => conceptURI($notation) };
+    $jskos->{type}      = conceptType($notation) if $expandType;
+    $jskos->{notation}  = [$notation]            if $expandNotations;
+    $jskos->{prefLabel} = { de => $benennung }   if $expandLabels;
+    return $jskos;
 }
 
 foreach my $node ( $doc->findnodes('//node') ) {
@@ -47,28 +60,24 @@ foreach my $node ( $doc->findnodes('//node') ) {
     my %jskos    = (
         uri       => conceptURI($notation),
         type      => conceptType($notation),
-        notation  => [ $notation ],
+        notation  => [$notation],
         preflabel => {
             de => $node->getAttribute('benennung'),
         },
         inScheme => {
             uri      => $rvkuri,
-            notation => ['RVK'],
         }
     );
+    $jskos{inScheme}{notation} = ['RVK'] if $expandNotations;
+
     my ($children) = $node->findnodes('./children');
     if ($children) {
         $jskos{'narrower'} = [];
         foreach my $child ( $children->findnodes('./node') ) {
             my ($childNotation) = $child->getAttribute('notation');
             my ($childLabel)    = $child->getAttribute('benennung');
-            push @{$jskos{'narrower'}},
-              {
-                uri       => conceptURI($childNotation),
-                type      => conceptType($childNotation),
-                notation  => [ $childNotation ],
-                prefLabel => { de => $childLabel }
-              };
+            push @{ $jskos{'narrower'} },
+              concept( $childNotation, $childLabel );
         }
     }
 
@@ -91,10 +100,10 @@ foreach my $node ( $doc->findnodes('//node') ) {
     if ( $notes || $register ) {
         $jskos{'scopeNote'}{'de'} = [];
         if ($notes) {
-            push @{$jskos{'scopeNote'}{'de'}}, $bemerkung;
+            push @{ $jskos{'scopeNote'}{'de'} }, $bemerkung;
         }
         if ($register) {
-            push @{$jskos{'scopeNote'}{'de'}}, $reg;
+            push @{ $jskos{'scopeNote'}{'de'} }, $reg;
         }
     }
 
@@ -102,15 +111,9 @@ foreach my $node ( $doc->findnodes('//node') ) {
     if ( $parentC->nodeName eq 'children' ) {
         my $parent = $parentC->parentNode;
         $jskos{'broader'} = [];
-        my $parentNotation   = $parent->getAttribute('notation');
-        my $parentLabel      = $parent->getAttribute('benennung');
-        push @{$jskos{'broader'}},
-          { 
-              uri       => conceptURI($parentNotation),
-              type      => conceptType($parentNotation),
-              notation  => $parentNotation, 
-              prefLabel => { de => $parentLabel } 
-          };
+        my $parentNotation = $parent->getAttribute('notation');
+        my $parentLabel    = $parent->getAttribute('benennung');
+        push @{ $jskos{'broader'} }, concept( $parentNotation, $parentLabel );
     }
     say $out $JSON->encode( \%jskos );
     $count++;
