@@ -1,0 +1,9279 @@
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7000 - CC 7267"
+            ],
+            "prefLabel" : {
+               "de" : "Ethik"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Ethik (Moralphilosophie)"
+            },
+            "notation" : [
+               "170"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "170"
+            ],
+            "prefLabel" : {
+               "en" : "Ethik (Moralphilosophie)"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Moralphilosophie/Philosophische Ethik)"
+            },
+            "notation" : [
+               "BK 1540 - BK 1550"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Spezielle Moraltheologie/Spezielle Ethik"
+            },
+            "notation" : [
+               "BK 2500 - BK 8300"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "170.4"
+            ],
+            "prefLabel" : {
+               "en" : "Spezielle Themen der Ethik"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Metaethik"
+            },
+            "notation" : [
+               "BK 1570"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Metaethik"
+            },
+            "notation" : [
+               "170.42"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   }
+}
+{
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "170.44"
+            ],
+            "prefLabel" : {
+               "en" : "Normative Ethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7240"
+            ],
+            "prefLabel" : {
+               "de" : "Analytische Ethik und Axiologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Normative Ethik"
+            },
+            "notation" : [
+               "170.44"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "170.[4408]"
+            ],
+            "prefLabel" : {
+               "en" : "Geschichte und Darstellung im Hinblick auf Personengruppen"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7000"
+            ],
+            "prefLabel" : {
+               "de" : "Geschichte der Ethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Ethische Systeme"
+            },
+            "notation" : [
+               "171"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CP"
+            ],
+            "prefLabel" : {
+               "de" : "Psychomotorik, Handeln, Leistung (human performance)"
+            }
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Autorität beruhende Systeme"
+            },
+            "notation" : [
+               "171.1"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7220"
+            ],
+            "prefLabel" : {
+               "de" : "Freiheit, Wille"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7700"
+            ],
+            "prefLabel" : {
+               "de" : "Gesellschaftsphilosophie"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.1"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Autorität beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   }
+}
+{
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Autorität beruhende Systeme"
+            },
+            "notation" : [
+               "171.1"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Intuition, moralischem Sinn, Vernunft beruhende Systeme"
+            },
+            "notation" : [
+               "171.2"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Existenzphilosophie, Existenzialismus"
+            },
+            "notation" : [
+               "BF 1550"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Intuition, moralischem Sinn, Vernunft beruhende Systeme"
+            },
+            "notation" : [
+               "171.2"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7240"
+            ],
+            "prefLabel" : {
+               "de" : "Analytische Ethik und Axiologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC"
+            ],
+            "prefLabel" : {
+               "de" : "Systematische Philosophie"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Perfektionismus"
+            },
+            "notation" : [
+               "171.3"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.4"
+            ],
+            "prefLabel" : {
+               "en" : "Hedonismus"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7250"
+            ],
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            }
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.4"
+            ],
+            "prefLabel" : {
+               "en" : "Hedonismus"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CP 3000"
+            ],
+            "prefLabel" : {
+               "de" : "Motivation und Gefühl"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.5"
+            ],
+            "prefLabel" : {
+               "en" : "Konsequentialismus und Utilitarismus"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Liberalismus und Utilitarismus"
+            },
+            "notation" : [
+               "MC 6300"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konsequentialismus und Utilitarismus"
+            },
+            "notation" : [
+               "171.5"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BF 1470"
+            ],
+            "prefLabel" : {
+               "de" : "Ethik (Praktische Philosophie und Wertphilosophie) "
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2015"
+            ],
+            "prefLabel" : {
+               "de" : "Sittliche Erkenntnis (das Gute, der Wert)"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.5"
+            ],
+            "prefLabel" : {
+               "en" : "Konsequentialismus und Utilitarismus"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Sozialethik"
+            },
+            "notation" : [
+               "BL 3060"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konsequentialismus und Utilitarismus"
+            },
+            "notation" : [
+               "171.5"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gesellschaftsphilosophie"
+            },
+            "notation" : [
+               "CC 7700"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konsequentialismus und Utilitarismus"
+            },
+            "notation" : [
+               "171.5"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2020"
+            ],
+            "prefLabel" : {
+               "de" : "Gewissen, Gewissensbildung, Gewissensfreiheit"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            },
+            "notation" : [
+               "171.6"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Das sittliche Objekt (Materie), Kasuistik, Situationsethik"
+            },
+            "notation" : [
+               "BK 2100"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.6"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik, Wissenschaft und Gewissen "
+            },
+            "notation" : [
+               "AK 24400"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            },
+            "notation" : [
+               "171.6"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gewissenszweifel, Klugheitsregeln, Moralsysteme"
+            },
+            "notation" : [
+               "BK 2025"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            },
+            "notation" : [
+               "171.6"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            },
+            "notation" : [
+               "171.6"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gewissensfreiheit"
+            },
+            "notation" : [
+               "BR 4132"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.6"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BU 5500"
+            ],
+            "prefLabel" : {
+               "de" : "Gewissensbildung und sittliche Erziehung"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.6"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Sittlichkeit, Ethik, Moral, Gewissen"
+            },
+            "notation" : [
+               "PI 3580"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.6"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Gewissen beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PL 407"
+            ],
+            "prefLabel" : {
+               "de" : "Art. 4 GG: Glaubens-, Gewissens- und Bekenntnisfreiheit"
+            }
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme"
+            },
+            "notation" : [
+               "171.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2100"
+            ],
+            "prefLabel" : {
+               "de" : "Das sittliche Objekt (Materie), Kasuistik, Situationsethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7240"
+            ],
+            "prefLabel" : {
+               "de" : "Analytische Ethik und Axiologie"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme"
+            },
+            "notation" : [
+               "171.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PI 3580"
+            ],
+            "prefLabel" : {
+               "de" : "Sittlichkeit, Ethik, Moral, Gewissen"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.7"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme"
+            },
+            "notation" : [
+               "171.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.7"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7910"
+            ],
+            "prefLabel" : {
+               "de" : "Marxismus, Marxismus-Leninismus, Kommunismus, Neomarxismus"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7250"
+            ],
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.8"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Altruismus beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik (Praktische Philosophie-Wertphilosophie)"
+            },
+            "notation" : [
+               "BF 8200"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Altruismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.8"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.8"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Altruismus beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.8"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Altruismus beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MR 7200"
+            ],
+            "prefLabel" : {
+               "de" : "Werte und Wertsystem, Symbol und Moral"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2110"
+            ],
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Altruismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.8"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7250"
+            ],
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.9"
+            ]
+         }
+      ]
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.9"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CR 7000"
+            ],
+            "prefLabel" : {
+               "de" : "Besondere Persönlichkeitsmerkmale und Eigenschaften"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : " (Praktische Philosophie-Wertphilosophie)"
+            },
+            "notation" : [
+               "BF 8200"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.9"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   }
+}
+{
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.9"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 4000"
+            ],
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "171.9"
+            ],
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MR 7200"
+            ],
+            "prefLabel" : {
+               "de" : "Werte und Wertsystem, Symbol und Moral"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2110"
+            ],
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Auf Egoismus beruhende Systeme"
+            },
+            "notation" : [
+               "171.9"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Politische Ethik"
+            },
+            "notation" : [
+               "172"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7300 - 7950"
+            ],
+            "prefLabel" : {
+               "de" : "Rechts-, Staat-, und Gesellschaftsphilosophie"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MD 6300"
+            ],
+            "prefLabel" : {
+               "de" : "Politisches Handeln, Ethik und Politik, politische Verantwortung "
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Politische Ethik"
+            },
+            "notation" : [
+               "172"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PI 3580"
+            ],
+            "prefLabel" : {
+               "de" : "Sittlichkeit, Ethik, Moral, Gewissen"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172"
+            ],
+            "prefLabel" : {
+               "en" : "Politische Ethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172"
+            ],
+            "prefLabel" : {
+               "en" : "Politische Ethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MS 1290"
+            ],
+            "prefLabel" : {
+               "de" : "Sozialphilosophie (auch Theorie der Gesellschaft), Sozial- und Kulturkritik (auch Dialektik), Entfremdung"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Verhältnis des Einzelnen zum Staat"
+            },
+            "notation" : [
+               "172.1"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Staat und Bürger, Grund- und Menschenrechte, Widerstandsrecht, Mitwirkung des Einzelnen an der staatlichen Willensbildung "
+            },
+            "notation" : [
+               "PK 280"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MD 6300"
+            ],
+            "prefLabel" : {
+               "de" : "Politisches Handeln, Ethik und Politik, politische Verantwortung"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.1"
+            ],
+            "prefLabel" : {
+               "en" : "Verhältnis des Einzelnen zum Staat"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Staatsphilosophie"
+            },
+            "notation" : [
+               "CC 7800"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.1"
+            ],
+            "prefLabel" : {
+               "en" : "Verhältnis des Einzelnen zum Staat"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Verhältnis des Einzelnen zum Staat"
+            },
+            "notation" : [
+               "172.1"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CP 3100"
+            ],
+            "prefLabel" : {
+               "de" : "Motivation und Handlung"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7620"
+            ],
+            "prefLabel" : {
+               "de" : "Naturrecht"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.1"
+            ],
+            "prefLabel" : {
+               "en" : "Verhältnis des Einzelnen zum Staat"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Staatsphilosophie, Politologie"
+            },
+            "notation" : [
+               "CC 7800"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.2"
+            ],
+            "prefLabel" : {
+               "en" : "Pflichten des Staats"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PI 3520"
+            ],
+            "prefLabel" : {
+               "de" : "Gerechtigkeit, Billigkeit, Individualgerechtigkeit, Schutz, allg. Werte, Gemeinwohl"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.2"
+            ],
+            "prefLabel" : {
+               "en" : "Pflichten des Staats"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Pflichten des Staats"
+            },
+            "notation" : [
+               "172.2"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gleichheit"
+            },
+            "notation" : [
+               "MD 4550"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Pflichten des Staats"
+            },
+            "notation" : [
+               "172.2"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gerechtigkeit"
+            },
+            "notation" : [
+               "BK 2300"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Pflichten des Staats"
+            },
+            "notation" : [
+               "172.2"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Rechtsphilosophie"
+            },
+            "notation" : [
+               "CC 7600"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Internationale Politik"
+            },
+            "notation" : [
+               "MK"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Abrüstung, Rüstung "
+            },
+            "notation" : [
+               "MK 3600"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.4"
+            ],
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Abrüstung, Rüstungsbegrenzung"
+            },
+            "notation" : [
+               "BL 9970"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Spionage (BF Militärische Spionage)"
+            },
+            "notation" : [
+               "PR 2631"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7800"
+            ],
+            "prefLabel" : {
+               "de" : "Staatsphilosophie, Politologie"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MD 6300"
+            ],
+            "prefLabel" : {
+               "de" : "Politisches Handeln, Ethik und Politik, politische Verantwortung"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MZ 6800"
+            ],
+            "prefLabel" : {
+               "de" : "Abrüstung"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Internationale Beziehungen"
+            },
+            "notation" : [
+               "172.4"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BL 9940"
+            ],
+            "prefLabel" : {
+               "de" : "Krieg und Frieden, Aggression"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Krieg und Frieden"
+            },
+            "notation" : [
+               "172.42"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Krieg und Frieden"
+            },
+            "notation" : [
+               "172.42"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MK 3700"
+            ],
+            "prefLabel" : {
+               "de" : "sonstige Einzelfragen (Internationale Friedensbewegung, Pazifismus)"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.42"
+            ],
+            "prefLabel" : {
+               "en" : "Krieg und Frieden"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MK 3100"
+            ],
+            "prefLabel" : {
+               "de" : "Krieg (Allgemein, Strategie, Militarismus) "
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Friedensforschung & Konfliktforschung"
+            },
+            "notation" : [
+               "BL 9990"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.42"
+            ],
+            "prefLabel" : {
+               "en" : "Krieg und Frieden"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Krieg und Frieden"
+            },
+            "notation" : [
+               "172.42"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BC 6865"
+            ],
+            "prefLabel" : {
+               "de" : "Politik, Krieg, Frieden"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Politisches Handeln, Ethik und Politik, politische "
+            },
+            "notation" : [
+               "MD 6300"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Atomwaffen und Atomkrieg"
+            },
+            "notation" : [
+               "172.422"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.422"
+            ],
+            "prefLabel" : {
+               "en" : "Atomwaffen und Atomkrieg"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "TB 2200"
+            ],
+            "prefLabel" : {
+               "de" : "Ethische Fragen, Wesen, Bedeutung, Nutzen, Ziele"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik, Wissenschaft und Gewissen"
+            },
+            "notation" : [
+               "AK 24400"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.422"
+            ],
+            "prefLabel" : {
+               "en" : "Atomwaffen und Atomkrieg"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Atomfragen, Strategie"
+            },
+            "notation" : [
+               "MK 2400"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.422"
+            ],
+            "prefLabel" : {
+               "en" : "Atomwaffen und Atomkrieg"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : " Krieg und Frieden, Aggression"
+            },
+            "notation" : [
+               "BK 5450"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "172.422"
+            ],
+            "prefLabel" : {
+               "en" : "Atomwaffen und Atomkrieg"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Personen- und/oder Familienethik"
+            },
+            "notation" : [
+               "BK 60500"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Familienethik "
+            },
+            "notation" : [
+               "173"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Familienethik "
+            },
+            "notation" : [
+               "173"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 5100"
+            ],
+            "prefLabel" : {
+               "de" : "Familie (Eltern, Kinder, Verwandte)"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Berufsethik"
+            },
+            "notation" : [
+               "174"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7262"
+            ],
+            "prefLabel" : {
+               "de" : "Wirtschaftsethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Berufsethik"
+            },
+            "notation" : [
+               "174"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik, Wissenschaft und Gewissen"
+            },
+            "notation" : [
+               "AK 24400"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "Q 010"
+            ],
+            "prefLabel" : {
+               "de" : "Mensch und Wirtschaft. Wirtschaftliches Verhalten. Motivation. Wirtschaftsethik"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Berufsethik"
+            },
+            "notation" : [
+               "174"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "CC 7260"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Geistliche"
+            },
+            "notation" : [
+               "174.1"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.2"
+            ],
+            "prefLabel" : {
+               "en" : "Medizinische Berufe"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Medizinische Berufe"
+            },
+            "notation" : [
+               "174.2"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            },
+            "notation" : [
+               "BK 8200"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Medizinische Berufe"
+            },
+            "notation" : [
+               "174.2"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "XC 2800"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.2"
+            ],
+            "prefLabel" : {
+               "en" : "Medizinische Berufe"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "AK 24400"
+            ],
+            "prefLabel" : {
+               "de" : "Ethik, Wissenschaft und Gewissen"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "WF 9710"
+            ],
+            "prefLabel" : {
+               "de" : "Rechtliche, gesellschaftliche und ethische Aspekte der Biotechnologie"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Medizinische Berufe"
+            },
+            "notation" : [
+               "174.2"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Hippokratischer Eid"
+            },
+            "notation" : [
+               "174.22"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            },
+            "notation" : [
+               "BK 8200"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.22"
+            ],
+            "prefLabel" : {
+               "en" : "Hippokratischer Eid"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "XC 2800"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Hippokratischer Eid"
+            },
+            "notation" : [
+               "174.22"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6100"
+            ],
+            "prefLabel" : {
+               "de" : "Gesundheit, Krankheit, Tod, Schmerz "
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Fragen von Leben und Tod"
+            },
+            "notation" : [
+               "174.24"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.24"
+            ],
+            "prefLabel" : {
+               "en" : "Fragen von Leben und Tod"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Fragen von Leben und Tod"
+            },
+            "notation" : [
+               "174.24"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Lebensbeginn und Lebensende"
+            },
+            "notation" : [
+               "BK 6120"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Innovative Verfahren"
+            },
+            "notation" : [
+               "174.25"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Innovative Verfahren"
+            },
+            "notation" : [
+               "174.25"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 8200"
+            ],
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.25"
+            ],
+            "prefLabel" : {
+               "en" : "Innovative Verfahren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2800"
+            ],
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Wirtschaftliche Fragen"
+            },
+            "notation" : [
+               "174.26"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MS 6030"
+            ],
+            "prefLabel" : {
+               "de" : "Medizinethische Aspekte von Gesundheit und Krankheit"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Wirtschaftliche Fragen"
+            },
+            "notation" : [
+               "174.26"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.26"
+            ],
+            "prefLabel" : {
+               "en" : "Wirtschaftliche Fragen"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2800"
+            ],
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7262"
+            ],
+            "prefLabel" : {
+               "de" : "Wirtschaftsethik"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Wirtschaftliche Fragen"
+            },
+            "notation" : [
+               "174.26"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2800"
+            ],
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PJ 2360"
+            ],
+            "prefLabel" : {
+               "de" : "Sonstige Einzelfragen"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik, Wissenschaft und Gewissen"
+            },
+            "notation" : [
+               "AK 24400"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 8200"
+            ],
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)"
+            },
+            "notation" : [
+               "BK 6200"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.28"
+            ],
+            "prefLabel" : {
+               "en" : "Experimentieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Einzelne Themen und Bereiche der Medizin und Gesundheit"
+            },
+            "notation" : [
+               "174.29"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.29073"
+            ],
+            "prefLabel" : {
+               "en" : "Krankenpflege, Medizinethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2816"
+            ],
+            "prefLabel" : {
+               "de" : "Pflege und Erziehung des Patienten, Literatur für Gesundheitsfachberufe"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.2951"
+            ],
+            "prefLabel" : {
+               "en" : "Pharmazeutische Ethik, . . ."
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "XC 2800"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 8200"
+            ],
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Pharmazeutische Ethik, . . ."
+            },
+            "notation" : [
+               "174.2951"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.295895"
+            ],
+            "prefLabel" : {
+               "en" : "Gentherapie Medizinethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 8200"
+            ],
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.295895"
+            ],
+            "prefLabel" : {
+               "en" : "Gentherapie Medizinethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Methodik, Arbeitsmethoden, Nachweise, (einschließlich Apparate, Instrumente, Einrichtung)"
+            },
+            "notation" : [
+               "XC 2811"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Gentherapie Medizinethik"
+            },
+            "notation" : [
+               "174.295895"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.296042"
+            ],
+            "prefLabel" : {
+               "en" : "Genetische Störungen Menschen Medizinethik, . . ."
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.296042"
+            ],
+            "prefLabel" : {
+               "en" : "Genetische Störungen Menschen Medizinethik, . . ."
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "XC 2800"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Psychiatrie Medizinethik"
+            },
+            "notation" : [
+               "174.29689"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2893"
+            ],
+            "prefLabel" : {
+               "de" : "Neurologie, Psychiatrie und Psychotherapie, Medizinische Psychologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Psychiatrie Medizinethik"
+            },
+            "notation" : [
+               "174.29689"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Psychiatrie Medizinethik"
+            },
+            "notation" : [
+               "174.29689"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Komplexe Untersuchungen, Querschnittsfragen"
+            },
+            "notation" : [
+               "PJ 2380"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.297954"
+            ],
+            "prefLabel" : {
+               "en" : "Organtransplantationen Medizinethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.297954"
+            ],
+            "prefLabel" : {
+               "en" : "Organtransplantationen Medizinethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "XC 2800"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Medizin, Biologie"
+            },
+            "notation" : [
+               "BK 8200"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.297954"
+            ],
+            "prefLabel" : {
+               "en" : "Organtransplantationen Medizinethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.297954"
+            ],
+            "prefLabel" : {
+               "en" : "Organtransplantationen Medizinethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PJ 2320"
+            ],
+            "prefLabel" : {
+               "de" : "Transplantation, Organtransplantation, Organspende, Sektion, Transfusionsrecht"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)"
+            },
+            "notation" : [
+               "BK 6200"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Organtransplantationen Medizinethik"
+            },
+            "notation" : [
+               "174.297954"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2898"
+            ],
+            "prefLabel" : {
+               "de" : "Kinderheilkunde"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Pädiatrie Medizinethik"
+            },
+            "notation" : [
+               "174.29892"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.29892"
+            ],
+            "prefLabel" : {
+               "en" : "Pädiatrie Medizinethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7264"
+            ],
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7600"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.3"
+            ],
+            "prefLabel" : {
+               "en" : "Juristische Berufe"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Juristische Berufe"
+            },
+            "notation" : [
+               "174.3"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Sittlichkeit, Ethik, Moral, Gewissen"
+            },
+            "notation" : [
+               "PI 3580"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.30973"
+            ],
+            "prefLabel" : {
+               "en" : "Richter Berufsethik USA, . . ."
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "PU 5310"
+            ],
+            "prefLabel" : {
+               "de" : "Rechtsphilosophie - AUS"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Richter Berufsethik USA, . . ."
+            },
+            "notation" : [
+               "174.30973"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Rechtsphilosophie"
+            },
+            "notation" : [
+               "CC 7600"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.4"
+            ],
+            "prefLabel" : {
+               "en" : "Wirtschaftsethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wirtschaftsethik"
+            },
+            "notation" : [
+               "CC 7262"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Glücksspielindustrie"
+            },
+            "notation" : [
+               "174.6"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wirtschaftsethik"
+            },
+            "notation" : [
+               "CC 7262"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ethik"
+            },
+            "notation" : [
+               "AP 13625"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.907"
+            ],
+            "prefLabel" : {
+               "en" : "Journalisten Berufsethik, . . ."
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Journalisten Berufsethik, . . ."
+            },
+            "notation" : [
+               "174.907"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "AP 23600"
+            ],
+            "prefLabel" : {
+               "de" : "Ethik, Moral"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Bioethik, . . ."
+            },
+            "notation" : [
+               "174.957"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Bioethik, . . ."
+            },
+            "notation" : [
+               "174.957"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)"
+            },
+            "notation" : [
+               "BK 6200"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Sportler Berufsethik"
+            },
+            "notation" : [
+               "174.9796"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)"
+            },
+            "notation" : [
+               "CC 7260 - CC 7267"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "ZX 7070 - ZX 7079"
+            ],
+            "prefLabel" : {
+               "de" : "Ethik im Sport; Fairness\n175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 7260 bis CC 7267;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)\n175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;AP 13625;Ethik\n175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;BK 7600;Ethik der Inforamtionsmedien\n175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 800 bis CC 8300;Geschichts- und Kulturphilosophie\n175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 8400;Medienphilosophie\n176;Sexual- und Reproduktionsethik;CC 7264;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)\n176;Sexual- und Reproduktionsethik;PJ 2280;Forschung am Menschen (u.a. Reproduktionsmedizin, Genforschung und -technologie den Menschen betreffend)\n176;Sexual- und Reproduktionsethik;XC 2895;Gynäkologie, Geburtshilfe\n176;Sexual- und Reproduktionsethik;BK 6400 bis BK 6900;Verantwortung für Ehe und Geschlechtsleben\n176.5;Prostitution;CC 7260;Bio- und Medizinethik\n176.5;Prostitution;MS 2880 ;Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)\n176.5;Prostitution;PH 8820;\"Gewalt / Sexualverhalten; Vergewaltigung, Sexueller Miábrauch, Sexuelle Nötigung; Kind / Sexueller Miábrauch; Pornographie; Prostitution; Zuhälterei; Abweichendes Sexualverhalten"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "174.9796"
+            ],
+            "prefLabel" : {
+               "en" : "Sportler Berufsethik"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "176.7"
+            ],
+            "prefLabel" : {
+               "en" : "Obszönität und Pornografie"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)"
+            },
+            "notation" : [
+               "MS 2880"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Obszönität und Pornografie"
+            },
+            "notation" : [
+               "176.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7250"
+            ],
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Obszönität und Pornografie in der Literatur"
+            },
+            "notation" : [
+               "176.8"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Obszönität und Pornografie in der Literatur"
+            },
+            "notation" : [
+               "176.8"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Pornographie"
+            },
+            "notation" : [
+               "EC 8735"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Ethik sozialer Beziehungen"
+            },
+            "notation" : [
+               "177"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Ethik sozialer Beziehungen"
+            },
+            "notation" : [
+               "177"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177"
+            ],
+            "prefLabel" : {
+               "en" : "Ethik sozialer Beziehungen"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gesellschaftsphilosophie"
+            },
+            "notation" : [
+               "CC 7700"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)"
+            },
+            "notation" : [
+               "BK 2110"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Benehmen, Gastfreundlichkeit, Höflichkeit"
+            },
+            "notation" : [
+               "177.1"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.1"
+            ],
+            "prefLabel" : {
+               "en" : "Benehmen, Gastfreundlichkeit, Höflichkeit"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 6400 - CC 6600"
+            ],
+            "prefLabel" : {
+               "de" : "Philosophische Anthropologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Benehmen, Gastfreundlichkeit, Höflichkeit"
+            },
+            "notation" : [
+               "177.1"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "LB 60000 - LB 60730"
+            ],
+            "prefLabel" : {
+               "de" : "Philosophische Anthropologie"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Benehmen, Gastfreundlichkeit, Höflichkeit"
+            },
+            "notation" : [
+               "177.1"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Soziale Normen, Leitbilder, Sanktionen, Institutionen"
+            },
+            "notation" : [
+               "MR 7300"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 4600 - CC 4800"
+            ],
+            "prefLabel" : {
+               "de" : "Sprachphilosophie"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konversation"
+            },
+            "notation" : [
+               "177.2"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MR 6600"
+            ],
+            "prefLabel" : {
+               "de" : "Theorie der sozialen Interaktion, Kommunikation, Konformität"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.2"
+            ],
+            "prefLabel" : {
+               "en" : "Konversation"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 7300"
+            ],
+            "prefLabel" : {
+               "de" : "Wahrhaftigkeit, Lge"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei"
+            },
+            "notation" : [
+               "177.3"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.3"
+            ],
+            "prefLabel" : {
+               "en" : "Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei"
+            },
+            "notation" : [
+               "177.3"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CV 3500"
+            ],
+            "prefLabel" : {
+               "de" : "Interpersonelle Kommunikation (verbale und nonverbale Kommunikation)"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Menschenbild (Natur und Person, Einzelwesen und Gemeinschaftswesen)"
+            },
+            "notation" : [
+               "BK 2003"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Diskriminierende Handlungen und Sklaverei"
+            },
+            "notation" : [
+               "177.5"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Freiheit, Wille"
+            },
+            "notation" : [
+               "CC 7220"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Diskriminierende Handlungen und Sklaverei"
+            },
+            "notation" : [
+               "177.5"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.5"
+            ],
+            "prefLabel" : {
+               "en" : "Diskriminierende Handlungen und Sklaverei"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gleichbehandlungsgrundsatz"
+            },
+            "notation" : [
+               "PL 406"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "NW 8295"
+            ],
+            "prefLabel" : {
+               "de" : "Sklaverei"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.5"
+            ],
+            "prefLabel" : {
+               "en" : "Diskriminierende Handlungen und Sklaverei"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft und Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.6"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft und Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.6"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Freund und Feind"
+            },
+            "notation" : [
+               "BK 4100"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2003"
+            ],
+            "prefLabel" : {
+               "de" : "Menschenbild"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft und Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.6"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Der menschlich-sittliche-Akt"
+            },
+            "notation" : [
+               "BK 2005"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft und Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.6"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.6"
+            ],
+            "prefLabel" : {
+               "en" : "Freundschaft und Beziehungsanbahnung"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt"
+            },
+            "notation" : [
+               "BK 2110"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft"
+            },
+            "notation" : [
+               "177.62"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Freund und Feind"
+            },
+            "notation" : [
+               "BK 4100"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft"
+            },
+            "notation" : [
+               "177.62"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Menschenbild"
+            },
+            "notation" : [
+               "BK 2003"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft"
+            },
+            "notation" : [
+               "177.62"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Freundschaft"
+            },
+            "notation" : [
+               "177.62"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2005"
+            ],
+            "prefLabel" : {
+               "de" : "Der menschlich-sittliche-Akt"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.62"
+            ],
+            "prefLabel" : {
+               "en" : "Freundschaft"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2110"
+            ],
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.65"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.65"
+            ],
+            "prefLabel" : {
+               "en" : "Beziehungsanbahnung"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Menschenbild"
+            },
+            "notation" : [
+               "BK 2003"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.65"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Der menschlich-sittliche-Akt"
+            },
+            "notation" : [
+               "BK 2005"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Das handelnde Subjekt"
+            },
+            "notation" : [
+               "BK 2110"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.65"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Beziehungsanbahnung"
+            },
+            "notation" : [
+               "177.65"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 4100"
+            ],
+            "prefLabel" : {
+               "de" : "Freund und Feind"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Liebe"
+            },
+            "notation" : [
+               "177.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Nächstenliebe, Selbstliebe (Ich-Du-Wir)"
+            },
+            "notation" : [
+               "BK 4000"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6500"
+            ],
+            "prefLabel" : {
+               "de" : "Geschlechtliche Liebe (Sexus, Eros, Philia, Agape)"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "177.7"
+            ],
+            "prefLabel" : {
+               "en" : "Liebe"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7262"
+            ],
+            "prefLabel" : {
+               "de" : "Wirtschaftsethik"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178"
+            ],
+            "prefLabel" : {
+               "en" : "Konsumethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178"
+            ],
+            "prefLabel" : {
+               "en" : "Konsumethik"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BL 8130"
+            ],
+            "prefLabel" : {
+               "de" : "Konsumfreiheit"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178"
+            ],
+            "prefLabel" : {
+               "en" : "Konsumethik"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Wertphilosophie, Sinnfrage"
+            },
+            "notation" : [
+               "CC 7250"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7750"
+            ],
+            "prefLabel" : {
+               "de" : "Soziologie, Ökonomie"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konsumethik"
+            },
+            "notation" : [
+               "178"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178"
+            ],
+            "prefLabel" : {
+               "en" : "Konsumethik"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7700"
+            ],
+            "prefLabel" : {
+               "de" : "Gesellschaftsphilosophie"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7260"
+            ],
+            "prefLabel" : {
+               "de" : "Angewandte Ethik - Allgemeines"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178.1"
+            ],
+            "prefLabel" : {
+               "en" : "Konsum von alkoholischen Getränken"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178.1"
+            ],
+            "prefLabel" : {
+               "en" : "Konsum von alkoholischen Getränken"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Allgemeines"
+            },
+            "notation" : [
+               "YH 2900"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Tabakkonsum"
+            },
+            "notation" : [
+               "178.7"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Angewandte Ethik - Allgemeines"
+            },
+            "notation" : [
+               "CC 7260"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Konsum von Betäubungsmitteln"
+            },
+            "notation" : [
+               "178.8"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Suchtgefährdete"
+            },
+            "notation" : [
+               "CW 6940"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178.8"
+            ],
+            "prefLabel" : {
+               "en" : "Konsum von Betäubungsmitteln"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MS 6410"
+            ],
+            "prefLabel" : {
+               "de" : "Sucht, Selbstmord, Tabus, Alkoholismus"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "178.8"
+            ],
+            "prefLabel" : {
+               "en" : "Konsum von Betäubungsmitteln"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7260"
+            ],
+            "prefLabel" : {
+               "de" : "Angewandte Ethik - Allgemeines"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.1"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt vor dem Leben und der Natur"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7267"
+            ],
+            "prefLabel" : {
+               "de" : "Umweltethik"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Umweltethik"
+            },
+            "notation" : [
+               "AR 14350"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt vor dem Leben und der Natur"
+            },
+            "notation" : [
+               "179.1"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.1"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt vor dem Leben und der Natur"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Umweltethik"
+            },
+            "notation" : [
+               "BK 8250"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt vor dem Leben und der Natur"
+            },
+            "notation" : [
+               "179.1"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "RB 10915"
+            ],
+            "prefLabel" : {
+               "de" : "Naturschutz, Landschaftspflege, Landschaftsgestaltung, Umweltschutz"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 6200"
+            ],
+            "prefLabel" : {
+               "de" : "Naturphilosophie"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.1"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt vor dem Leben und der Natur"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Behandlung von Kindern"
+            },
+            "notation" : [
+               "179.2"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 5100"
+            ],
+            "prefLabel" : {
+               "de" : "Familie (Eltern, Kinder, Verwandte)"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.2"
+            ],
+            "prefLabel" : {
+               "en" : "Behandlung von Kindern"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6750"
+            ],
+            "prefLabel" : {
+               "de" : "Christliche Eheführung, Familie, Eltern und Kinder"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Behandlung von Kindern"
+            },
+            "notation" : [
+               "179.2"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Soziale und moralische Entwicklung"
+            },
+            "notation" : [
+               "CQ 5100"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 7266"
+            ],
+            "prefLabel" : {
+               "de" : "Tierschutzethik, Tierrecht"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.3"
+            ],
+            "prefLabel" : {
+               "en" : "Behandlung von Tieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Behandlung von Tieren"
+            },
+            "notation" : [
+               "179.3"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)"
+            },
+            "notation" : [
+               "BK 6200"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.3"
+            ],
+            "prefLabel" : {
+               "en" : "Behandlung von Tieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Jagd und Ehtik"
+            },
+            "notation" : [
+               "ZC 93920"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "International, Allgemeines"
+            },
+            "notation" : [
+               "ZD 16300"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Behandlung von Tieren"
+            },
+            "notation" : [
+               "179.3"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.4"
+            ],
+            "prefLabel" : {
+               "en" : "Experimente mit Tieren"
+            }
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6200"
+            ],
+            "prefLabel" : {
+               "de" : "Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)"
+            }
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.4"
+            ],
+            "prefLabel" : {
+               "en" : "Experimente mit Tieren"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "XC 2800 - XC 2899"
+            ],
+            "prefLabel" : {
+               "de" : "Arzt und Patient, Medizinische Ethik, Vivisektion"
+            }
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Blasphemie, Schimpfwörter, Obszönität in der gesprochenen Sprache"
+            },
+            "notation" : [
+               "179.5"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 2280"
+            ],
+            "prefLabel" : {
+               "de" : "Einzellaster"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Ausdruckspsychologie, Graphologie, zeichnerischer Ausdruck"
+            },
+            "notation" : [
+               "CS 4500"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.5"
+            ],
+            "prefLabel" : {
+               "en" : "Blasphemie, Schimpfwörter, Obszönität in der gesprochenen Sprache"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Einzeltugenden"
+            },
+            "notation" : [
+               "BK 2270"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.6"
+            ],
+            "prefLabel" : {
+               "en" : "Mut und Feigheit"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.6"
+            ],
+            "prefLabel" : {
+               "en" : "Mut und Feigheit"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CP 3700"
+            ],
+            "prefLabel" : {
+               "de" : "Angst"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "CC 72250"
+            ],
+            "prefLabel" : {
+               "de" : "Freiheit, Wille"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.6"
+            ],
+            "prefLabel" : {
+               "en" : "Mut und Feigheit"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Tugend allgemein"
+            },
+            "notation" : [
+               "BK 2250"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Mut und Feigheit"
+            },
+            "notation" : [
+               "179.6"
+            ]
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Gesundheit, Krankheit, Tod, Schmerz"
+            },
+            "notation" : [
+               "BK 6100"
+            ]
+         }
+      ]
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            },
+            "notation" : [
+               "179.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            },
+            "notation" : [
+               "179.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Suizid (Ursachen, Gefährdete, Verhütung ...)"
+            },
+            "notation" : [
+               "CW 6920"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Selbstmord, Sterbehilfe (Euthanasie), Recht auf Leben"
+            },
+            "notation" : [
+               "PJ 2300"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ]
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            },
+            "notation" : [
+               "179.7"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "MS 6300"
+            ],
+            "prefLabel" : {
+               "de" : "Sterben, Tod"
+            }
+         }
+      ]
+   }
+}
+{
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            },
+            "notation" : [
+               "179.7"
+            ]
+         }
+      ]
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6140"
+            ],
+            "prefLabel" : {
+               "de" : "Selbstmord"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6120"
+            ],
+            "prefLabel" : {
+               "de" : "Lebensbeginn und Lebensende (Todeszeitpunkt)"
+            }
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   }
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6130"
+            ],
+            "prefLabel" : {
+               "de" : "Angriff auf das Leben (Mord, Selbstmord, Euthanasie)"
+            }
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BL 9960"
+            ],
+            "prefLabel" : {
+               "de" : "Spezielle Fragen, Gewaltloser Widerstand, Revolution, Terrorismus"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            },
+            "notation" : [
+               "179.7"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Terror, Gewalt, Mord"
+            },
+            "notation" : [
+               "MD 8920"
+            ]
+         }
+      ]
+   }
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "uri" : "http://bartoc.org/en/node/241",
+      "notation" : "DDC"
+   },
+   "from" : {
+      "members" : [
+         {
+            "notation" : [
+               "179.7"
+            ],
+            "prefLabel" : {
+               "en" : "Respekt und Respektlosigkeit vor menschlichem Leben"
+            }
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Euthanasie"
+            },
+            "notation" : [
+               "BK 6150"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "notation" : [
+               "BK 6135"
+            ],
+            "prefLabel" : {
+               "de" : "Schwangerschaftsabbruch"
+            }
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Schwangerschaftsabbruch"
+            },
+            "notation" : [
+               "179.76"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Schwangerschaftsabbruch"
+            },
+            "notation" : [
+               "179.76"
+            ]
+         }
+      ]
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Bio- und Medizinethik"
+            },
+            "notation" : [
+               "CC 7264"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Einzellaster"
+            },
+            "notation" : [
+               "BK 2280"
+            ]
+         }
+      ]
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Laster, Fehler, Mängel"
+            },
+            "notation" : [
+               "179.8"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "uri" : "http://bartoc.org/en/node/533",
+      "notation" : "RVK"
+   },
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ]
+}
+{
+   "creator" : [
+      {
+         "uri" : "http://d-nb.info/gnd/10043261-X",
+         "prefLabel" : {
+            "de" : "VZG"
+         }
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Tugenden"
+            },
+            "notation" : [
+               "179.9"
+            ]
+         }
+      ]
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Einzeltugenden"
+            },
+            "notation" : [
+               "BK 2270"
+            ]
+         }
+      ]
+   }
+}
+{
+   "to" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "de" : "Toleranz"
+            },
+            "notation" : [
+               "MD 4520"
+            ]
+         }
+      ]
+   },
+   "creator" : [
+      {
+         "prefLabel" : {
+            "de" : "VZG"
+         },
+         "uri" : "http://d-nb.info/gnd/10043261-X"
+      }
+   ],
+   "fromScheme" : {
+      "notation" : "DDC",
+      "uri" : "http://bartoc.org/en/node/241"
+   },
+   "toScheme" : {
+      "notation" : "RVK",
+      "uri" : "http://bartoc.org/en/node/533"
+   },
+   "from" : {
+      "members" : [
+         {
+            "prefLabel" : {
+               "en" : "Tugenden"
+            },
+            "notation" : [
+               "179.9"
+            ]
+         }
+      ]
+   }
+}

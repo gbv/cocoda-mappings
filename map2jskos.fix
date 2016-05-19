@@ -1,30 +1,57 @@
-# Fix-Skript zur Konvertierung von DDC- und RVK-Mappings (bidirektional)
-# Befehl DDC zu RVK: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <ddc100.xls >ddc100.json
-# Befehl RVK zu: catmandu convert XLS to JSON --pretty 1 --fix map2jskosrvkddc.fix <rvkcacz.xls >rvkcacz.json 
+###template:
+#trim(DDCnotation)
+#trim(RVKnotation)
 
-# Leerzeichen am Anfang und Ende entfernen
-trim(DDCnotation)
-trim(RVKnotation)
+#add_field(creator,"VZG")
 
-# Ausgangs- und Ziel-KOS (URI)
-#add_field( sourceScheme, "http://d-nb.info/gnd/4449787-8" )
-#add_field( targetScheme, "http://dewey.info/scheme/edition/e22/" )
+#add_field( from.inScheme.0, "http://dewey.info/scheme/edition/e22/" )
+#add_field( to.inScheme.0, "http://d-nb.info/gnd/4449787-8" )
 
-add_field( sourceScheme, "http://dewey.info/scheme/edition/e22/" )
-add_field( targetScheme, "http://d-nb.info/gnd/4449787-8" )
+#move_field( DDCnotation, from.members.0.notation.0 )
+#move_field( DDCpreflabel, from.members.0.preflabel.0 )
 
-# DDC (mit prefLabel)
-move_field( DDCnotation, from.conceptSet.0.notation.0 )
-move_field( DDCprefLabel, from.conceptSet.0.prefLabel.en)
+###templat - the end
 
-# RVK
-move_field( RVKnotation, to.conceptSet.0.notation.0 )
-
-move_field( RVKprefLabel, from.conceptSet.0.prefLabel.de)
+###Work in progress:
 
 
-# Metadaten des Mappings
-add_field(creator,"VZG")
- 
+trim(sourcenotation);
+trim(targetnotation);
+trim(sourceprefLabel);
+trim(targetprefLabel);
 
+## Schemes
+
+## RVK http://bartoc.org/en/node/533
+## GND http://bartoc.org/en/node/430
+## BK http://bartoc.org/en/node/745
+## DDC http://bartoc.org/en/node/241
+
+## Creators
+
+## SUB Hamburg http://d-nb.info/gnd/44643-9
+## Universitäts- und Landesbibliothek Tirol http://d-nb.info/gnd/16021004-5
+## VZG http://d-nb.info/gnd/10043261-X
+## HdM Stuttgart http://d-nb.info/gnd/5566554-8
+## UB Regensburg    http://d-nb.info/gnd/2024954-8
+
+add_field( fromScheme.uri, "http://bartoc.org/en/node/533" );
+add_field( fromScheme.notation, "RVK" );
+
+add_field( toScheme.uri, "http://bartoc.org/en/node/430" );
+add_field( toScheme.notation, "GND" );
+
+move_field( sourcenotation, from.members.0.notation.0 );
+if_exists(sourcepreflabel);
+  move_field( sourcepreflabel, from.members.0.prefLabel.de);
+end();
+
+move_field( targetnotation, to.members.0.notation.0 );
+if_exists(targetpreflabel);
+  move_field( targetpreflabel, to.members.0.prefLabel.de);
+end();
+
+add_field(creator.0.uri ,"http://d-nb.info/gnd/2024954-8");
+add_field(creator.0.prefLabel.de ,"UB Regensburg");
+#move_field(mappingType.0);
 
