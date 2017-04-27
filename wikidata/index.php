@@ -2,9 +2,9 @@
 
 $BASE = '../..';
 $SOURCES = 'https://github.com/gbv/cocoda-mappings/tree/master/wikidata';
-$LICENSE = '<img src="cc-zero.svg">';
+$LICENSE = '<img src="../cc-zero.svg">';
 
-include 'header.php';
+include '../header.php';
 
 # TODO: use JSKOS concordance object instead
 $mappings = [];
@@ -31,7 +31,6 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
 }
 
 ?>
-<h2>Publications</h2>
 <h3>Wikidata Mappings</h3>
 <p>
   This directory contains mappings between Wikidata and other knowledge organization systems.
@@ -71,7 +70,9 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   </tbody>
   <tfoot>
     <tr>
-      <td colspan=3></td>
+      <td class='text-center'><?=count($mappings)?></td>
+      <td></td>
+      <td></td>
       <td class='text-right'><?=$sum?></td>
       <th>total</th>
     </tr>
@@ -90,4 +91,4 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   to Wikidata.
 </p>
 
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>

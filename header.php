@@ -12,9 +12,13 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="<?=$BASE?>/js/angular.min.js"></script>
+    <script src="<?=$BASE?>/concordances/conc.js"></script>
+    <script src="<?=$BASE?>/concordances/lib/ng-skos/ng-skos.min.js"></script>
+    <link rel="stylesheet" href="<?=$BASE?>/concordances/lib/ng-skos/ng-skos.css">
+    <link rel="stylesheet" href="<?=$BASE?>/concordances/cocoda.css">
   </head>
   <body>
-
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -31,13 +35,13 @@
           <ul class="nav navbar-nav">
             <li><a href="<?=$BASE?>/">About</a></li>
             <li><a href="<?=$BASE?>/terminologies/">Terminologies</a></li>
-            <li><a href="<?=$BASE?>/concordances/">Concordances</a></li>
+            <li class="active"><a href="<?=$BASE?>/concordances/">Concordances</a></li>
             <li><a href="<?=$BASE?>/cocoda/">Cocoda prototype</a></li>
-            <li class="active"><a href="../">Publications</a></li>
-	    <li><a href="<?=$BASE?>/contact/">Contact</a></li>
+            <li><a href="<?=$BASE?>/">Publications</a></li>
+   	        <li><a href="<?=$BASE?>/contact/">Contact</a></li>
           </ul>
         </div>
       </div>
     </nav>
-
-    <div class="container">
+    <div class="container" ng-app="Concordance">
+    <h2>Concordances</h2>
