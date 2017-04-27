@@ -1,7 +1,7 @@
 <?php 
 
 $BASE = '../..';
-# $SOURCES = 'https://github.com/gbv/...';
+$SOURCES = 'https://github.com/gbv/cocoda-mappings/tree/master/wikidata';
 $LICENSE = '<img src="cc-zero.svg">';
 
 include 'header.php';
