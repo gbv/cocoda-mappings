@@ -1,0 +1,1071 @@
+ddc;label;rvk
+1;Philosophy & psychology;CA-CK
+1;;CL-CZ
+10;Philosophy;CL-CZ
+101;Theory of philosophy;CC 3000 - CC 3300
+101;;CC 3400 - CC 3900
+101;;CC 4000 - CC 4500
+102;Miscellany of philosophy;CC 5300 - CC 5680
+102;;CC 1000
+102;;CC 1100
+103;Dictionaries, encyclopedias, concordances of philosophy;CB 3500 - CB
+03;;BF 1000 - BF 1310
+104;[Unassigned]
+105;Serial publications of philosophy;CA 1000
+105;;CB 1200 - CB 1600
+105;;CB 4050
+105;;BF 1649a
+105;;BF 1650 - BF 1850
+105;;BF 1900 - BF 1925
+105;;BF 1950
+106;Organizations and management of philosophy;CB 4500 - CB 4900
+107;Education, research, related topics of philosophy;BF 1350
+107;;BF 1360
+107;;CC 3800
+108;Groups of people;
+109;History and collected biography;BF 1310
+109;;BF 1400 - BF 1950
+109.2;Collected biography
+109.22;Collected biography
+110;Metaphysics;BF 8450
+110;;CC 5800 - CC 6020
+111;Ontology;CC 5800 - CC 6020
+111;;BF 8650
+111.1;Existence, essence, substance, accidents;CC 6020
+111.1;;BF 8280
+111.2;Universals;CC 5800
+111.5;Nonbeing, nothingness;CC 5800 - CC 6020
+111.6;Finite and infinite;CC 5800 - CC 6020
+111.6;;BF 8650
+111.8;Properties of being;CC 6020
+111.8;;BF 8280
+111.82;Unity;
+111.82;111/.82
+111.84;Good and evil;CC 5680
+111.84;;CC 7000 - CC 7267
+111.84;;BK 2015
+111.84;;BK 2155
+111.85;Beauty;BF 8000
+111.85;;CC 6700 - CC 6900
+112;[Unassigned]
+113;Cosmology (Philosophy of nature);CC 6100 - CC 6350
+113.8;Philosophy of life;CI 1110
+114;Space;CC 6320
+115;Time;CC 6320
+116;Change;CC 8260
+116;;CC 6300
+116;;CC 6320
+116;;BL 3500 - BL 3530
+117;Structure;CC 6300
+118;Force and energy;CC 6100 - CC 6350
+119;Number and quantity;CC 2600
+120;Epistemology, causation, humankind;CC 5300 - CC 5680
+121;Epistemology (Theory of knowledge);CC 4000 - CC 4500
+121;;BF 8150
+121.2;Possibility and limits of knowledge;CC 4400
+121.2;;CC 6000
+121.2;;BF 8150
+121.3;Origin, sources, means of knowledge;CC 4000
+121.3;;CC 5300
+121.34;Perception;CC 6600
+121.34;;CC 6960
+121.34;;CC 4400
+121.34;;CC 5500
+121.34;CP 2000
+121.35;Sensation;CC 6900
+121.35;;CC 4400
+121.35;;CP 2000
+121.35;;CC 5500
+121.4;Structure of knowledge;CC 5500
+121.4;;TB 6200
+121.5;Doubt and denial;CC 6400 - CC 6600
+121.5;;CC 4400
+121.6;Nature of inquiry;CC 3000 - CC 3300
+121.6;;CC 4400
+121.6;;CC 4500
+121.6;;CC 2500
+121.63;Certainty and probability;CC 3300
+121.63;;CC 6300
+121.63;;SG 700
+121.63;;SK 800
+121.65;Evidence and criteria;CC 2600
+121.65;;CC 3200
+121.65;;CC 4500
+121.68;Meaning, interpretation, hermeneutics;CC 4400
+121.68;;CC 4800
+121.68;;ER 600
+121.68;;BG 2000
+121.686;Philosophical hermeneutics;CC 3800
+121.686;;BG 2130
+121.686;;CC 6900
+121.7;Faith;BG 4750 - BG 6640
+121.7;;CC 8500
+121.8;Worth and theory of values (Axiology);CC 7240
+121.8;;CC 7250
+121.8;;CC 6700 - CC 6900
+122;Causation;CC 2500
+122;;CC 5500
+123;Determinism and indeterminism;CC 7220
+123;;CC 6100 - CC 6350
+123.3;Chance;CC 6600
+123.3;;CC 3300
+123.3;;QH 170
+123.3;;SK 800
+123.5;Freedom;CC 7220
+123.5;;CC 7700
+123.5;;BL 6300
+123.7;Necessity;CC 2500
+124;Teleology;CC 6300
+124;;CC 1200
+125;[Unassigned]
+126;The self;CC 4400
+116;;CC 5500
+126;;CC 6600
+127;The unconscious and the subconscious;CC 6600
+127;;CC 3600
+127;;CC 4400
+127;;CU 2000
+128;Humankind;CC 5500
+128;;CC 6400 - CC 6600
+128;;CR 7000
+128.1;Soul;BE 2460
+128.1;;BF 8050
+128.1;;CC 6000
+128.1;;CC 6600
+128.2;Mind;CC 5300 - CC 5680
+128.2;;CC 6400 - CC 6600
+128.2;;BF 8050
+128.3;Attributes and faculties;CC 5300 - CC 5500
+128.3;;CC 6400 - CC 6600
+128.33;Reason and rationality;CC 2000 - CC 2600
+128.33;;CC 4000 - CC 4500
+128.37;Emotion;CC 6400 - CC 6600
+128.37;;CP 3200
+128.4;Human action and experience;CC 7300 - CC 7950
+128.4;;CC 6400 - CC 6600
+128.4;;CC 6960
+128.46;Love;CC 6000
+128.46;;CC 6400 - CC 6600
+128.46;;CC 7200
+128.5;Human death;CC 6600
+128.5;;CC 4400
+128.5;;CQ 7600
+128.6;Body;CC 6600
+128.6;;BF 8050
+128.6;;CC 4400
+129;Origin and destiny of individual souls;CC 6600
+129;;CC 8480 - CC 8500
+129;;BF 8050
+130;Parapsychology and occultism;CP 9400
+130;;BE 9130
+130;;BM 9440
+130;;BM 9460
+130.3;Occultism--dictionaries,;CN 1500
+130.92;Occultists, ...;BM 9440
+131;Parapsychological and occult methods for achieving well-being, happiness, success;CU 8580
+131;;CP 9400
+131;;CC 6600
+133;Specific topics in parapsychology and occultism;CP 9400
+133;;CP 9500
+133.1;Apparitions;BM 9440
+133.12;Haunted places;BM 9440
+133.122;Specific types of haunted places;BM 9440
+133.14;Specific kinds of apparitions;BM 8420
+133.142;Poltergeists;LC 33000 - LC 33730
+133.142;;BE 2395
+133.2;Parapsychological and occult aspects of specific things;CC 6600
+133.2;;CZ 1000
+133.25;Natural things;CQ
+133.25;;BM 9440
+133.3;Divinatory arts;BM 8000 - BM 9550
+133.32;Fortune-telling by crystals and stones, dowsing, fortune-telling by cards, tea leaves and coffee grounds, oracles and sibyls;BE 2540
+133.32;;LC 52000 - LC 52730
+133.322;Fortune-telling by crystals and stones;BE 2540
+133.323;Dowsing;BE 2540
+133.324;Fortune-telling by cards, tea leaves and coffee grounds, oracles and sibyls;BE 2540
+133.3242;Fortune-telling by cards (Cartomancy);BE 2540
+133.32424;Fortune-telling by tarot;BE 2540
+133.3244;Fortune-telling by tea leaves and coffee grounds;BE 2540
+133.3248;Fortune-telling by oracles and sibyls;BE 2540
+133.3248;LC 4000
+133.33;Symbolic divination;BE 2540
+133.33;LC 52000
+133.333;Geomancy;LC 52000
+133.333;BE 9190
+133.3337;Feng shui;
+133.334;Divinatory signs and omens;LC 40000 - LC 40730
+133.334;;LC 52000 - LC 52730
+133.334;;BE 2540
+133.335;Numerology;SG 700
+133.335;BE 2650
+133.3354;Fortune-telling by numbers;BE 2650
+133.3354;;LC 52000 - LC 59730
+133.3359;Symbolism of specific numbers;BE 2650
+133.4;Demonology and witchcraft;BE 2560 - BE 2564
+133.4;;BK 2155
+133.42;Demnology;BK 2155
+133.422;Satanism;BK 2155
+133.422;;BE 9130
+133.423;Evil spirits;BK 2155
+133.425;The evil eye;BK 2155
+133.426;Demoniac possession;BK 2155
+133.427;Exorcism of demons;BK 2155
+133.43;Magic and witchcraft;BE 2650 - BE 2564
+133.43092;Cunning folk, ...;LC 41000
+133.44;Spells, curses, charms;BE 2560 - BE 2564
+133.44;;LC 40000
+133.442;Love spells and charms;BE 2560 - BE 2564
+133.443;Good luck spells and charms;BE 2560 - BE 2564
+133.446;Therapeutic spells and charms;BE 2560 - BE 2564
+133.5;Astrology;BE 2340 - BE 2344
+133.50112;Forecasting and forecasts;AK 26800
+133.50112;BM 9330
+133.50112;QP 325
+133.50112;QN 200
+133.50882;Specific religious groups;BE 9200 - BE 9205
+133.50882;BG 9600 - BG 9720
+133.5089;Specific ethnic and national groups;BE 5000 - BE 5700
+133.5092;Astrologers, ...;BE 2340
+133.52;Signs of the zodiac;BE 2340
+133.52-133.58;Specific aspects of western astrology;BE 2340
+133.526;First six signs;BE 2340
+133.526;BE 9120
+133.5262;Aries;BE 2340
+133.5262;BE 9120
+133.5263;Taurus;BE 2340
+133.5263;BE 9120
+133.5264;Gemini;BE 2340
+133.5264;BE 9120
+133.5265;Cancer;BE 2340
+133.5265;BE 9120
+133.5266;Leo;BE 2340
+133.5266;BE 9120
+133.5267;Virgo;BE 2340
+133.5267;BE 9120
+133.527;Second six signs;BE 2340
+133.527;BE 9120
+133.5272;Libra;BE 2340
+133.5272;BE 9120
+133.5273;Scorpio;BE 2340
+133.5273;BE 9120
+133.5274;Sagittarius;BE 2340
+133.5274;BE 9120
+133.5275;Capricorn;BE 2340
+133.5275;BE 9120
+133.5276;Aquarius;BE 2340
+133.5276;BE 9120
+133.5277;Pisces;BE 2340
+133.5277;BE 9120
+133.53;Planets, sun, moon;BE 2340
+133.53;BE 9190
+133.53042;Houses;BE 9190
+133.53044;Aspects;BE 9190
+133.531;Sun;BE 2340
+133.532;Moon;BE 2340
+133.533;Mercury;BE 2340
+133.534;Venus;BE 2340
+133.535;Mars;BE 2340
+133.536;Jupiter;BE 2340
+133.537;Saturn;BE 2340
+133.538;Uranus;BE 2340
+133.539;Neptune, Pluto, asteroids, related bodies;BE 2340
+133.5391;Neptune;BE 2340
+133.5392;Pluto;BE 2340
+133.5398;Asteroids;BE 2340
+133.54;Horoscopes;BE 2340
+133.5404;Special topics of horoscopes;BE 2340
+133.54042;Daily guides and birthday books;BE 2340
+133.542;Casting horoscopes;BE 2340
+133.548;Horoscopes of individuals;BE 2340
+133.55;Astrological ephemerides;BE 2340
+133.56;Horary astrology;BE 9190
+133.58;Application of astrology to specific topics;BE 9190
+133.5861;Medical astrology, ...
+133.59;BE 2340
+133.59;BE 9190
+133.592;Types or schools of astrology originating in or associated with a specific area;BE 2340
+133.5945;Zorastrian astrology;BE 7903 - BE 7910
+133.5949514;Taoist astrology, ...;BE 8240
+133.6;Palmistry;CS 4500
+133.6;CP 9400
+133.6;BE 3640
+133.6;BM 9460
+133.6092;Palmists, . ..;BE 2540
+133.6092;LC 52000
+133.8;Psychic phenomena;BE 9130
+133.8;BM 9440
+133.8;BM 9460
+133.82;Telepathy;BM 9460
+133.82;CP 9460
+133.82-133.86;Extrasensory perception;BM 9100
+133.82-133.86;BM 9400
+133.82-133.86;BE 9100
+133.82-133.86;CP 9400
+133.84;BM 9460
+133.84;Clairvoyance;BM 9460
+133.85;CP 9400
+133.85;BM 9460
+133.86;Precognition;BM 9460
+133.86;CP 9400
+133.88;Psychokinesis;CP 9400
+133.89;Animal magnetism, hypnosis, extrasensory perception of animals, aura;CP 9400
+133.89;BM 9400
+133.892;Aura;BM 9470
+133.892;BM 9400
+133.9;Spiritualism;BM 9450
+133.91;Mediumship;BE 2395
+133.91;BE 3670
+133.92;Specific mediumistic phenomena;BM 9440
+133.92;CP 9400
+133.93;Psychic messages;CP 9500
+133.9325;Ouija board
+133.95;Astral projection (Out-of-body experience);BM 9460
+133.95;CP 9400
+135;Dreams and mysteries;BM 9430
+135.3;Dreams;CP 9400
+135.3;CP 9000
+135.4;Rosicrucianism, Hermetism, cabala;
+135.43;Rosicrucianism
+135.43;135/.43
+135.43092;Rosicrucians, ...
+135.43092;135/.43092
+135.45;Hermetism;CD 1600
+135.45;CI 1110
+135.45;BG 2000 - BG 2980
+135.47;Cabala;BD 5850
+135.47;BD 4870
+136;[Unassigned]
+137;Divinatory graphology]CS 4500
+138;Physiognomy;YH 4500
+138;CZ 1000
+139;Phrenology;BG 2500
+14;Philosophical schools of thought;BG 2540
+140;Specific philosophical schools and viewpoints;
+141;Idealism and related systems and doctrines;BG 2540
+141.2;Modern Platonism and Neoplatonism;CD 3950
+141.2;BF 2376
+141.2;CI 1150
+141.3;Transcendentalism;HT 1722
+141.4;Individualism;BL 4740
+141.5;Personalism;BL 4300
+141.6;Romanticism;IB 5250
+141.6;		;IQ 00145
+141.6;		;LH 65780
+141.6;		;MC 6100
+142;Critical philosophy;
+142.3;Kantianism;CF 5000 - CF 5017
+142.3;		;BF 4045 - BF 4046
+142.3;		;DD 7460 - DD 7461
+142.3;		;MC 5450 - MC 5453
+142.7;Phenomenology;CI 1120
+142.78;Existentialism;GM 1550
+142.78;		;BF 1550
+142.78;		;IH 1676
+143;Bergsonism and intuitionism;CI 5500 - CI 5517
+143;				;BF 5190 - BF 5191
+144;Humanism and related systems and doctrines;Bo 5325
+144;				;MC 4100
+144.3;Pragmatism;CI 1110
+144.3;		;BL 4800
+144.5;Instrumentalism;CC 3000 - CC 3300
+144.6;Utilitarianism;MC 6300
+144.6;		;QE 300
+145;Sensationalism;
+146;Naturalism and related systems and doctrines;GM 1660
+146.3;Materialism;MC 5170
+146.32;Dialectical materialism;BF 1460
+146.4;Positivism and related systems;BG 2360
+146.42;Logical positivism (Logical empiricism)(In DDC deutsch: Neopositivismus);CI 1150
+146.44;Empiricism;CI 1150
+146.5 Atomism;CC 3500
+146.5;	;CC 6100 - CC 6350
+146.5;;UB 244
+146.5;;CC 3500
+146.6;;CC 6100 - CC 6350
+146.7;Evolutionismus und Prozessphilosophie;HL 1133
+146.7;					;WH 2100  	
+147;Pantheism and related systems and doctrines;BG 3495
+147;						;BH 4400
+147.3;Monism;BG 3500
+147.4;Dualism and pluralism;BE 3740
+147.4;			;MD 1500
+148;Dogmatism, eclecticism, liberalism, syncretism, traditionalism;LH 67548
+148;		;CC 7920
+148;		;BE 3730
+149;Other philosophical systems and doctrines;CC
+149;					;BF 8000 - BF 9200
+149.1;Conceptualism and nominalism;BN 2610
+149.2;Realism;BK 3350
+149.2;CC 6020
+149.3;Mysticism;BD 4940
+149.5;Optimism;CP 3000
+149.6;Pessimism;CP 3000
+149.7;Rationalism and related systems and doctrines;BG 2390
+149.72;Agnosticism;CC 8480 - CC 8500
+149.72;		;BF 1530
+149.73;Skepticism;BK 2700
+149.8;Nihilism;BK 2800
+149.9;Miscellaneous systems and doctrines
+149.91;Neo-Aristotelianism, neo-scholasticism, neo-Thomism;
+149.94;Linguistic philosophies;BF 1535
+149.94;			;BF 8850
+149.94;			;BV 9200
+149.94;			;CC 4600 - CC 4800
+149.94;			;EG 9020
+149.94;			;ER 600 - ER 640  	
+149.96;Structuralism;BG 2480
+149.97;Structuralism (Poststrukturalismus, Postmoderne);CI 1125
+149.97;	;CI 1125
+149.97;;MR 5450
+15;Psychology
+150;Psychology;CL - CZ Psychologie
+150.1;Philosophy and theory, systems, viewpoints
+150.15195;Psychometrics, ...;QH 254
+150.19;Systems, schools, viewpoints;Keine Treffer
+150.192;Existential, faculty, phenomenological, rational schools;Keine Treffer
+150.193;Functionalism;LH 67556
+150.194;Reductionism;BG 2780
+150.1943;Behaviorism;MB 2440
+150.1943;	;CP 8000
+150.19432;Watsonian behaviorism;
+150.19434;Neobehaviorism (Pragmatic reductionism);
+150.1944;Reflexology (Associationism);CP 4000
+150.195;Psychoanalytic systems;CU 2000
+150.195;		;CU 2000 - CU 2690
+150.19508664;Homophobia in psychoanalysis, ...;
+150.195092;Psychoanalysts, ...;
+150.1952;Freudian system;CU 2560 - CU 2565
+150.1952092;Freudian psychoanalysts, ...;
+150.1953;Adlerian system;CU 2500 - CU 2503
+150.1954;Jungian system;CU 2580 - CU 2583
+150.1957;Neopsychoanalytic systems;
+150.198;Other system;
+150.1982;Gestalt psychology;CU 8530
+150.1984;Field theory;MR 6000
+150.1985;Personal construct psychology;CP 5000
+150.1985;			;CX 3000
+150.1986;Humanistic psychology;MC 4100
+150.1987;Transpersonal psychology;
+150.1988;Positiv  psychology;
+150.2;Miscellany;
+150.287;Testing and measurement;CM 3000
+150.287;			;CS 1500
+150.287;			;CT
+150.287;			;CT 8000
+150.3;Psychology--dictionaries, ...;
+150.7;Education, research, related topics;CU 8600
+150.7;					;CW 5000
+150.72;Psychology--research, ...;
+150.724;Experimental research;
+150.8;Groups of people;
+150.82;Feminist psychology, ...;
+150.9;History, geographic treatment, biography;CM 2000
+150.92;Behavior analysts, ...;CP 8000
+150.92;Psychologen		;
+150.93-150.99;Specific continents, countries, localities, extraterrestrial worlds;
+152-158;Specific topics in psychology
+152;Sensory perception, moveme2500
+152.1;Sensory perception;CP 2500
+152.14;Visual perception;CP 2500
+152.142;Spatial perception;CP 2500
+152.1422;Visual acuity;;CP 2500
+152.1423;Pattern perception;
+152.1425;Movement perception;
+152.143;Brightness perception;;CP 2500
+152.145;Color perception;WW 1820 - WW 1859
+152.145;		;CP 2500
+152.148;Optical illusions;;CP 2500
+152.15;Auditory perception;;CP 2500
+152.152;Pitch perception;;CP 2500
+152.154;Volume perception;;CP 2500
+152.157;Timbre perception (Tone discrimination);;CP 2500
+152.158;Localization;;CP 2500
+152.16;Chemical sensory perception;WW 1740 - WW 1779
+152.166;Perception of smells;WW 1740 - WW 1779
+152.167;Perception of tastes;WW 1740 - WW 1779
+152.18;Other types of sensory perception
+152.182;Cutaneous perception;WW 5000 - WW 5289
+152.1822;Thermal perception;WW 1700 - WW 1739
+152.1823;Pressure perception;
+152.1824;Pain perception;WW 4250 - WW 4289
+152.188;Proprioceptive and visceral perceptions
+152.1882;Proprioceptive perception;CV 3000
+152.1886;Visceral perceptions;
+152.189;Synesthesia;
+152.3;Movements and motor functions;CQ 3000
+152.32;Involuntary movements
+152.322;Reflexes;YG 2200 - YG 2299
+152.322;	;WW 4120 - WW 4199
+152.322;WT 2100 - WT 2139
+152.3223;Innate reflexes;YG 2200 - YG 2299
+152.322;;WW 4120 - WW 4199
+152.3224;Conditioned reflexes;YG 2200 - YG 2299
+152.322;;WW 4120 - WW 4199
+152.324;Instinctive movements;YG 2200 - YG 2299
+152.322;;WW 4120 - WW 4199
+152.33;Habits and habit formation;BK 2110
+152.334;Motor learning;CQ 3000
+152.335;Handedness and laterality;CP 7000
+152.35;Voluntary movements;
+152.38;Special motor functions;
+152.382;Locomotion movements;
+152.384;Expressive movements;YN 6200 - YN 6299
+152.3842;		;ES 670
+152.3842;		;GB 2960
+152.3845;Grafical expressions;GB 2964
+152.3845;			;GU 12750
+152.3845;Graphic expressions;YG 2100
+152.385;Coordination;
+152.4;Emotions;CZ 1330
+152.40287;Emotional intelligence tests, ...;CT 1000
+152.41;Love and affection;BL 3180
+152.41;		;Bk 6500
+152.42;Pleasure, enjoyment, happiness, joy, ecstasy;
+152.43;Wit and humor;EC 3930
+152.44;Guilt and shame;BC 6880
+152.44;		;BK 2150
+152.46;Fear, anxiety, worry;CP 3500 - CP 3900
+152.46;			;CP 3700
+152.47;Anger		;
+152.48;Jealousy and envy;
+152.5;Physiological drives;WT 2100
+152.8;Threshold, discrimination, reaction-time studies;MS 3200
+152.82;Threshold and discrimination studies;
+152.83;Reaction-time studies;
+153;Conscious mental processes and intelligence;CV 2500
+153;						;CZ 1320
+153;						;CR 5000
+153;						;AK 26300
+153.0287;Testing and measurement;CT 1000 - CT 1900
+153.0287;			;CT 1900
+153.0287;;CT 2000 - CT 2400
+153.0287;;CT 2400
+153.0287;;CT 3000
+153.0287;;CT CT 4000 - CT 4880
+153.1;Memory and learning;CP 5000
+153.1;			;MR 6200
+153.1;;WW 4200
+153.12;Memory;
+153.122;Retention;
+153.123;Recall and reproduction;
+153.124;Recognition;
+153.125;Forgetting;
+153.13;Types of memory;
+153.132;Visual memory;
+153.133;Auditory memory;
+153.134;Visual-auditory memor;
+153.14;Mnemonics;
+153.15;Learning;CP 5000
+153.15;Learning;MR 6200
+153.15;Learning;QH 740
+153.15;Learning;WW 4200
+153.152;Methods of learning;CP 5200
+153.1522;Rote learning, learning by repetition;
+153.1523;Learning by imitation;;
+153.1524;Trial-and-error learning;
+153.1526;Associative learning;
+153.1528;Discrimination learning;
+153.153;Factors in learning;
+153.1532;Attention and concentration;CP 6000
+153.1533;Interest and enthusiasm;
+153.1534;Motivation;CP 3000
+153.1533;Interest and enthusiasm;
+153.1534;Motivation;CP 3100
+153.1534;Motivation;CQ 5200
+153.1534;Motivation;CX 3500
+153.1534;Motivation;QC 010
+153.154;Transfer of learning;
+153.158;Learning curves;
+153.2;Formation and association of ideas;CP 4000
+153.22;Association of ideas;
+153.23;Concepts and concept formation;CP 4000
+153.24;Abstraction;
+153.3;Imagination, imagery, creativity;
+153.32;Imagery;
+153.35;Creativity;CR 5000
+153.35;Creativity;MR 6300
+153.35;Creativity;QP 300
+153.35;Creativity;QV 570
+153.4;Thought, thinking, reasoning, intuition, value, judgment;CP 4000
+153.4;Thought, thinking, reasoning, intuition, value, judgment;CP 4100
+153.4;Thought, thinking, reasoning, intuition, value, judgment;MR 6300
+153.43;Reasoning;
+153.432;Inductive reasoning;
+153.433;Deductive reasoning;
+153.44;Intuition;ER 955	
+153.45;Value;BK 2015
+153.45;;MR 7200
+153.46;Judgment;CP 4200
+153.6;Communication;BV 9350 - BV 9450
+153.6;	;BU 6150
+153.6;;MR 6600
+153.6;;WT 3700
+153.6;		;CV 3500
+153.68;Listening;
+153.69;Nonverbal communication;CV 3500
+153.7;Perceptual processes;CP 2000
+153.73;Basic elements;
+153.733;Attention;CP 6000
+153.736;Subliminal perception;		
+153.74;Errors (Normal illusions);YO 3900 - YO 3999
+153.75;Types of perception;
+153.752;Spatial perception;
+153.753;Time and rhythm perception;
+153.754;Movement perception;WW 1900 - WW 1939
+153.758;Face perception;
+153.8;Will (Volition);CC 7220
+153.83;Choice and decision;CM 5500
+153.85;Modification of will;
+153.852;Persuasion;
+153.853;Brainwashing;
+153.854;Conformity;
+153.9;Intelligence and aptitudes;
+153.90287;Testing and measurement;CT 1000 - CT 1900
+153.90287;			;CR 5000
+153.93;Intelligence tests;CS 3000
+153.94;Aptitude tests;CS 3000
+153.94001-153.94999;Tests for aptitudes in specific fields;CR 5000
+153.9478;Musical aptitude tests, ...;LR 56962
+153.98;Superior intelligence;CR 5000
+154;Subconscious and altered states and processes;
+154.2;The subconscious;CU 2000
+154.2;			;CP 4600
+154.2;		;CP 4000
+154.3;Daydreams, fantasies, reveries;YH 3600 - YH 3699
+154.3;			;YH 4300 - YH 4399
+154.4;Altered states of consciousness;
+154.6;Sleep phenomena;CP 9000
+154.6;			;AR 24760
+154.6083;Co-sleeping, ...;
+154.60833;Preschool children--Sleep, ...;
+154.60835;Sleep--adolescents, ...;
+154.63;Dreams;CP 9000
+154.63;		;YH 4300 - YH 4399
+154.630835;Dreams--adolescents, ...;
+154.632;Nightmares;CP 9000
+154.634;Analysis of dreams;CP 9000
+154.634;		;CU 8000
+154.634;		;CU 2000
+154.634;		;YH 4300
+154.64;Sleepwalking (Somnambulism);CP 9000
+154.7;Hypnotism;CP 9000
+154.7;		;YH 8000 - YH 8099
+154.72;Animal magnetism;
+154.76;Induction of hypnosis;
+154.77;Hypnotic phenomena;
+154.772;Phenomena during trance;BM 9380
+154.774;Posthypnotic phenomena;
+155;Differential and developmental psychology;BT 5450
+155;;BU 8200
+155;;CQ
+155;;CQ 5500
+155;;YQ 7300
+155.2;Individual psychology;CR
+155.2;		;CR 1000
+155.2;			;CR 4000
+155.20287;Testing and measurement;
+155.22;Individual differences;
+155.23;Traits and determinants of character and personality;CR 7000
+155.232;Traits;
+155.234;Determinants;
+155.24;Adaptability and adjustment;MR 6050
+155.25;Development and modification of character and personality;BT 5420
+155.26;Typology;
+155.262;Classical typology (Hippocrates' theory of temperaments);CR 4000
+155.264;Modern typology;
+155.2644;Typology of Jung;
+155.28;Appraisals and tests;
+155.282;Diagnostic graphology;
+155.283;Inventories and questionnaires;CS 2000
+155.283;	;CT 7000
+155.283;	;CT 8500
+155.283;	;MR 2500
+155.284;Projective techniques;
+155.2842;Rorschach tests;
+155.2843;Szondi tests;
+155.2844;Thematic apperception tests;
+155.3;Sex psychology, psychology of people by gender or sex, by sexual orientation;CR 6000
+155.31;Erogeneity and libido;
+155.32;Sex and personality;
+155.33;Psychology of people by gender or sex;MS 2850
+155.332;Men;WT 3260
+155.33224;Emotions--men, ...;
+155.3323;Cognitive psychology--men, ...;
+155.33282;Individual psychology--men, ...;
+155.3329;Applied psychology--men, ...;
+155.333;Women;WT 3255
+155.33324;Emotions--women, ...;
+155.3333;Cognitive psychology--women, ...;
+155.33382;Individual psychology--women, ...;
+155.3339;Applied psychology--women, ...;
+155.334;Bisexuality;MS 2870
+155.34;Psychology of people by sexual orientation;MS 2870
+155.343;Bisexuals;MS 2870
+155.344;Gays;YH 8800 - YH 8899
+155.3441;General topics of psychology of gays;
+155.3442;Gay men;
+155.3443;Lesbians;
+155.35;Sexual practices;
+155.4;Child psychology;CQ 6000
+155.4;		;YQ 7200
+155.4-155.6;Psychology of specific ages;
+155.4081;People by gender or sex;
+155.4082;Women;
+155.4083;Young people;CQ 6000
+155.4085;Relatives;
+155.40855;Siblings;
+155.4086;People by miscellaneous social attributes;
+155.40862;People by social and economic levels;
+155.4087;People with disabilities and illnesses, gifted people
+155.4089;Ethnic and national groups;
+155.41;General topics of child psychology;
+155.4124;Disappointment in children, ...;
+155.41241;Empathy in children, ...;
+155.41242;Joy--children, ...;
+155.41244;Guilt--children, ...;
+155.41246;Fear--children, ...;
+155.413;Cognitive development--child psychology, ...;
+155.41315;Learning--children, ...;
+155.4134;Magical thinking in children, ...;
+155.4138;Drives (Psychology)--children, ...;
+155.41383;Choice--children, ...;
+155.4182;Character--child psychology, ...;
+155.418232;Introversion in children, ...;
+155.41824;Adaptability--children, ...;
+155.41825;Character development--children, ...;
+155.4189;Adaptability--children, ...;
+155.4189042;Stress--children, ...;
+155.419;Applied psychology--children, ...;
+155.4192;Interpersonal relations--children, ...;
+155.42;Children in specific age groups;
+155.42-155.45;Children by specific attributes;
+155.422;Infants;
+155.422215;Auditory perception--infants, ...;
+155.4222382;Infants--Walking, ...;
+155.42224;Emotions--infants, ...;
+155.422241;Affection--infants, ...;
+155.422323;Concepts--infants, ...;
+155.42282;Individual psychology--infants, ...;
+155.42289042;Stress--infants, ...;
+155.423;Children three to five;
+155.424;Children six to eleven;
+155.43;Children by gender or sex;
+155.432;Boys;
+155.433;Girls;
+155.44;Children by status and relationships;
+155.442;The only child;
+155.443;Siblings;
+155.444;Brothers and sisters of same birth;
+155.445;Adopted and foster children;
+155.446;Institutionalized children;
+155.45;Exceptional children, children by social and economic levels, by ethnic or national group;
+155.451-155.455;Exceptional children;
+155.455;Gifted children--psychology, ...;
+155.456;Children by social and economic levels;
+155.4567;Children with social disadvantages;
+155.457;Children by ethnic and national group;
+155.4571-155.4579;Specific ethnic and national groups;
+155.5;Psychology of young people twelve to twenty;
+155.5081;People by gender or sex;
+155.5082;Women;	
+155.50866;Gay adolescents--psychology, ...;
+155.5089;Ethnic and national groups;
+155.51;General topics of psychology of young people twelve to twenty;
+155.5124;Embarrassment--adolescents, ...;
+155.51241;Affection--adolescents, ...;
+155.51244;Guilt--adolescents, ...;
+155.51246;Fear--adolescents, ...;
+155.51248;Jealousy--adolescents, ...;
+155.513;Cognitive psychology--adolescents, ...;
+155.51342;Critical thinking in adolescence, ...;
+155.51343;Problem solving--adolescents, ...;
+155.51346;Judgment--adolescents, . .;.
+155.518232;Justice in young adults, ...;
+155.51824;Adaptability--adolescents, ...;
+155.5189;Environmental psychology--adolescents, ...;
+155.5189042;Stress--adolescents, ...;CP 3900
+155.519;Applied psychology--adolescents, ...CW
+155.5192;Interpersonal relations--adolescents, ...;
+155.53;Young people twelve to twenty by gender or sex;
+155.532;Males twelve to twenty;
+155.533;Females twelve to twenty;
+155.6;Psychology of adults;CQ 7200
+155.6081;Adults by gender or sex;CR 6000
+155.6082;Women;
+155.6084;Adults in specific stages of adulthood;CQ 7000 - CQ 7400
+155.6085;Relatives;
+155.6086;Adults by miscellaneous social attributes;
+155.60865;Adults by marital status;
+155.60866;Adults in general by sexual orientation;MS 2870
+155.6089;Ethnic and national groups;
+155.609;History, geographic treatment, biography;
+155.63;Adults by gender or sex;CR 6000
+155.64;Adults by marital status and relationships;CV 8000
+155.642;Single status;
+155.6422;Men;
+155.6423;Women;
+155.643;Separated and divorced status;
+155.6432;Men;
+155.6433;Women;
+155.644;Widowed status;
+155.6442;Men;
+155.6443;Women;
+155.645;Married status;
+155.6452;Men;
+155.6453;Wome;
+155.646;Parents, grandparents, progeny, siblings;
+155.6462;Fathers;
+155.6463;Mothers;
+155.65;People in early adulthood;
+155.65-155.67;People in specific stages of adulthood;
+155.658232;Justice in young adults, ...;
+155.659;Applied psychology--young adults, ...;
+155.6591;Young adults--Conduct of life, ...;
+155.6592;Interpersonal relations--young adults, ...;
+155.66;People in middle adulthood;CQ 7200
+155.67;People in late adulthood;CQ 7400
+155.67089;Ethnic and national groups;
+155.671;General topics of people in late adulthood;CQ 7000
+155.6713;Cognitive psychology--late adulthood, ...;
+155.67182;Identity (Psychology) in old age, ...;
+155.67189;Environmental psychology--late adulthood, ...;
+155.67189042;Stress--late adulthood, ...;
+155.6719;Applied psychology--late adulthood, ...;
+155.672;Adaptability and adjustment;
+155.7;Evolutionary psychology;CR 1000
+155.7;			;CZ 8000
+155.7;			;CM 1000
+155.7;			;WH 5000
+155.7;			;MR 5750
+155.8;Ethnopsychology and national psychology;CV 7500
+155.82;Ethnopsychology;
+155.84;Specific ethnic groups;
+155.8496073;African Americans--psychology, ...;
+155.89;National psychology;CV 7500
+155.894798;Estonian national psychology, ...;
+155.9;Environmental psychology;CV 9000
+155.9042;Stress;CP 3900
+155.91;Influence of physical environment and conditions;
+155.911;Influence of sensory stimuli;CP 2000
+155.911;Influence of sensory stimuli;CP 2500
+155.91145;psychology of color;CP 2500
+155.91145;psychology of color < CX 7500
+155.9115;Noise--environmental psychology, ...;CP 2000
+155.915;Influence of climate;CW 9500
+155.916;Influence of injuries, diseases, physical disabilities, disfigurements;CW 6760
+155.916;Influence of injuries, diseases, physical disabilities, disfigurements;CU 9500
+155.916;Influence of injuries, diseases, physical disabilities, disfigurements;CW 6800
+155.916;Influence of injuries, diseases, physical disabilities, disfigurements;CW 6730
+155.916;Influence of injuries, diseases, physical disabilities, disfigurements;CW 6820
+155.92;Influence of social environment;CV 9500
+155.92;Influence of social environment;CV 6000
+155.92;Influence of social environment;CV 8000
+155.924;Birth order--environmental psychology, ...;CV 8000
+155.924;Birth order--environmental psychology, ...;CQ 5000
+155.924;Birth order--environmental psychology, ...;CQ 6000
+155.924;Birth order--environmental psychology, ...;CR 4000
+155.924;Birth order--environmental psychology, ...;MS 2600
+155.924;Birth order--environmental psychology, ...;MS 1960
+155.925;Friendship--psychological influence, ...;CV 4000
+155.925;Friendship--psychological influence, ...;MS 1000
+155.926;Work associates--psychological influence, ...;CV 4000
+155.927;Strangers--psychological influence, ...;CV 4000
+155.93;Influence of specific situations;
+155.935;Catastrophic disasters;CU 3040
+155.935;Catastrophic disasters;CW 9500
+155.935;Catastrophic disasters;CV 7500
+155.936;Accidents;CW 6500
+155.937;Death and dying;CQ 7600
+155.937;Death and dying;BQ 6010
+155.937;Death and dying;MS 6300
+155.93708;Groups of people;
+155.937083;Bereavement--children, ...;
+155.94;Influence of community and housing;
+155.942;Urban communities;
+155.942-155.944;Specific types of communities;
+155.943;Suburban communities;
+155.944;Rural communities;
+155.945;Housing;
+155.95;Influence of clothing;
+155.96;Influence of restrictive environments;
+155.962;Prisons;CW 8000
+155.963;Submarine structures;
+155.964;Subterranean structures;
+155.965;Aircraft;
+155.966;Spacecraft;
+156;Comparative psychology;
+156.2;Comparative psychology of sensory perception, movement, emotions, physiological drives of animals;WT 5503
+156.2;Comparative psychology of sensory perception, movement, emotions, physiological drives of animals;CZ 8000
+156.2;Comparative psychology of sensory perception, movement, emotions, physiological drives of animals;CS 3000
+156.2;Comparative psychology of sensory perception, movement, emotions, physiological drives of animals;ES 178
+156.2-156.5;Animals;
+156.21;Sensory perception--comparative psychology, . .;
+156.23224;Conditioned reflexes--comparative psychology, ...;
+156.3;Comparative conscious mental processes and intelligence of animals;WT 5500 - WT 5539
+156.315;Animal learning--comparative psychology, ...;WT 5500 - WT 5539
+156.39;Animal intelligence--comparative psychology, ...;WT 5500 - WT 5539
+156.4;Comparative subconscious and altered states and processes of animals;
+156.5;Comparative differential and developmental psychology of animals;
+156.9;Plants;
+158;Applied psychology;CW
+158.1;Personal improvement and analysis;BT 5410
+158.1;Personal improvement and analysis;AL 43100
+158.12;Personal improvement and analysis through meditation;CU 8580
+158.125;Transcendental meditation;HT 1722
+158.128;Meditations;CU 8580
+158.128;Meditations;BQ 6680
+158.128;Meditations;BQ 6650
+158.2;Interpersonal relations;CV 4500
+158.24;Interpersonal relations with family members;CV 8000
+158.25;Interpersonal relations with friends and neighbors;
+158.26;Interpersonal relations with work associates;CV 9500
+158.26;Interpersonal relations with work associates;CW 4500
+158.26;Interpersonal relations with work associates;CW 5500
+158.26;Interpersonal relations with work associates;QP 342
+158.27;Interpersonal relationships with strangers;CV 4000
+158.3;Counseling and interviewing;CU 7000
+158.3;Counseling and interviewing;BQ 8470
+158.3;Counseling and interviewing;DS 5600
+158.3;Counseling and interviewing;DL 4240
+158.3092;Counseling psychologists, ...;CU 7000
+158.35;Group counseling;
+*158.39;Interviewing; (hier gibt es einen Treffer in AP 36160 Gespraech,  Interview, Diskussion)
+158.4;Leadership;CW 4600
+158.5;Negotiation;QP 300
+158.6;Vocational interests;CW 5500
+158.60287;Testing and measurement;CT 2000 - CT 2400
+158.60287;Testing and measurement;CT 2000
+158.60287;Testing and measurement;CT 2400
+158.7;Industrial psychology;QV 020
+158.7;Industrial psychology;CW 5500
+158.7;Industrial psychology;CW 1500
+158.7;Industrial psychology;CW 4800
+158.7;Industrial psychology;QV 574
+158.72;Job stress;CP 3900
+158.72;Job stress;QP 413
+158.72;Job stress;CW 3000
+158.72;Job stress;XE 9300
+158.72;Job stress;CW 2000
+158.723;Job burnout;CP 3500
+158.723;Job burnout;CP 3900
+158.723;Job burnout;CW 2000
+158.723;Job burnout;CW 3000
+158.9;Systems and schools of applied psychology;CU 8000
+16;Philosophical logic;CC 2000 - CC 2600
+160;Philosophical logic;CC 2500
+160.1;Philosophy and theory;
+160.11;Systems;
+160.119;Specific systems of classical and nonclassical logic;
+160.1198;Nonclassical logic;
+160.11984;Modal logic--philosophical logic, ...;
+160.11987;Conditional logic--philosophical logic, ...;
+160.11988;Probabilistic logic--philosophical logic, ...;
+161;Induction;CC 3300
+162;Deduction;AK 20200
+165;Fallacies and sources of error;
+166;Syllogisms;
+167;Hypotheses;BG 2900
+168;Argument and persuasion;
+169;Analogy;BG 2820
+18;Ancient, medieval & eastern philosophy
+180;Ancient, medieval, eastern philosophy;CD 1600
+180-190;History, geographic treatment, biography
+180.937;Roman philosophy, ...;CD 3700 - CD 7467
+181;Eastern philosophy;E 1150
+181;Eastern philosophy;CI 8500 - CI 9599
+181;Eastern philosophy;CI 9700 - CI 9750
+181.04-181.09;Philosophies based on specific religions
+181.043;Buddhist philosophy, ...;CI 8550
+181.044;Jain philosophy, ...;
+181.046;Sikh philosophy, ...;
+181.05;Zoroastrian philosophy, ...;
+181.06;Jewish philosophy, ...;CD 1400
+181.07;Islamic philosophy, ...;CI 9700
+181.09561;Shinto philosophy, ...;
+181.1;Far East and South Asia;CI 9700 - CI 9750
+181.1-181.9;Philosophy of specific places
+181.11;China and Korea;CI 9100 - CI 9499
+181.11;China and Korea;CI 9500 - CI 9530
+181.112;Confucian philosophy;CI 8520
+181.112;Confucian philosophy;CI 9114
+181.112;Confucian philosophy;CI 9520
+181.112;Confucian philosophy;CI 9524
+181.112-181.115;Schools of Chinese phiLosophy;CI 9524
+181.119;Korea;CI 9500 - CI 9530
+181.12;Japan;CI 8900 - CI 9094
+181.15;Pakistan and Bangladesh;CI 9599
+181.16;Indonesia;CI 9599
+181.17;Philippines;CI 9599
+181.19;Southeast Asia;CI 9599
+181.4;India;CI 8700 - CI 8884
+181.41;Sankhya;CI 8720
+181.42;Mimamsa;CI 8720
+181.43;Nyaya;CI 8720
+181.44;Vaiśeṣ;CI 8720
+181.48;Vedanta;CI 8710
+181.484;Dualistic school;
+181.4841;Madhvāchārya (Dvaita);
+181.4842;Bhedabheda;
+181.5;Iran (Persia);
+181.6;Iraq;
+181.8;Syria and Lebanon;
+181.9;Other eastern philosophy;
+181.92;Arabia;CD 1300
+182;Pre-Socratic Greek philosophies;CD 1600 - CD 3697
+182-188;Ancient western philosophy;CD 1100 - CI 8000
+182.1;Ionic philosophy;
+182.2;Pythagorean philosophy;CD 3300
+182.3;Eleatic philosophy;CD 2350 - CD 2367
+182.4;Heraclitean philosophy;CD 2650 - CD 2667
+182.5;Empedoclean philosophy;CD 2350 - CD 2367
+182.7;Democritean philosophy;
+182.8;Anaxagorean philosophy;CD 1900 - CD 1917
+183;Sophistic, Socratic, related Greek philosophies
+183.1;Sophistic philosophy;CD 1695 - CD 1700
+183.2;Socratic philosophy;CD 3350 - CD 3367
+183.4;Cynic philosophy;
+183.5;Cyrenaic philosophy;
+183.6;Megaric philosophy;
+183.7;Elian and Eretrian philosophies;
+184;Platonic philosophy;CD 3050 - CD 3067
+185;Aristotelian philosophy;CD 2050 - CD 2067
+186;Skeptic and Neoplatonic philosophies;CD 3845 - CD 3850
+186.1;Pyrrhonic philosophy;
+186.2;New Academy;
+186.3;Eclectic philosophy;LH 67548
+186.4;Neoplatonic philosophy;
+187;Epicurean philosophy;CD 5250 - CD 5267
+188;Stoic philosophy;CD 3795 - CD 3800
+189;Medieval western philosophy;CE 1050 - CE 4977
+189.2;Patristic philosophy;CE 1080 - CE 1090
+189.4;Scholastic philosophy;CE 1095 - CE 1100
+189.5;Mystic philosophy;BD 3980
+19;Modern western philosophy;CE 5100 - CE 8501
+190;Modern western and other noneastern philosophy
+190.8827;Christian philosophy;BF 1530
+190.8827;Christian philosophy;CC 8480 - CC 8500
+190.8827;Christian philosophy;BF 8800
+190.9031;Philosophie--16. Jahrhundert;CE 5100 - CE 8501
+190.904;Modern philosophy, ...;CI 1000 - CI 8300
+191;Philosophy of United States and Canada;CD 1250
+191-199;Modern western and other noneastern philosophy by continent or country
+191.08997354;Arapaho philosophy, ...;
+191.08997385;Creek philosophy, ...;
+192;Philosophy of British Isles;CD 1250
+193;Philosophy of Germany and Austria;CD 1350
+194;Philosophy of France;CD 1450
+195;Philosophy of Italy;CD 1420
+196;Philosophy of Spain and Portugal;CD 1470
+196.1;Spain;CD 1470
+196.9;Portugal;CD 1470
+197;Philosophy of Russia;
+198;Philosophy of Scandinavia and Finland;CI 8200 - CI 8300
+198.5;Sweden;CI 8200 - CI 8300
+198.8;Finland;CI 8200 - CI 8300
+198.9;Denmark;CI 8200 - CI 8300
+199;Philosophy in other geographic areas;
+199.492;Modern philosophy--Netherlands, ...;
+199.495;Greek philosophy--modern, ...;
+199.81;Modern philosophy--Brazil, ...;
+199.81089984;Cayapo philosophy, ...;
+199.85;Candoshi philosophy, ...;
