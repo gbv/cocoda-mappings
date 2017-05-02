@@ -24,6 +24,14 @@ while read p; do
     fi
 done < properties.csv
 
+# count
 for F in P*.csv; do
   wc -l $F | sed 's/.csv//;s/ /,/'
 done > stats.csv
+
+# save counts with date
+date=`date -I`
+while read -r line; do
+    echo "$date,$line"
+done < stats.csv >> statlog.csv
+
