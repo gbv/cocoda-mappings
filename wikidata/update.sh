@@ -35,3 +35,5 @@ while read -r line; do
     echo "$date,$line"
 done < stats.csv >> statlog.csv
 
+./indirect.sh
+

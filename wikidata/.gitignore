@@ -3,3 +3,4 @@
 *.ndjson
 *.log
 *.tsv
+*.ids
