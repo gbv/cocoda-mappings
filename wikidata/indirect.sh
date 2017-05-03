@@ -22,4 +22,11 @@ for A in P*.ids; do
 done
 
 sort -r -t, -n -k3 tmp.csv > indirect.csv 
+
+# save counts with date
+date=`date -I`
+while read -r line; do
+    echo "$date,$line"
+done < tmp.csv >> indirectlog.csv
+
 rm tmp.csv

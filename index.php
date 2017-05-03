@@ -10,7 +10,7 @@ include 'header.php';
       <p>
         <ul>
           <li>Mapping Database</li>
-          <li><a href="wikidata">Wikidata Mappings</li>
+          <li><a href="wikidata">Wikidata Mappings</a></li>
         </ul>
       </p>
 

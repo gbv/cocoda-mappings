@@ -34,7 +34,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="<?=$BASE?>/">About</a></li>
-            <li><a href="<?=$BASE?>/terminologies/">Terminologies</a></li>
+            <li><a href="<?=$BASE?>/terminologies/">KOS</a></li>
             <li class="active"><a href="<?=$BASE?>/concordances/">Concordances</a></li>
             <li><a href="<?=$BASE?>/cocoda/">Cocoda prototype</a></li>
             <li><a href="<?=$BASE?>/">Publications</a></li>
