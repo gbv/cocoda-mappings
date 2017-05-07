@@ -9,8 +9,12 @@ date -Im
 set +e # ignore errors
 
 while read p; do
+    LANGUAGE=en
     echo -n "$p "
-    timeout 240 $WDMAPPER get $p -o tmp.txt
+    if grep -Fq $p omit-labels.md; then
+        LANGUAGE=
+    fi
+    timeout 240 $WDMAPPER get $p -o tmp.txt -g "$LANGUAGE"
     if [ $? -ne 0 ]; then
         echo "failed"
     else
