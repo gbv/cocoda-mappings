@@ -17,7 +17,7 @@ while read p; do
     
     # check expected result size
     COUNT=$(wdquerytsv "query=SELECT (COUNT(?x) AS ?c) { ?x wdt:$p ?v }" \
-            | awk -F\" '{print $2}')
+            | awk -F\" 'NR>1{print $2}')
     if (( $COUNT > 200000 )); then
         LANGUAGE=
     else
