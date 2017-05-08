@@ -22,11 +22,11 @@ ksort($mappings);
 
 foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
    $line = explode("\t", $line);
-   $n = substr($line[0],1);
-   if (isset($mappings[$n])) {
-     $mappings[$n]['bartoc'] = "https://bartoc.org/en/node/".$line[2];
-     $mappings[$n]['kos'] = preg_replace('/^"|"@.+$/','',$line[3]);
-     $mappings[$n]['label'] = preg_replace('/^"|"@.+$/','',$line[4]);
+   $id = preg_replace('/^.*P([0-9]+)>$/','$1', $line[0]);
+   if (isset($mappings[$id])) {
+     $mappings[$id]['bartoc'] = "https://bartoc.org/en/node/".$line[2];
+     $mappings[$id]['kos'] = preg_replace('/^"|"@.+$/','',$line[3]);
+     $mappings[$id]['label'] = preg_replace('/^"|"@.+$/','',$line[4]);
   }
 }
 

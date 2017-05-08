@@ -1,32 +1,42 @@
 #!/bin/bash
 
+set -e
+cd $(dirname $(realpath $0))
+
 # cronjobs run without local $PATH environment
 WDMAPPER=/usr/local/bin/wdmapper
 
-cd $(dirname $(realpath $0))
+source ./wikidata.sh
+
 date -Im
 
 set +e # ignore errors
 
 while read p; do
-    LANGUAGE=en
     echo -n "$p "
-    if grep -Fq $p omit-labels.md; then
+    
+    # check expected result size
+    COUNT=$(wdquerytsv "query=SELECT (COUNT(?x) AS ?c) { ?x wdt:$p ?v }" \
+            | awk -F\" '{print $2}')
+    if (( $COUNT > 200000 )); then
         LANGUAGE=
+    else
+        LANGUAGE=en
     fi
+
+    # harvest mappings with wdmapper
     timeout 240 $WDMAPPER get $p -o tmp.txt -g "$LANGUAGE"
     if [ $? -ne 0 ]; then
-        echo "failed"
+        echo "failed (expected $COUNT mappings)"
     else
         mv tmp.txt $p.txt
         head -2 $p.txt | tail -1
 
-        # convert to JSKOS, CSV, and HTML
+        # convert to JSKOS and CSV
         $WDMAPPER convert $p -i $p.txt -o $p.ndjson
         $WDMAPPER convert $p -i $p.txt -o $p.csv
-        # $WDMAPPER convert $p -i $p.txt -t markdown | pandoc -s -S -o $p.html
     fi
-done < properties.csv
+done < properties.ids
 
 # count
 for F in P*.csv; do

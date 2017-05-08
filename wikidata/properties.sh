@@ -1,12 +1,8 @@
 #!/bin/bash
 
-set -e # die on errors
+set -e
+source ./wikidata.sh
 
-BASE=https://query.wikidata.org/sparql
-QUERY=properties.sparql
-FORMAT='text/tab-separated-values'
+wdquerytsv "query@properties.sparql" | tail -n +2 > properties.tsv
 
-curl -X POST $BASE --data-urlencode query@$QUERY -H "Accept: $FORMAT" \
-	| sed 's/<[^>]\+\/\|>//g' | tail -n +2 > properties.tsv 
-
-awk '{print $1}' properties.tsv > properties.csv
+awk '{print $1}' properties.tsv | sed 's/<[^>]\+\/\|>//g' > properties.ids
