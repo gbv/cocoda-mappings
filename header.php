@@ -15,6 +15,12 @@
     <script src="<?=$BASE?>/js/angular.min.js"></script>
     <script src="<?=$BASE?>/concordances/conc.js"></script>
     <script src="<?=$BASE?>/concordances/lib/ng-skos/ng-skos.min.js"></script>
+    <script src="<?=$BASE?>/js/jquery.min.js"></script>
+    <script src="<?=$BASE?>/js/bootstrap.min.js"></script>
+    <script src="<?=$BASE?>/concordances/lib/tablesorter/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript">
+      $(function(){ $(".table.sortable").tablesorter(); });
+    </script>
     <link rel="stylesheet" href="<?=$BASE?>/concordances/lib/ng-skos/ng-skos.css">
     <link rel="stylesheet" href="<?=$BASE?>/concordances/cocoda.css">
   </head>

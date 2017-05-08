@@ -26,8 +26,5 @@
       </div>
     </footer>
 
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="<?=$BASE?>/js/jquery.min.js"></script>
-    <script src="<?=$BASE?>/js/bootstrap.min.js"></script>
   </body>
 </html>

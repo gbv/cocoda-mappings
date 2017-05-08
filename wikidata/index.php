@@ -37,7 +37,7 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   The data is regularly extracted from Wikidata and available as public domain 
   (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC Zero</a>).
 </p>
-<table class="table">
+<table class="table sortable">
   <thead>
     <tr>
       <th>Wikidata property</th>
