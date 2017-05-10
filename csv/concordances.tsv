@@ -1,0 +1,15 @@
+from	to	about	count	creator	filename
+DDC	BK	Chemie	99		ddc_bk_chem.csv
+DDC	BK	Politikwissenschaft	850	SUB Hamburg	ddc_bk_pol.csv
+DDC	RVK	Philosophie und Psychologie (1--)	1071	VZG	ddc_rvk_philo_psych.csv
+DDC	RVK	DDC 100er-Klassen	754	VZG	ddc_rvk_100.csv
+DDC	RVK	DDC 1000er-Klassen	2064	VZG	ddc_rvk_1000.csv
+DDC	RVK	Bibliotheks- und Informationswissenschaften	384	HdM Stuttgart	ddc_rvk_biblinf.csv
+DDC	RVK	Ethik	233	VZG	rvk_ddc_ethik.csv
+DDC	RVK	Recht	2267	VZG	ddc_rvk_recht.csv
+DDC	RVK	Medizin und Gesundheit	2814	VZG	ddc_rvk_medizin.csv
+RVK	BK	Recht	16835	ULB Tirol	rvk_bk_recht.csv
+RVK	BK	Wirtschaft	1042	ULB Tirol	rvk_bk_wiwi.csv
+RVK	DDC	Philosophie und Psychologie	357	VZG	rvk_ddc_philo_psych.csv
+RVK	DDC	Ethik	23	VZG	rvk_ddc_ethik.csv
+RVK	GND		94195	UB Regensburg	rvk_gnd_ubregensburg.csv

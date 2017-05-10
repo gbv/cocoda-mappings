@@ -7,12 +7,6 @@ $TITLE = 'concordances';
 include 'header.php';
 
 ?>
-      <p>
-        <ul>
-          <li>Mapping Database</li>
-          <li><a href="wikidata">Wikidata Mappings</a></li>
-        </ul>
-      </p>
 
       <!--p>
         This page provides an early preview of 
@@ -79,8 +73,99 @@ include 'header.php';
             </ul>
           </div>
         </div>
-      </div>
-      
+        </div>
+        
+      <h3>List of unified concordances</h3>
+<?php      
+$kos = [
+    'DDC' => [
+        'notation' => ['DDC'],
+        'uri' => 'http://bartoc.org/en/node/241'
+    ],
+    'RVK' => [
+        'notation' => ['RVK'],
+        'uri' => 'http://bartoc.org/en/node/533'
+    ],
+    'BK' => [
+        'notation' => ['BK'],
+        'uri' => 'http://bartoc.org/en/node/745'
+    ],
+    'GND' => [
+        'notation' => ['GND'],
+        'uri' => 'http://bartoc.org/en/node/430'
+    ]
+];
+
+foreach (file('csv/concordances.tsv') as $line) {
+    list ($from,$to,$about,$count,$creator,$file) = explode("\t",trim($line));
+    if (!isset($concordances)) { 
+        $concordances = []; continue; 
+    } # first line
+    if (!file_exists("csv/$file")) {
+        continue;
+    }
+    $concordances[] = [
+        'from' => $kos[$from],
+        'to' => $kos[$to],
+        'about' => $about,
+        'creator' => $creator,
+        'name' => preg_replace('/\.csv$/','',$file),
+        'count' => exec("wc -l csv/$file")-1
+    ];    
+}
+
+?>
+      <p>      
+        <table class="table sortable table-hover">
+          <thead>
+            <th>from</th>
+            <th>to</th>
+            <th>description</th>
+            <th>creator</th>
+            <th>download</th>
+            <th class="text-right">mappings</th>
+          </thead>
+          <tbody>
+<?php
+$total=0;
+foreach ($concordances as $con) {
+    echo "<tr>";
+    echo "<td><a href='{$con['from']['uri']}'>".$con['from']['notation'][0].'</a></td>';
+    echo "<td><a href='{$con['to']['uri']}'>".$con['to']['notation'][0].'</a></td>';
+    echo "<td>".htmlspecialchars($con['about'])."</td>";
+    echo "<td>".htmlspecialchars($con['creator'])."</td>";
+    $total += $con['count'];
+    echo "<td>";
+    foreach (['csv'=>'CSV', 'txt'=>'BEACON', 'ndjson'=>'JSKOS'] as $ext => $name) {
+      $file = 'csv/'.$con['name'].".$ext";
+      if (file_exists($file)) {
+        echo "<a href='$file'>$name</a> ";
+      }
+    }
+    echo "</td>";
+    echo "<td class='text-right'>".$con['count'].'</td>';
+    echo "</tr>";
+}
+?>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td class="text-right"><?=$total?></td>
+            </tr>
+          </tfoot>
+        </table>
+      </p>
+
+      <h3>Wikidata Mappings</h3>
+      <p>
+        We daily harvest and convert 
+        <a href="wikidata">authority file mappings from Wikidata</a>.
+      </p>
       
      <h3>Your suggestions</h3>
       <p> For suggestions, improvements or corrections, please use the form below.</p>

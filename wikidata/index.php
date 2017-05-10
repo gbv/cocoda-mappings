@@ -31,10 +31,11 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
 }
 
 ?>
+<p><a href="../">🡐 more concordances</a></p>
 <h3>Wikidata Mappings</h3>
 <p>
   This directory contains mappings between Wikidata and other knowledge organization systems.
-  The data is regularly extracted from Wikidata and available as public domain 
+  The data is daily extracted from Wikidata and available as public domain 
   (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC Zero</a>).
 </p>
 <table class="table sortable table-hover">
