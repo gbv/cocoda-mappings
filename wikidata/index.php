@@ -37,7 +37,7 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   The data is regularly extracted from Wikidata and available as public domain 
   (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC Zero</a>).
 </p>
-<table class="table sortable">
+<table class="table sortable table-hover">
   <thead>
     <tr>
       <th>Wikidata property</th>
@@ -63,7 +63,10 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   }
   echo "</td>";
 
-  echo "<td class='text-right'>{$m['count']}</td>";
+  echo "<td class='text-right'>";
+  echo $m['count'];
+  echo "<br><img src='{$m['id']}.png'/>";
+  echo "</td>";
   echo "<td>".date('Y-m-d H:i',$m['mtime'])."</td>";
   echo "</td></tr>";
 } ?>
@@ -73,8 +76,8 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
       <td class='text-center'><?=count($mappings)?></td>
       <td></td>
       <td></td>
-      <td class='text-right'><?=$sum?></td>
-      <th>total</th>
+      <td class='text-right'><?=$sum?><br><img src='total.png'/></td>
+      <th><a href="total.csv">total</a></th>
     </tr>
   </tfoot>
 </table>
