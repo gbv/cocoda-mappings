@@ -53,6 +53,7 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   echo "<tr><td>";
   echo "<a href='http://www.wikidata.org/entity/{$m['id']}'>";
   echo htmlspecialchars($m['label'] ?? '');
+  echo " (P".$m['id'].')';
   echo "</a></td>";
   echo "<td><a href='{$m['bartoc']}'>".htmlspecialchars($m['kos'] ?? '')."</a></td>";
   echo "<td>";
