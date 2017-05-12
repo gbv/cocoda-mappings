@@ -1,5 +1,6 @@
 {
     "require": {
-        "davaxi/sparkline": "^1.0"
+        "davaxi/sparkline": "^1.0",
+        "gbv/jskos": "^0.1.4"
     }
 }

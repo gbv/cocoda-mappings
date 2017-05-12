@@ -1,33 +1,20 @@
 <?php 
 
+include_once '../vendor/autoload.php';
+
 $BASE = '../..';
 $SOURCES = 'https://github.com/gbv/cocoda-mappings/tree/master/wikidata';
 $LICENSE = '<img src="../cc-zero.svg">';
 
 include '../header.php';
 
-# TODO: use JSKOS concordance object instead
-$mappings = [];
-$sum=0;
-foreach (file('stats.csv', FILE_IGNORE_NEW_LINES) as $line) {
-   @list ($count, $p) = explode(',', $line);
-   $mappings[substr($p,1)] = [
-     'count' => $count,
-     'mtime' => filemtime("$p.csv"),
-     'id' => $p
-   ];
-   $sum += $count;
-}
-ksort($mappings);
+$registry = json_decode(file_get_contents('wikidata-concordances.json'));
 
-foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
-   $line = explode("\t", $line);
-   $id = preg_replace('/^.*P([0-9]+)>$/','$1', $line[0]);
-   if (isset($mappings[$id])) {
-     $mappings[$id]['bartoc'] = "https://bartoc.org/en/node/".$line[2];
-     $mappings[$id]['kos'] = preg_replace('/^"|"@.+$/','',$line[3]);
-     $mappings[$id]['label'] = preg_replace('/^"|"@.+$/','',$line[4]);
-  }
+$sum = 0;
+$concordances = [];
+foreach ($registry->concordances[0]->set as $conc) {
+    $concordances[substr($conc->notation[0],1)] = new JSKOS\Concordance($conc);
+    $sum += $conc->extent;
 }
 
 ?>
@@ -37,6 +24,8 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
   This directory contains mappings between Wikidata and other knowledge organization systems.
   The data is daily extracted from Wikidata and available as public domain 
   (<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC Zero</a>).
+  Information about this list can also be accessed as JSKOS Registry from
+  <a href="wikidata-concordances.json">wikidata-concordances.json</a>.
 </p>
 <table class="table sortable table-hover">
   <thead>
@@ -44,38 +33,35 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
       <th>Wikidata property</th>
       <th>KOS</th>
       <th>download</th>
-      <th class='text-right'>count</th>
+      <th class='text-right'>mappings</th>
       <th>date</th>
     </tr>
   </thead>
   <tbody>
-<?php foreach ($mappings as $m) {
+<?php foreach ($concordances as $conc) {
   echo "<tr><td>";
-  echo "<a href='http://www.wikidata.org/entity/{$m['id']}'>";
-  echo htmlspecialchars($m['label'] ?? '');
-  echo " (P".$m['id'].')';
+  $prop = $conc->notation[0];
+  echo "<a href='http://www.wikidata.org/entity/$prop'>";
+  echo htmlspecialchars($conc->prefLabel['en'] ?? '');
+  echo " ($prop)";
   echo "</a></td>";
-  echo "<td><a href='{$m['bartoc']}'>".htmlspecialchars($m['kos'] ?? '')."</a></td>";
+  echo "<td><a href='{$conc->toScheme->uri}'>"
+      .htmlspecialchars($conc->toScheme->prefLabel['en'] ?? '')."</a></td>";
   echo "<td>";
-  foreach (['csv'=>'CSV', 'txt'=>'BEACON', 'ndjson'=>'JSKOS'] as $ext => $name) {
-    $file = $m['id'].".$ext";
-    if (file_exists($file)) {
-      echo "<a href='$file'>$name</a> ";
+  foreach ($conc->mappings as $map) {
+    if ($map->download) {
+      echo "<a href='{$map->download}'>{$map->notation[0]}</a> ";
     }
   }
   echo "</td>";
-
-  echo "<td class='text-right'>";
-  echo $m['count'];
-  echo "<br><img src='{$m['id']}.png'/>";
-  echo "</td>";
-  echo "<td>".date('Y-m-d H:i',$m['mtime'])."</td>";
-  echo "</td></tr>";
+  echo "<td class='text-right'>{$conc->extent}<br><img src='$prop.png'/></td>";
+  echo "<td>{$conc->modified}</td>";
+  echo "</tr>";
 } ?>
   </tbody>
   <tfoot>
     <tr>
-      <td class='text-center'><?=count($mappings)?></td>
+      <td class='text-center'><?=count($concordances)?></td>
       <td></td>
       <td></td>
       <td class='text-right'><?=$sum?><br><img src='total.png'/></td>
@@ -83,8 +69,12 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
     </tr>
   </tfoot>
 </table>
+<?php
+$query = rawurlencode(file_get_contents('properties.sparql'));
+?>
 <p>
-  The list of properties is based on <a href="properties.sparql">this SPARQL query</a> to
+  The list of properties is based on
+  <a href="https://query.wikidata.org/#<?=$query?>">this SPARQL query</a> to
   include all mapping properties with corresponding KOS registered in 
   <a href="https://bartoc.org/">BARTOC</a>. Mappings are extracted and converted with
   the command line tool <a href="https://wdmapper.readthedocs.io/">wdmapper</a>.

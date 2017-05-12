@@ -47,4 +47,6 @@ done > stats.csv
 
 ./indirect.sh
 
+make wikidata-concordances.json
+
 php sparklines.php

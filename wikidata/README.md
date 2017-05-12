@@ -3,6 +3,7 @@ This directory contains scripts to harvest, convert, and merge authority file ma
 ## Requirements
 
 * wdmapper >= 0.0.15
+* PHP >= 7.0 with extensions listed in `../composer.json`
 
 ## Manifest
 
@@ -11,3 +12,4 @@ This directory contains scripts to harvest, convert, and merge authority file ma
 * update.sh - cron job to harvest mappings from Wikidata
 * indirect.sh - count number of indirect mappings for each pair of properties
 * statlog.sh - append stats.csv to statlog.csv with date
+* concordances.php - collect information about all mappings to be shown in HTML
