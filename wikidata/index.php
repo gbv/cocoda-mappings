@@ -30,6 +30,7 @@ foreach ($registry->concordances[0]->set as $conc) {
 <table class="table sortable table-hover">
   <thead>
     <tr>
+      <th>ID</th>
       <th>Wikidata property</th>
       <th>KOS</th>
       <th>download</th>
@@ -39,11 +40,10 @@ foreach ($registry->concordances[0]->set as $conc) {
   </thead>
   <tbody>
 <?php foreach ($concordances as $conc) {
-  echo "<tr><td>";
   $prop = $conc->notation[0];
-  echo "<a href='http://www.wikidata.org/entity/$prop'>";
+  echo "<tr><td class='text-right'><a href='http://www.wikidata.org/entity/$prop'>$prop</a></td>";
+  echo "<td><a href='http://www.wikidata.org/entity/$prop'>";
   echo htmlspecialchars($conc->prefLabel['en'] ?? '');
-  echo " ($prop)";
   echo "</a></td>";
   echo "<td><a href='{$conc->toScheme->uri}'>"
       .htmlspecialchars($conc->toScheme->prefLabel['en'] ?? '')."</a></td>";
@@ -61,6 +61,7 @@ foreach ($registry->concordances[0]->set as $conc) {
   </tbody>
   <tfoot>
     <tr>
+      <td></td>
       <td class='text-right'>
         <?=count($concordances)?><br>
         <img src='kos.png'/>

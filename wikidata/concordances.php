@@ -75,6 +75,10 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
     }
 }
 
+usort($concordances, function($a, $b) {
+    return $a->prefLabel['en'] <=> $b->prefLabel['en'];
+});
+
 $registry = new JSKOS\Registry([
     'prefLabel' => [
         'en' => 'Wikidata Mappings'
