@@ -18,8 +18,9 @@
     <script src="<?=$BASE?>/js/jquery.min.js"></script>
     <script src="<?=$BASE?>/js/bootstrap.min.js"></script>
     <script src="<?=$BASE?>/concordances/lib/tablesorter/jquery.tablesorter.min.js"></script>
+    <link rel="stylesheet" href="<?=$BASE?>/concordances/lib/tablesorter/theme.gbv.css">
     <script type="text/javascript">
-      $(function(){ $(".table.sortable").tablesorter(); });
+      $(function(){ $(".table.sortable").tablesorter({'theme':'gbv'}); });
     </script>
     <link rel="stylesheet" href="<?=$BASE?>/concordances/lib/ng-skos/ng-skos.css">
     <link rel="stylesheet" href="<?=$BASE?>/concordances/cocoda.css">
