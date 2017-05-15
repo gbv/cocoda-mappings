@@ -38,15 +38,7 @@ while read p; do
     fi
 done < properties.ids
 
-# count
-for F in P*.csv; do
-  wc -l $F | sed 's/.csv//;s/ /,/'
-done > stats.csv
 
-./statlog.sh
-
-./indirect.sh
-
-make wikidata-concordances.json
+make stats wikidata-concordances.json
 
 php sparklines.php

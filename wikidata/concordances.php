@@ -16,7 +16,7 @@ $VZG = new JSKOS\Concept([
 
 $concordances = [];
 foreach (file('stats.csv', FILE_IGNORE_NEW_LINES) as $line) {
-    list ($count, $prop) = explode(',', $line);
+    list ($prop, $count) = explode(',', $line);
 
     $conc = new JSKOS\Concordance([
         'extent' => $count,
