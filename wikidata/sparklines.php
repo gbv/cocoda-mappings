@@ -20,6 +20,7 @@ foreach (file('total.csv') as $line) {
 foreach ($data as $prop => $counts) {
     foreach ($counts as $date => $value) {
         $dates[$date] = $date;
+        @$data['kos'][$date]++;
     }
 }
 

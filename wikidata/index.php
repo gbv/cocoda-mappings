@@ -61,7 +61,10 @@ foreach ($registry->concordances[0]->set as $conc) {
   </tbody>
   <tfoot>
     <tr>
-      <td class='text-center'><?=count($concordances)?></td>
+      <td class='text-right'>
+        <?=count($concordances)?><br>
+        <img src='kos.png'/>
+      </td>
       <td></td>
       <td></td>
       <td class='text-right'><?=$sum?><br><img src='total.png'/></td>

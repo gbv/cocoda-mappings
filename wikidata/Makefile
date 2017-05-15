@@ -1,6 +1,6 @@
 CSVDUMPS= $(wildcard P*.csv)
 
-all: stats wikidata-concordances.json
+all: stats website
 
 stats: stats.csv statlog.csv total.csv indirect.csv indirectlog.csv
 	
@@ -31,3 +31,7 @@ indirect.csv: $(CSVDUMOPS)
 # create JSKOS file with summary of all concordances
 wikidata-concordances.json: properties.tsv stats.csv
 	php concordances.php
+
+.PHONY: website
+website: wikidata-concordances.json statlog.csv total.csv
+	php sparklines.php
