@@ -3,8 +3,12 @@
 set -e
 source ./wikidata.sh
 
-wdquerytsv "query@properties.sparql" | tail -n +2 > properties.tsv
+# get TSV without header, sorted and uniq by ID
+wdquerytsv "query@properties.sparql" \
+    | tail -n +2 \
+    | sort -u -t$'\t' -k1,1 \
+    > properties.tsv
 
 awk '{print $1}' properties.tsv \
     | sed 's/<[^>]\+\/\|>//g' \
-    | sort | uniq > properties.ids
+    | sort > properties.ids

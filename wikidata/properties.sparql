@@ -1,14 +1,22 @@
 # Wikidata mapping properties and corresponding knowledge organization systems (KOS)
-SELECT DISTINCT ?prop ?kos ?bartoc ?kosLabel ?propLabel
+SELECT DISTINCT ?prop ?kos ?bartoc ?kosLabel ?propLabel ?size ?sizeAt
 WHERE
 {
+
   # KOS with BARTOC ID
   ?kos wdt:P2689 ?bartoc 
 
   # corresponding Wikidata property
   { ?kos wdt:P1687 ?prop } UNION { ?prop wdt:P1629 ?kos }
 
+  # number of parts at given time (with preferred rank)
+  OPTIONAL {     
+    ?prop p:P1114 ?stm. 
+    ?stm ps:P1114 ?size .
+    OPTIONAL { ?stm pq:P585 ?sizeAt }
+  }
+  
   # names
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,de" }
-
-} ORDER BY xsd:integer(?bartoc)
+}
+ORDER BY xsd:integer(?bartoc) ?sizeAt

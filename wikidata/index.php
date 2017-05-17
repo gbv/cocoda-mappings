@@ -45,8 +45,11 @@ foreach ($registry->concordances[0]->set as $conc) {
   echo "<td><a href='http://www.wikidata.org/entity/$prop'>";
   echo htmlspecialchars($conc->prefLabel['en'] ?? '');
   echo "</a></td>";
-  echo "<td><a href='{$conc->toScheme->uri}'>"
-      .htmlspecialchars($conc->toScheme->prefLabel['en'] ?? '')."</a></td>";
+  echo "<td><a href='{$conc->toScheme->uri}'";
+  if ($conc->toScheme->extent) {
+    echo " title='total size {$conc->toScheme->extent}'";
+  }
+  echo ">".htmlspecialchars($conc->toScheme->prefLabel['en'] ?? '')."</a></td>";
   echo "<td>";
   foreach ($conc->mappings as $map) {
     if ($map->download) {

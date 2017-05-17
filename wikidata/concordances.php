@@ -7,11 +7,11 @@ $CC0 = new JSKOS\Concept([
     'notation' => ['CC0']
 ]);
 $VZG = new JSKOS\Concept([
-        'prefLabel' => [
-            'de' => 'Verbundzentrale des GBV',             
-        ],
-        'notation' => ['VZG'],
-        'uri' => 'https://viaf.org/viaf/134648237'
+    'prefLabel' => [
+        'de' => 'Verbundzentrale des GBV',             
+    ],
+    'notation' => ['VZG'],
+    'uri' => 'https://viaf.org/viaf/134648237'
 ]);
 
 $concordances = [];
@@ -59,6 +59,10 @@ foreach (file('properties.tsv', FILE_IGNORE_NEW_LINES) as $line) {
                 'en' => preg_replace('/^"|"@.+$/','',$line[3])
             ]
         ];
+        $extent = preg_replace('/^"([0-9]+)".*/','$1',$line[5]);
+        if ($extent) {
+            $concordances[$prop]->toScheme->extent = $extent;
+        }
         $concordances[$prop]->notation = [$prop];
         $concordances[$prop]->prefLabel = [
             'en' => preg_replace('/^"|"@.+$/','',$line[4])
