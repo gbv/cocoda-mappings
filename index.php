@@ -77,6 +77,9 @@ include 'header.php';
         
       <h3>List of unified concordances</h3>
 <?php      
+
+# TODO: read from JSKOS file
+
 $kos = [
     'DDC' => [
         'notation' => ['DDC'],
@@ -93,6 +96,10 @@ $kos = [
     'GND' => [
         'notation' => ['GND'],
         'uri' => 'http://bartoc.org/en/node/430'
+    ],
+    'STW' => [
+        'notation' => ['STW'],
+        'uri' => 'http://bartoc.org/en/node/313'
     ]
 ];
 
