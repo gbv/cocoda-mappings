@@ -2,7 +2,7 @@ CSVDUMPS= $(wildcard P*.csv)
 
 all: stats website
 
-stats: stats.csv statlog.csv total.csv indirect.csv indirectlog.csv
+stats: stats.csv statlog.csv growth total.csv indirect.csv indirectlog.csv
 	
 
 # count number of mappings of each CSV dump
@@ -18,13 +18,21 @@ statlog.csv: stats.csv
 		do echo "$$date,$$line"; \
 	done < $< >> $@
 
+# extract growth for each property
+growth: statlog.csv
+	@awk -F, '{print $$2}' statlog.csv | sort | uniq | \
+	while read P; do \
+		mkdir -p $$P; \
+		awk -F, '$$2=$$P{print}' statlog.csv > $$P/growth.csv ;\
+	done
+
 # count total number of mappings per date
 total.csv: statlog.csv
 	awk -F, '!d {d=$$1;s=0} $$1!=d{print d","s; d=$$1;s=0} {s+=$$3} END {print d","s}' < $< > $@
 
 
 # count number of indirect mappings for each pair of properties 
-indirect.csv: $(CSVDUMOPS)
+indirect.csv: $(CSVDUMPS)
 	./indirect.sh
 
 
@@ -32,6 +40,9 @@ indirect.csv: $(CSVDUMOPS)
 wikidata-concordances.json: properties.tsv stats.csv
 	php concordances.php
 
-.PHONY: website
-website: wikidata-concordances.json statlog.csv total.csv
+.PHONY: website sparklines growth
+
+sparklines:
 	php sparklines.php
+
+website: wikidata-concordances.json statlog.csv total.csv sparklines

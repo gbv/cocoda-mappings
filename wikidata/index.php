@@ -57,7 +57,8 @@ foreach ($registry->concordances[0]->set as $conc) {
     }
   }
   echo "</td>";
-  echo "<td class='text-right'>{$conc->extent}<br><img src='$prop.png'/></td>";
+  echo "<td class='text-right'>{$conc->extent}<br>";
+  echo "<a href='$prop/growth.csv'><img src='$prop/growth.png'/></a></td>";
   echo "<td>".substr($conc->modified,0,10)."</td>";
   echo "</tr>";
 } ?>

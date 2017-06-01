@@ -6,39 +6,28 @@ use Davaxi\Sparkline;
 
 $data = [];
 
+# load and store number of mappings per concordance
 foreach (file('statlog.csv') as $line) {
     list($date,$prop,$count) = explode(',',trim($line));
     $data[$prop][$date] = $count;
 }
 
+# count total number of mappings
 foreach (file('total.csv') as $line) {
     list($date,$count) = explode(',',trim($line));
     $data['total'][$date] = log($count);
 }
 
-# make sure all properties have same dates
+# count number of KOS
 foreach ($data as $prop => $counts) {
     foreach ($counts as $date => $value) {
-#        $dates[$date] = $date;
         @$data['kos'][$date]++;
     }
 }
 
-/*
-foreach ($data as $prop => $counts) {
-    foreach ($dates as $date) {
-        if (!isset($counts[$date])) {
-#            $counts[$date] = 0;
-        }
-    }
-    ksort($counts);
-    $data[$prop] = $counts; 
-} 
- */
-
+# create PNG sparklines
 foreach ($data as $prop => $counts) {
     $sparkline = new Sparkline();
-    echo "$prop:".implode(",",$counts)."\n";    
     $min = min($counts);
     $max = max($counts);
     if ($min == $max and $min > 0) {
@@ -48,13 +37,13 @@ foreach ($data as $prop => $counts) {
         function($count) use ($min) { return $count-$min; }, 
         $counts
     );
-    $width = 80;
-    if (count($counts) < 40) {
-        $width = max([2*count($counts),10]);
-    }
+    $width = min(2*count($counts),80);
     $sparkline->setWidth($width);
     $sparkline->setData($counts);
 
-    $sparkline->save("$prop.png");
+    if (!is_dir($prop)) {
+        mkdir($prop);
+    }
+    $sparkline->save("$prop/growth.png");
     $sparkline->destroy();
 }
