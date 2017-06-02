@@ -1,9 +1,14 @@
+.PHONY: website sparklines growth
+
 CSVDUMPS= $(wildcard P*.csv)
 
 all: stats website
 
 stats: stats.csv statlog.csv growth total.csv indirect.csv indirectlog.csv
-	
+
+# get current list of properties from Wikidata
+properties.ids:
+	./properties.sh
 
 # count number of mappings of each CSV dump
 stats.csv: $(CSVDUMPS)
@@ -39,8 +44,6 @@ indirect.csv: $(CSVDUMPS)
 # create JSKOS file with summary of all concordances
 wikidata-concordances.json: properties.tsv stats.csv
 	php concordances.php
-
-.PHONY: website sparklines growth
 
 sparklines:
 	php sparklines.php

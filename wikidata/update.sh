@@ -3,6 +3,8 @@
 set -e
 cd $(dirname $(realpath $0))
 
+make -B properties.ids
+
 # cronjobs run without local $PATH environment
 WDMAPPER=/usr/local/bin/wdmapper
 

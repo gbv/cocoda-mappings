@@ -9,6 +9,7 @@ wdquerytsv "query@properties.sparql" \
     | sort -u -t$'\t' -k1,1 \
     > properties.tsv
 
+# extract property identifiers
 awk '{print $1}' properties.tsv \
     | sed 's/<[^>]\+\/\|>//g' \
     | sort > properties.ids
