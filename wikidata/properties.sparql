@@ -8,6 +8,11 @@ WHERE
 
   # corresponding Wikidata property
   { ?kos wdt:P1687 ?prop } UNION { ?prop wdt:P1629 ?kos }
+  # or corresponding Wikidata of its part (indirect connection)
+  UNION
+  { ?kos wdt:P527 [ wdt:P1687 ?prop ] }
+  UNION
+  { ?id wdt:P1687 ?prop; wdt:P361 ?kos }
 
   # number of parts at given time (with preferred rank)
   OPTIONAL {     
