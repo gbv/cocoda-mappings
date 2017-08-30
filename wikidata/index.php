@@ -1,13 +1,9 @@
 <?php 
 
-include_once '../vendor/autoload.php';
-
 $BASE = '../..';
-$SOURCES = 'https://github.com/gbv/cocoda-mappings/tree/master/wikidata';
+include "$BASE/header.php";
+
 $LICENSE = '<img src="../cc-zero.svg">';
-
-include '../header.php';
-
 $registry = json_decode(file_get_contents('wikidata-concordances.json'));
 
 $sum = 0;
@@ -18,8 +14,6 @@ foreach ($registry->concordances[0]->set as $conc) {
 }
 
 ?>
-<p><a href="../">🡐 more concordances</a></p>
-<h3>Wikidata Mappings</h3>
 <p>
   This directory contains mappings between Wikidata and other knowledge organization systems.
   The data is daily extracted from Wikidata and available as public domain 
@@ -100,4 +94,5 @@ $query = rawurlencode(file_get_contents('properties.sparql'));
   (e.g. <code>wdmapper get P227 P2428</code> for GND-to-RePEc Short-ID).
 </p>
 
-<?php include '../footer.php'; ?>
+<?php
+include "$BASE/footer.php";
