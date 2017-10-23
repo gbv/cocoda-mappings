@@ -71,6 +71,14 @@ include "$BASE/header.php";
     </div>
     
   <h3>List of unified concordances</h3-->
+
+<p>
+The following table contains a selected subset of concordances collected in
+project coli-conc so far.  A search interface and additional mappings are being
+implemented.
+</p>
+
+<h3>Partial selection of concordances</h3>
 <?php      
 
 foreach (file('csv/kos.tsv') as $line) {

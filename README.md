@@ -10,7 +10,11 @@ This work is part of [project coli-conc](https://coli-conc.gbv.de/).
 * directory `csv` contains concordances and mappings from different sources in CSV format
 * directory `zbw` contains scripts to convert mappings provided by ZBW
 
-See file `README.md` in each particular directory for futher documentation.
+See file `README.md` in each particular directory for further documentation.
+
+# SOURCES AND ISSUE TRACKER
+
+<https://github.com/gbv/cocoda-mappings/>
 
 # REQUIREMENTS
 
