@@ -9,6 +9,7 @@ with one JSKOS Concept on each line using the Function writeResultToFile().
 """
 
 import codecs
+import inspect
 import json
 import platform
 import pymongo
@@ -29,10 +30,11 @@ class Conversion(object):
                 3, 0), 'Please start this Script using Python 3.'
         except AssertionError as e:
             vers = platform.python_version()
+            scriptname = inspect.stack()[0][1]
             e.args += ('You are using Python ' + vers, 'If you have started ' +
                        'this Script from Command Line, please use ' +
-                       'python3 + <scriptname> instead of ' +
-                       'python + <scriptname>.')
+                       'python3 ' + scriptname + ' instead of ' +
+                       'python ' + scriptname + '.')
             raise
         # Define the XML Stuff
         # FIXME: Encoding is the encoding of the Source XML File e.g. UTF-8
