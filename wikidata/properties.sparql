@@ -14,6 +14,9 @@ WHERE
   UNION
   { ?id wdt:P1687 ?prop; wdt:P361 ?kos }
 
+  # Wikidata property for authority control
+  ?prop wdt:P31/wdt:P279* wd:Q18614948
+
   # number of parts at given time (with preferred rank)
   OPTIONAL {     
     ?prop p:P1114 ?stm. 

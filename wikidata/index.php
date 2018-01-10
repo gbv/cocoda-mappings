@@ -77,7 +77,9 @@ $query = rawurlencode(file_get_contents('properties.sparql'));
 <p>
   The list of properties is based on
   <a href="https://query.wikidata.org/#<?=$query?>">this SPARQL query</a> to
-  include all mapping properties with corresponding KOS registered in 
+  include all mapping properties 
+  (<a href="http://www.wikidata.org/entity/Q18614948">Wikidata property to identify things</a>) 
+  with corresponding KOS registered in 
   <a href="https://bartoc.org/">BARTOC</a>. Mappings are extracted and converted with
   the command line tool <a href="https://wdmapper.readthedocs.io/">wdmapper</a>.
 </p>
