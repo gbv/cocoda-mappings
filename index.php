@@ -81,17 +81,7 @@ implemented.
 <h3>Partial selection of concordances</h3>
 <?php      
 
-foreach (file('csv/kos.tsv') as $line) {
-    list ($notation, $uri) = explode("\t",trim($line));
-    if (!isset($kos)) { 
-        $kos = [];
-        continue; 
-    }
-    $kos[$notation] = [
-        'notation' => [$notation],
-        'uri' => $uri
-    ];
-}
+include 'kos.php';
 
 foreach (file('csv/concordances.tsv') as $line) {
     list ($from,$to,$about,$count,$creator,$file) = explode("\t",trim($line));

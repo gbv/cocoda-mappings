@@ -1,4 +1,5 @@
-Konvertiert eine CSV-Datei mit Mappings in entsprechendes JSON-Format
+#!/usr/bin
+# Konvertiert eine CSV-Datei mit Mappings in entsprechendes JSON-Format
 
 use strict;
 use Catmandu::Importer::CSV;

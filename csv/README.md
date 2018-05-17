@@ -1,4 +1,4 @@
-This directory `csv` contains concordances and mappings from different sources.
+This directory contains concordances and mappings from different sources.
 
 The base format are CSV files with the following conventions:
 
@@ -13,3 +13,12 @@ The base format are CSV files with the following conventions:
     * `targetnotation` (mandatory, possibly empty)
     * `sourcepreflabel` (optional, possibly empty)
     * `targetepreflabel` (optional, possibly empty)
+
+Additional metadata is included in:
+
+* `concordances.tsv` contains a list of concordances
+* `kos.tsv` contains a list of KOS with notation and BARTOC uri
+* `csv2jskos.php`
+
+csv/csvmapping2json.pl
+csv/map2jskos.fix
