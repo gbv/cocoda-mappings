@@ -24,9 +24,31 @@ $notation2uri = [
     'BK' => function ($notation) {
         return "http://uri.gbv.de/terminology/bk/$notation";
     },
-# TODO    
-#    'DDC' => 
+    'DDC' => function ($notation) {
+        if (preg_match('/^[0-9]{3}(\.[0-9]+)?$/', $notation)) {            
+            return "http://dewey.info/class/$notation/";
+        }
+    },
+    'GND' => function ($notation) {
+        if (preg_match('/^[0-9X-]+$/', $notation)) {            
+            return "http://d-nb.info/gnd/$notation/";
+        }
+    },
 ];
+
+function notation2concept($scheme, $notation) {
+    global $notation2uri;
+
+    $notation = trim($notation);
+
+    $f = $notation2uri[$scheme];
+    if ($f) $uri = $f($notation);
+    if (isset($uri)) {
+        return [ 'uri' => $uri, 'notation' => [$notation] ];
+    } else {
+        error_log("malformed $scheme notation: $notation");
+    }
+}
 
 $fromScheme = strtoupper($match[1]);
 $toScheme = strtoupper($match[2]);
@@ -46,24 +68,21 @@ foreach (file($csvfile) as $line) {
     } else {
         $mapping = array_combine($header, $mapping);
 
-        $jskos = [
-            "from" => [
-                "memberSet" => [
-                    [ "uri" => $notation2uri[$fromScheme]($mapping['sourcenotation']) ]
-                ]
-            ],
-            "to" => [
-                "memberSet" => [
-                    [ "uri" => $notation2uri[$toScheme]($mapping['targetnotation']) ]
-                ]
-            ],
-            "fromScheme" => $kos[$fromScheme],
-            "toScheme" => $kos[$toScheme],
-        ];
+        $fromSet = notation2concept($fromScheme, $mapping['sourcenotation']);
+        $toSet = notation2concept($toScheme, $mapping['targetnotation']);
 
-        // TODO: `sourcepreflabel` (optional, possibly empty)
-        // TODO: `targetepreflabel` (optional, possibly empty)
+        if ($fromSet && $toSet) {
+            $jskos = [
+                "from" => [ 'memberSet' => $fromSet ],
+                "to" => [ "memberSet" => $toSet ],
+                "fromScheme" => $kos[$fromScheme],
+                "toScheme" => $kos[$toScheme],
+            ];
 
-        echo json_encode($jskos, JSON_UNESCAPED_SLASHES) ."\n";
+            // TODO: `sourcepreflabel` (optional, possibly empty)
+            // TODO: `targetepreflabel` (optional, possibly empty)
+
+            echo json_encode($jskos, JSON_UNESCAPED_SLASHES) ."\n";
+        }
     }
 }

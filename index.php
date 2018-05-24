@@ -81,24 +81,13 @@ implemented.
 <h3>Partial selection of concordances</h3>
 <?php      
 
-include 'kos.php';
+require_once('vendor/autoload.php');
+include_once('kos.php');
 
-foreach (file('csv/concordances.tsv') as $line) {
-    list ($from,$to,$about,$count,$creator,$file) = explode("\t",trim($line));
-    if (!isset($concordances)) { 
-        $concordances = []; continue; 
-    } # first line
-    if (!file_exists("csv/$file")) {
-        continue;
-    }
-    $concordances[] = [
-        'from' => $kos[$from],
-        'to' => $kos[$to],
-        'about' => $about,
-        'creator' => $creator,
-        'name' => preg_replace('/\.csv$/','',$file),
-        'count' => exec("wc -l csv/$file")-1
-    ];    
+use JSKOS\Concordance;
+
+foreach (file('csv/concordances.ndjson') as $line) {
+    $concordances[] = new Concordance(json_decode($line));
 }
 
 ?>
@@ -117,20 +106,20 @@ foreach (file('csv/concordances.tsv') as $line) {
 $total=0;
 foreach ($concordances as $con) {
     echo "<tr>";
-    echo "<td><a href='{$con['from']['uri']}'>".$con['from']['notation'][0].'</a></td>';
-    echo "<td><a href='{$con['to']['uri']}'>".$con['to']['notation'][0].'</a></td>';
-    echo "<td>".htmlspecialchars($con['about'])."</td>";
-    echo "<td>".htmlspecialchars($con['creator'])."</td>";
-    $total += $con['count'];
+    echo "<td><a href='{$con->fromScheme->uri}'>".$con->fromScheme->notation[0].'</a></td>';
+    echo "<td><a href='{$con->toScheme->uri}'>".$con->toScheme->notation[0].'</a></td>';
+    echo "<td>".htmlspecialchars($con->scopeNote['de'][0])."</td>";
+    echo "<td>".htmlspecialchars($con->creator[0]->prefLabel['de'])."</td>";
+    $total += $con->extent;
     echo "<td>";
     foreach (['csv'=>'CSV', 'txt'=>'BEACON', 'ndjson'=>'JSKOS'] as $ext => $name) {
-      $file = 'csv/'.$con['name'].".$ext";
+      $file = 'csv/'.$con->identifier[0].".$ext";
       if (file_exists($file)) {
         echo "<a href='$file'>$name</a> ";
       }
     }
     echo "</td>";
-    echo "<td class='text-right'>".$con['count'].'</td>';
+    echo "<td class='text-right'>".$con->extent.'</td>';
     echo "</tr>";
 }
 ?>
@@ -148,6 +137,9 @@ foreach ($concordances as $con) {
     </table>
   </p>
 
+  <p>
+    The list of concordances is <a href="csv/concordances.ndjson">also available in JSKOS format</a>.
+ </p>
   
  <h3>Your suggestions</h3>
   <p> For suggestions, improvements or corrections, please use the form below.</p>
