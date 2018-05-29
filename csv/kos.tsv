@@ -1,6 +1,6 @@
-notation	uri	pattern
-DDC	http://bartoc.org/en/node/241	http:\/\/dewey\.info\/class\/(.+)
-RVK	http://bartoc.org/en/node/533	http:\/\/rvk\.uni-regensburg.de\/nt\/(.+)
-BK	http://bartoc.org/en/node/745	http:\/\/uri\.gbv\.de\/terminology\/bk\/([0-9.-]+)
-GND	http://bartoc.org/en/node/430	http:\/\/d-nb\.info\/gnd\/([0-9X-]+)\/
+notation	uri
+DDC	http://bartoc.org/en/node/241
+RVK	http://bartoc.org/en/node/533
+BK	http://bartoc.org/en/node/745
+GND	http://bartoc.org/en/node/430
 STW	http://bartoc.org/en/node/313

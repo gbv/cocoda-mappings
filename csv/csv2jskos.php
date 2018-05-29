@@ -68,8 +68,8 @@ foreach (file($csvfile) as $line) {
     } else {
         $mapping = array_combine($header, $mapping);
 
-        $fromSet = notation2concept($fromScheme, $mapping['sourcenotation']);
-        $toSet = notation2concept($toScheme, $mapping['targetnotation']);
+        $fromSet = [ notation2concept($fromScheme, $mapping['sourcenotation']) ];
+        $toSet = [ notation2concept($toScheme, $mapping['targetnotation']) ];
 
         if ($fromSet && $toSet) {
             $jskos = [
