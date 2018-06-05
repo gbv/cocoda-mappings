@@ -14,6 +14,11 @@ be used under <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC
 
 <h3>Mappings stored in GND</h3>
 
+<p>
+ See the <a href="../">concordance registry</a> for GBD-DDC mappings also stored in the GND data. Additional mappings are counted daily:
+</p>
+
+
 <?php
 $mappings = [];
 foreach (file('count-gnd-mappings.csv') as $line) {
@@ -45,11 +50,11 @@ foreach (file('count-gnd-mappings.csv') as $line) {
   </tbody>
 </table>
 
-<h3>Wikidata-Mappings</h3>
-<p>See <a href="../wikidata">Wikidata-Mappings</a>.</p>
+<h3>Wikidata Mappings</h3>
+<p>See <a href="../wikidata">Wikidata concordances</a> for mappings from Wikidata to GND, harvested daily.</p>
 
-<h3>RVK-Mappings</h3>
-<p>See <a href="../">Concordances</a>.</p>
+<h3>RVK Mappings</h3>
+<p>See the <a href="../">Concordance registry</a>.</p>
 
 <?php
 include "$BASE/footer.php";
