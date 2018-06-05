@@ -14,3 +14,4 @@ RVK	DDC	Philosophie und Psychologie	357	VZG	rvk_ddc_philo_psych.csv
 RVK	DDC	Ethik	23	VZG	rvk_ddc_ethik.csv
 RVK	GND		94195	UB Regensburg	rvk_gnd_ubregensburg.csv
 STW	GND	Ausschnitt mit 1-zu-1 Mappings (exactMatch)	5229	ZBW	stw_gnd_exact_zbw.csv
+GND	DDC	CrissCross-SWD-DDC-Mapping	168881	DNB	gnd_ddc_crisscross.csv

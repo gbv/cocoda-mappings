@@ -8,6 +8,7 @@ use JSKOS\Concordance;
 foreach (file('concordances.tsv') as $line) {    
     list ($from,$to,$scopeNote,$count,$creator,$file) = explode("\t",trim($line));
     if (!file_exists($file)) {
+        error_log("Missing file $file");
         continue;
     }
     $concordance = new Concordance([

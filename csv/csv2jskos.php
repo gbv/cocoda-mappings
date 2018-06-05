@@ -10,7 +10,7 @@ if (count($argv) < 2) {
 // get source and target KOS from filename
 $csvfile = $argv[1];
 if (!preg_match('/^([a-z]+)_([a-z]+)_[a-z0-9_]+\.csv$/', $csvfile, $match)) {
-    exit("CSV filename pattern must be source_target_etc.csv");
+    exit("CSV filename pattern must be source_target_text.csv");
 }
 
 include '../kos.php';
@@ -25,7 +25,7 @@ $notation2uri = [
         return "http://uri.gbv.de/terminology/bk/$notation";
     },
     'DDC' => function ($notation) {
-        if (preg_match('/^[0-9]{3}(\.[0-9]+)?$/', $notation)) {            
+        if (preg_match('/^([0-9]{3}(\.[0-9]+)?|[1-9][A-Z]?--[0-9]+)$/', $notation)) {            
             return "http://dewey.info/class/$notation/";
         }
     },
@@ -44,9 +44,10 @@ function notation2concept($scheme, $notation) {
     $f = $notation2uri[$scheme];
     if ($f) $uri = $f($notation);
     if (isset($uri)) {
-        return [ 'uri' => $uri, 'notation' => [$notation] ];
+        return [ [ 'uri' => $uri, 'notation' => [$notation] ] ];
     } else {
         error_log("malformed $scheme notation: $notation");
+        return [ ];
     }
 }
 
@@ -68,8 +69,8 @@ foreach (file($csvfile) as $line) {
     } else {
         $mapping = array_combine($header, $mapping);
 
-        $fromSet = [ notation2concept($fromScheme, $mapping['sourcenotation']) ];
-        $toSet = [ notation2concept($toScheme, $mapping['targetnotation']) ];
+        $fromSet = notation2concept($fromScheme, $mapping['sourcenotation']);
+        $toSet = notation2concept($toScheme, $mapping['targetnotation']);
 
         if ($fromSet && $toSet) {
             $jskos = [
@@ -81,6 +82,9 @@ foreach (file($csvfile) as $line) {
 
             // TODO: `sourcepreflabel` (optional, possibly empty)
             // TODO: `targetepreflabel` (optional, possibly empty)
+            if ($mapping['type']) {
+                $jskos['type'] = 'http://www.w3.org/2004/02/skos/core#'.$mapping['type'].'Match';
+            }
 
             echo json_encode($jskos, JSON_UNESCAPED_SLASHES) ."\n";
         }

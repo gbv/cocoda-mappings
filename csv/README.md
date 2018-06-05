@@ -11,14 +11,14 @@ The base format are CSV files with the following conventions:
 * supported fields are
     * `sourcenotation` (mandatory, not empty)
     * `targetnotation` (mandatory, possibly empty)
-    * `sourcepreflabel` (optional, possibly empty)
-    * `targetepreflabel` (optional, possibly empty)
+    * `sourcepreflabel` (optional)
+    * `targetepreflabel` (optional)
+    * `type` (optional mapping type)
 
 Additional metadata is included in:
 
 * `concordances.tsv` contains a list of concordances
-* `kos.tsv` contains a list of KOS with notation and BARTOC uri
+* `kos.tsv` contains a list of KOS with notation and BARTOC URI
 * `csv2jskos.php`
 
-csv/csvmapping2json.pl
-csv/map2jskos.fix
+See `Makefile` for details and references to conversion scripts.

@@ -8,3 +8,6 @@ codelist:
 
 update:
 	cat codelist | ./count-gnd-mappings.pl >> count-gnd-mappings.csv
+
+../csv/gnd_ddc_crisscross.csv: GND.ttl.gz
+	zcat $< | perl gndttl2ddcmappings.pl > $@
