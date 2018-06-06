@@ -8,7 +8,7 @@ CSV = $(wildcard *.csv)
 ndjson: concordances.ndjson $(CSV:%.csv=%.ndjson)
 
 concordances.ndjson: concordances.tsv
-	php concordances2jskos.php > $@
+	./concordances2jskos.pl > $@
 
 .csv.ndjson:
 	php csv2jskos.php $< > $@ 2> $(<:%.csv=%.err)

@@ -1,0 +1,16 @@
+---
+ddc: 
+  uri: http://bartoc.org/en/node/241
+  notation: ['DDC']
+rvk: 
+  uri: http://bartoc.org/en/node/533
+  notation: ['RVK']
+bk: 
+  uri: http://bartoc.org/en/node/745
+  notation: ['BK']
+gnd:
+  uri: http://bartoc.org/en/node/430
+  notation: ['GND']
+stw:
+  uri: http://bartoc.org/en/node/313
+  notation: ['STW']

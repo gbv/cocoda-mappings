@@ -17,8 +17,7 @@ The base format are CSV files with the following conventions:
 
 Additional metadata is included in:
 
-* `concordances.tsv` contains a list of concordances
-* `kos.tsv` contains a list of KOS with notation and BARTOC URI
-* `csv2jskos.php`
+* `concordances.yaml` contains a list of concordances
+* `kos.yaml` contains a list of KOS with notation and BARTOC URI
 
 See `Makefile` for details and references to conversion scripts.

@@ -81,8 +81,8 @@ implemented.
 <h3>Partial selection of concordances</h3>
 <?php      
 
-require_once('vendor/autoload.php');
-include_once('kos.php');
+require_once 'vendor/autoload.php';
+include_once 'kos.php';
 
 use JSKOS\Concordance;
 
