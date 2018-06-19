@@ -7,7 +7,7 @@ CSV = $(wildcard *.csv)
 
 ndjson: concordances.ndjson $(CSV:%.csv=%.ndjson)
 
-concordances.ndjson: concordances.tsv
+concordances.ndjson: concordances.yaml kos.yaml
 	./concordances2jskos.pl > $@
 
 .csv.ndjson:

@@ -40,6 +40,7 @@ function notation2concept($scheme, $notation) {
     global $notation2uri;
 
     $notation = trim($notation);
+    if ($notation === '') return [ ];
 
     $f = $notation2uri[$scheme];
     if ($f) $uri = $f($notation);

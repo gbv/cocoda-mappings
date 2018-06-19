@@ -1,0 +1,61 @@
+---
+ddc_bk_chem:
+  about: Chemie
+  count: 99
+  creator: 
+ddc_bk_pol:
+  about: Politikwissenschaft
+  count: 850
+  creator: SUB Hamburg
+ddc_rvk_100:
+  about: DDC 100er-Klassen
+  count: 754
+  creator: VZG
+ddc_rvk_1000:
+  about: DDC 1000er-Klassen
+  count: 2064
+  creator: VZG
+ddc_rvk_biblinf:
+  about: Bibliotheks- und Informationswissenschaften
+  count: 384
+  creator: HdM Stuttgart
+ddc_rvk_medizin:
+  about: Medizin und Gesundheit
+  count: 2814
+  creator: VZG
+ddc_rvk_philo_psych:
+  about: Philosophie und Psychologie (1--)
+  count: 1071
+  creator: VZG
+ddc_rvk_recht:
+  about: Recht
+  count: 2267
+  creator: VZG
+gnd_ddc_crisscross:
+  about: CrissCross-SWD-DDC-Mapping
+  count: 168881
+  creator: DNB
+rvk_bk_recht:
+  about: Recht
+  count: 16835
+  creator: ULB Tirol
+rvk_bk_wiwi:
+  about: Wirtschaft
+  count: 1042
+  creator: ULB Tirol
+rvk_ddc_ethik:
+  about: Ethik
+  count: 23
+  creator: VZG
+rvk_ddc_philo_psych:
+  about: Philosophie und Psychologie
+  count: 357
+  creator: VZG
+rvk_gnd_ubregensburg:
+  about: 
+  count: 94195
+  creator: UB Regensburg
+stw_gnd_exact_zbw:
+  about: Ausschnitt mit 1-zu-1 Mappings (exactMatch)
+  count: 5229
+  creator: ZBW
