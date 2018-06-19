@@ -43,6 +43,10 @@ rvk_bk_wiwi:
   about: Wirtschaft
   count: 1042
   creator: ULB Tirol
+rvk_bk_germanistik:
+  about: Germanistik
+  count: 23435
+  creator: ULB Tirol
 rvk_ddc_ethik:
   about: Ethik
   count: 23
