@@ -31,7 +31,7 @@ $notation2uri = [
     },
     'GND' => function ($notation) {
         if (preg_match('/^[0-9X-]+$/', $notation)) {            
-            return "http://d-nb.info/gnd/$notation/";
+            return "http://d-nb.info/gnd/$notation";
         }
     },
 ];
