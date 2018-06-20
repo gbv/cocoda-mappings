@@ -13,7 +13,11 @@ if (!preg_match('/^([a-z]+)_([a-z]+)_[a-z0-9_]+\.csv$/', $csvfile, $match)) {
     exit("CSV filename pattern must be source_target_text.csv");
 }
 
-include '../kos.php';
+$dir = dirname(__FILE__);
+include_once "$dir/../vendor/autoload.php";
+
+use Symfony\Component\Yaml\Yaml;
+$kos = Yaml::parseFile('kos.yaml');
 
 $notation2uri = [
     'RVK' => function ($notation) {
@@ -56,7 +60,8 @@ $fromScheme = strtoupper($match[1]);
 $toScheme = strtoupper($match[2]);
 
 foreach ([$fromScheme, $toScheme] as $notation) {
-    if (!$notation2uri[$notation]) exit ("KOS $notation has no known URI forms");
+    if (!$notation2uri[$notation]) exit ("KOS $notation has no known URI forms!");
+    if (!$kos[strtolower($notation)]) exit ("KOS $notation not defined!");
 }
 
 // convert mappings in CSV to JSKOS
@@ -77,8 +82,8 @@ foreach (file($csvfile) as $line) {
             $jskos = [
                 "from" => [ 'memberSet' => $fromSet ],
                 "to" => [ "memberSet" => $toSet ],
-                "fromScheme" => $kos[$fromScheme],
-                "toScheme" => $kos[$toScheme],
+                "fromScheme" => $kos[strtolower($fromScheme)],
+                "toScheme" => $kos[strtolower($toScheme)],
             ];
 
             // TODO: `sourcepreflabel` (optional, possibly empty)
