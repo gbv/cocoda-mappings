@@ -30,7 +30,7 @@ $notation2uri = [
     },
     'DDC' => function ($notation) {
         if (preg_match('/^([0-9]{3}(\.[0-9]+)?|[1-9][A-Z]?--[0-9]+)$/', $notation)) {            
-            return "http://dewey.info/class/$notation/";
+            return "http://dewey.info/class/$notation/e23/";
         }
     },
     'GND' => function ($notation) {
