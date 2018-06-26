@@ -73,7 +73,7 @@ foreach (file($csvfile) as $line) {
             exit("missing field sourcenotation");
         }
     } else {
-        $mapping = array_combine($header, $mapping);
+        $mapping = @array_combine($header, $mapping);
 
         $fromSet = notation2concept($fromScheme, $mapping['sourcenotation']);
         $toSet = notation2concept($toScheme, $mapping['targetnotation']);
@@ -88,7 +88,7 @@ foreach (file($csvfile) as $line) {
 
             // TODO: `sourcepreflabel` (optional, possibly empty)
             // TODO: `targetepreflabel` (optional, possibly empty)
-            if ($mapping['type']) {
+            if ($mapping['type'] ?? null) {
                 $jskos['type'] = 'http://www.w3.org/2004/02/skos/core#'.$mapping['type'].'Match';
             }
 

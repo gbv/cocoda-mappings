@@ -11,7 +11,9 @@ concordances.ndjson: concordances.yaml kos.yaml
 	./concordances2jskos.pl > $@
 
 .csv.ndjson:
-	php csv2jskos.php $< > $@ 2> $(<:%.csv=%.err)
+	@echo $@
+	@php csv2jskos.php $< > $@ 2> $(<:%.csv=%.err)
+	@[ -s $(<:%.csv=%.err) ] || rm $(<:%.csv=%.err)
 
 clean:
 	rm *.err

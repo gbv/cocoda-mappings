@@ -81,13 +81,8 @@ implemented.
 <h3>Partial selection of concordances</h3>
 <?php      
 
-require_once 'vendor/autoload.php';
-include_once 'kos.php';
-
-use JSKOS\Concordance;
-
 foreach (file('csv/concordances.ndjson') as $line) {
-    $concordances[] = new Concordance(json_decode($line));
+    $concordances[] = json_decode($line);
 }
 
 ?>
@@ -108,15 +103,25 @@ foreach ($concordances as $con) {
     echo "<tr>";
     echo "<td><a href='{$con->fromScheme->uri}'>".$con->fromScheme->notation[0].'</a></td>';
     echo "<td><a href='{$con->toScheme->uri}'>".$con->toScheme->notation[0].'</a></td>';
-    echo "<td>".htmlspecialchars($con->scopeNote['de'][0])."</td>";
-    echo "<td>".htmlspecialchars($con->creator[0]->prefLabel['de'])."</td>";
+    echo "<td>".htmlspecialchars($con->scopeNote->de[0])."</td>";
+    echo "<td>".htmlspecialchars($con->creator[0]->prefLabel->de)."</td>";
     $total += $con->extent;
     echo "<td>";
-    foreach (['csv'=>'CSV', 'txt'=>'BEACON', 'ndjson'=>'JSKOS'] as $ext => $name) {
-      $file = 'csv/'.$con->identifier[0].".$ext";
-      if (file_exists($file)) {
-        echo "<a href='$file'>$name</a> ";
-      }
+    foreach ($con->distributions as $dist) {
+        $name = '???';
+        if (preg_match('/^text\/csv/', $dist->mimetype)) {
+            $name = 'CSV';
+        } elseif (property_exists($dist, 'format')) {
+            if ($dist->format == 'http://format.gbv.de/jskos') {
+                $name = 'JSKOS';
+            } elseif ($dist->format == 'http://format.gbv.de/beacon') {
+                $name = 'BEACON';
+            }
+        }
+       $file = 'csv/'.$dist->download;
+       #if (file_exists($file)) {
+         echo "<a href='$file'>$name</a> ";
+       #}
     }
     echo "</td>";
     echo "<td class='text-right'>".$con->extent.'</td>';
