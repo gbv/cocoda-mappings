@@ -1,4 +1,8 @@
 ---
+ddc_bk_1000:
+  about: Full DDC up to three digits
+  count: 1236
+  creator: VZG 
 ddc_bk_chem:
   about: Chemie
   count: 99
