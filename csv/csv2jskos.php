@@ -38,6 +38,11 @@ $notation2uri = [
             return "http://d-nb.info/gnd/$notation";
         }
     },
+    'STW' => function ($notation) {
+        if (preg_match('/^[0-9]+-[0-9]$/', $notation)) {            
+            return "http://zbw.eu/stw/descriptor/$notation";
+        }
+    }
 ];
 
 function notation2concept($scheme, $notation) {
