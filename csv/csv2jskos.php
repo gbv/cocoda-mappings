@@ -26,10 +26,19 @@ $notation2uri = [
         return "http://rvk.uni-regensburg.de/nt/$notation";
     },
     'BK' => function ($notation) {
-        return "http://uri.gbv.de/terminology/bk/$notation";
+        if (preg_match('/^(0|1-2|3-4|5|7-8|[0-9]{2}(\.[0-9]{2})?)$/', $notation)) {
+            return "http://uri.gbv.de/terminology/bk/$notation";
+        }
     },
     'DDC' => function ($notation) {
-        if (preg_match('/^([0-9]{3}(\.[0-9]+)?|[1-9][A-Z]?--[0-9]+)$/', $notation)) {            
+        $patterns = [
+            '[0-9][0-9]?',
+            '[0-9]{3}(-[0-9]{3})?',
+            '[0-9]{3}\.[0-9]+(-[0-9]{3}\.[0-9]+)?',
+            '[1-9][A-Z]?--[0-9]+',
+            '[1-9][A-Z]?--[0-9]+(-[1-9][A-Z]?--[0-9]+)?'
+        ];
+        if (preg_match('/^('.implode('|',$patterns).')$/', $notation)) {            
             return "http://dewey.info/class/$notation/e23/";
         }
     },

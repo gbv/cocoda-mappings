@@ -12488,7 +12488,6 @@ GF 8234;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 8235;Übersetzungen;18.10;Deutsche Literatur
 GF 8235;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 8236;Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 6760;Gesamtausgaben;18.10;Deutsche Literatur
 GF 6760;Einzelausgaben;18.10;Deutsche Literatur
 GF 6760;Übersetzungen;18.10;Deutsche Literatur
@@ -13290,7 +13289,6 @@ GF 8227;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 8233;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 8234;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 8235;Übersetzungen;17.97;Texte eines einzelnen Autors
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 9301;Allgemeines;18.10;Deutsche Literatur
 GF 9301;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 9366;Handschriften, Textkritik;18.10;Deutsche Literatur
@@ -13374,7 +13372,6 @@ GF 9980;Sonstige Gattungen;17.98;Textsammlungen
 GF 9980;Sonstige Gattungen;17.97;Texte eines einzelnen Autors
 GF 9982;Sekundärliteratur;18.10;Deutsche Literatur
 GF 9982;Sekundärliteratur;17.81;Epik, Prosa
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GG 3675;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GG 3675;Allgemeines;17.70;Literaturwissenschaft: 
 GG 3677;Literaturwissenschaft;18.19;Germanische Sprachen und Literaturen: Sonstiges
@@ -13393,7 +13390,6 @@ GG 3690;Gattungs- und Formengeschichte;18.19;Germanische Sprachen und Literature
 GG 3690;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GG 3695;Textsammlungen;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GG 3695;Textsammlungen;17.98;Textsammlungen
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GG 3701;Allgemeines;18.10;Deutsche Literatur
 GG 3701;Allgemeines;17.70;Literaturwissenschaft: 
 GG 3752;Literaturwissenschaft;18.10;Deutsche Literatur
@@ -13634,7 +13630,6 @@ GG 4940;Epik;17.81;Epik, Prosa
 GG 4940;Epik;17.98;Textsammlungen
 GG 4960;Sonstige Sammlungen nach Gattungen;18.10;Deutsche Literatur
 GG 4960;Sonstige Sammlungen nach Gattungen;17.98;Textsammlungen
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GN 2516;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 2520;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 2571;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -15378,7 +15373,6 @@ GN 9983;Primärliteratur;18.10;Deutsche Literatur
 GN 9984;Sekundärliteratur;18.10;Deutsche Literatur
 GN 9993;Primärliteratur;18.10;Deutsche Literatur
 GN 9994;Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GO 10240;Verleger;06.25;Buchhandel
 GO 23800;Kulturwissenschaften;10.00;Geisteswissenschaften allgemein: Allgemeines
 GO 10002;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
@@ -16092,7 +16086,6 @@ GO 20800;Spielfilm, Fernsehspiel, Drehbuch;24.34;Filmgattungen, Filmsparten
 GO 20800;Spielfilm, Fernsehspiel, Drehbuch;24.38;Fernsehen, Hörfunk <Kunst>
 GO 25900;Fernsehspiel. Drehbuch;24.38;Fernsehen, Hörfunk <Kunst>
 GO 23500;Geschlechterforschung (Gender);71.31;Geschlechter und ihr Verhalten
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GO 48438;Hensel, Jana / Primärliteratur;18.10;Deutsche Literatur
 GO 48438;Hensel, Jana / Primärliteratur;17.97;Texte eines einzelnen Autors
 GO 48439;Hensel, Jana / Sekundärliteratur;18.10;Deutsche Literatur
@@ -16105,7 +16098,6 @@ GO 66666;Rammstedt, Tilman / Sekundärliteratur;18.10;Deutsche Literatur
 GO 67836;Stuckrad-Barre, Benjamin / Primärliteratur;18.10;Deutsche Literatur
 GO 67836;Stuckrad-Barre, Benjamin / Primärliteratur;17.97;Texte eines einzelnen Autors
 GO 67837;Stuckrad-Barre, Benjamin / Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GT 1001;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GT 1026;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GT 1127;Allgemeines;17.71;Literaturgeschichte
@@ -16208,7 +16200,6 @@ GT 1467;Lyrik;18.10;Deutsche Literatur
 GT 1485;Drama;18.10;Deutsche Literatur
 GT 1490;Epik;18.10;Deutsche Literatur
 GT 1495;Sonstige Gattungen;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GU 21200;Verleger;06.25;Buchhandel
 GU 26675;Kulturwissenschaft (cultural studies);10.00;Geisteswissenschaften allgemein: Allgemeines
 GU 10295;Kulturgeschichte;15.07;Kulturgeschichte
@@ -16871,7 +16862,6 @@ GU 11300;Hochschuldidaktik;81.80;Hochschulen, Fachhochschulen
 GU 10240;Soziales, Politik, Wirtschaft, Industrie, Landwirtschaft;83.30;Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines
 GU 10240;Soziales, Politik, Wirtschaft, Industrie, Landwirtschaft;83.67;Produzierendes Gewerbe
 GU 10240;Soziales, Politik, Wirtschaft, Industrie, Landwirtschaft;89.00;Politologie: Allgemeines
-sourcenotation;sourcepreflabel;targetnotation; targetpreflabel
 GE 4001;Gesamtdarstellungen;18.10;Deutsche Literatur
 GE 4001;Gesamtdarstellungen;17.71;Literaturgeschichte
 GE 4011;Darstellungen unter besonderen Gesichtspunkten;18.10;Deutsche Literatur
@@ -18403,7 +18393,6 @@ GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren)
 GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.98;Textsammlungen
 GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.97;Texte eines einzelnen Autors
 GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.87;Besondere Literaturkategorien
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GV 1050;Landes- und Volkskunde;15.63;Belgien, Niederlande, Luxemburg <Geschichte>
 GV 1000;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 1010;Bibliographie;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -18499,7 +18488,6 @@ GV 2800;Textsammlungen;18.13;Niederländische Literatur
 GV 2810;nach Gattungen;18.13;Niederländische Literatur
 GV 2820;nach Themen;18.13;Niederländische Literatur
 GV 2830;Sonstige;18.13;Niederländische Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GV 4001;Allgemeines ;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4010;Bibliographien;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4100;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -18659,7 +18647,6 @@ GV 9010;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 9030;Westfriesische Literatur;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 9050;Nordfriesische Literatur;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 9070;Ostfriesische Literatur;18.19;Germanische Sprachen und Literaturen: Sonstiges
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 1017;Handschriftenkunde, Paläographie;06.13;Paläographie
 GW 1187;Handschriftenkunde, Paläographie;06.13;Paläographie
 GW 1012;Religion und Mythologie;11.00;Theologie, Religionswissenschaft: Allgemeines
@@ -19783,7 +19770,6 @@ GW 4385;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 4746;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 1008;Recht und Wirtschaft;83.30;Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines
 GW 1008;Recht und Wirtschaft;89.00;Politologie: Allgemeines
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 5060;Metrik, Rhythmik;17.62; Stilistik; Rhetorik <Literaturwissenschaftt> 
 GW 5070;Stilforschung;17.62; Stilistik; Rhetorik <Literaturwissenschaftt> 
 GW 5000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
@@ -19848,7 +19834,6 @@ GW 5230;Lyrik;18.15;Skandinavische Sprachen und Literaturen
 GW 5240;Dramatik;18.15;Skandinavische Sprachen und Literaturen 
 GW 5250;Epik;18.15;Skandinavische Sprachen und Literaturen 
 GW 5260;Sonstiges;18.15;Skandinavische Sprachen und Literaturen 
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 5380;Allgemeines;18.15;Skandinavische Sprachen und Literaturen 
 GW 5380;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 5383;Bibliographien;18.15;Skandinavische Sprachen und Literaturen 
@@ -19906,7 +19891,6 @@ GW 5748;Bibliotheca Arnamagnaeana;18.15;Skandinavische Sprachen und Literaturen
 GW 5748;Bibliotheca Arnamagnaeana;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GW 5752;Faksimiles;18.15;Skandinavische Sprachen und Literaturen 
 GW 5752;Faksimiles;06.15;Faksimiles <Abendländische Handschriftenkunde>
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 5790;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 5990;Kommentare;17.70;Literaturwissenschaft: Allgemeines
 GW 6000;Wörterbücher;17.70;Literaturwissenschaft: Allgemeines
@@ -20024,7 +20008,6 @@ GW 6365;Sonstige Dichtung;18.18;Dänische Sprache und Literatur
 GW 6370;Höfische Literatur;18.18;Dänische Sprache und Literatur 
 GW 6385;Allgemeine Textsammlungen;18.18;Dänische Sprache und Literatur 
 GW 6395;Sonstiges;18.18;Dänische Sprache und Literatur 
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 6600;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 6603;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GW 6605;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -20080,7 +20063,6 @@ GW 6785;Lyrik;18.15;Skandinavische Sprachen und Literaturen
 GW 6790;Dramatik;18.15;Skandinavische Sprachen und Literaturen 
 GW 6795;Epik;18.15;Skandinavische Sprachen und Literaturen 
 GW 6796;Sonstige;18.15;Skandinavische Sprachen und Literaturen 
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 6800;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 6803;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GW 6805;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -20141,7 +20123,6 @@ GW 7010;Dramatik;18.15;Skandinavische Sprachen und Literaturen
 GW 7020;Epik;18.15;Skandinavische Sprachen und Literaturen 
 GW 7025;Volksdichtung;18.15;Skandinavische Sprachen und Literaturen 
 GW 7030;Sonstiges;18.15;Skandinavische Sprachen und Literaturen 
-sourcenotation;sourcepreflabel;targetnotetion;targetpreflabel
 GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 - ;17.97;Texte eines einzelnen Autors
 GW 7036;Agnar Þórðarson (1917 -;17.97;Texte eines einzelnen Autors
 GW 7038;Álfrún Gunnlaugsdóttir (1938 -;17.97;Texte eines einzelnen Autors
@@ -20600,7 +20581,6 @@ GW 7486;Vigdís Grímsdóttir (1953 -;18.15;Skandinavische Sprachen und Literatu
 GW 7488;Vilborg Dagbjartsdóttir (1930 -;18.15;Skandinavische Sprachen und Literaturen 
 GW 7490;Vilhjálmur S[igursteinn] Vilhjálmsson (1930 - 1966);18.15;Skandinavische Sprachen und Literaturen 
 GW 7492;Vilmundur Gylfason (1948 - 1983);18.15;Skandinavische Sprachen und Literaturen 
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GW 7500;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 7503;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GW 7505;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -20743,7 +20723,6 @@ GW 7834;Epik;18.16;Norwegische Sprache und Literatur
 GW 7836;Dramatik;18.16;Norwegische Sprache und Literatur 
 GW 7838;Film;18.16;Norwegische Sprache und Literatur 
 GW 7838;Film;24.30;Film: Allgemeines
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GE 7001;Allgemeines;18.10;Deutsche Literatur
 GE 7001;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GE 7060;Allgemeines;18.10;Deutsche Literatur
@@ -21192,7 +21171,6 @@ GE 8686;Spiel (weltliches und geistliches);17.98;Textsammlungen
 GE 8692;Sonstige Gattungen;18.10;Deutsche Literatur
 GE 8692;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GE 8692;Sonstige Gattungen;17.98;Textsammlungen
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GX 1178;Zitatensammlungen;01.29;Allgemeine Nachschlagewerke: Sonstiges
 GX 1000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GX 1003;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
@@ -21381,7 +21359,6 @@ GX 1292;Epik;18.18;Dänische Sprache und Literatur
 GX 1294;Dramatik;18.18;Dänische Sprache und Literatur
 GX 1296;Film;18.18;Dänische Sprache und Literatur
 GX 1296;Film;24.30;Film: Allgemeines
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GX 5000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GX 5003;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GX 5005;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -21590,7 +21567,6 @@ GX 5360;Epik;18.17;Schwedische Sprache und Literatur
 GX 5362;Dramatik;18.17;Schwedische Sprache und Literatur
 GX 5364;Film;18.17;Schwedische Sprache und Literatur
 GX 5364;Film;24.30;Film: Allgemeines
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GX 9900;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GX 9900;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GX 9903;Bibliographien;18.15;Skandinavische Sprachen und Literaturen
@@ -21610,7 +21586,6 @@ GX 9960;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
 GX 9960;Sonstiges;17.99;Literaturwissenschaft: Sonstiges
 GX 9970;Textsammlungen, Anthologien;18.15;Skandinavische Sprachen und Literaturen
 GX 9970;Textsammlungen, Anthologien;17.98;Textsammlungen
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GY 1000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GY 1003;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GY 1005;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -21649,7 +21624,6 @@ GY 1240;Prosa;18.17;Schwedische Sprache und Literatur
 GY 1250;Dramatik;18.17;Schwedische Sprache und Literatur
 GY 1260;Sonstiges;18.17;Schwedische Sprache und Literatur
 GY 1270;Textsammlungen, Anthologien;18.17;Schwedische Sprache und Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GE 9001 ;Allgemeines;18.10;Deutsche Literatur
 GE 9001 ;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GE 9102;Literaturwissenschaft;18.10;Deutsche Literatur
@@ -21664,7 +21638,6 @@ GE 9301;Darstellung nach Gattungen;18.10;Deutsche Literatur
 GE 9301;Darstellung nach Gattungen;17.71;Literaturgeschichte
 GE 9310;Geistes- und Ideengeschichte;18.10;Deutsche Literatur
 GE 9310;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GE 9331;Allgemeines;18.10;Deutsche Literatur
 GE 9331;Allgemeines;17.97;Texte eines einzelnen Autors
 GE 9331;Allgemeines;17.98;Textsammlungen
@@ -21841,7 +21814,6 @@ GE 9496;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9497;Übersetzungen;18.10;Deutsche Literatur
 GE 9497;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9498;Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GE 9501;Allgemeines;18.10;Deutsche Literatur
 GE 9501;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GE 9522;Literaturwissenschaft;17.70;Literaturwissenschaft: Allgemeines
@@ -21863,7 +21835,6 @@ GE 9802;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9803;Übersetzungen;18.10;Deutsche Literatur
 GE 9803;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9804;Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 1701;Allgemeines;18.10;Deutsche Literatur
 GF 1701;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 1726;Literaturwissenschaft;18.10;Deutsche Literatur
@@ -22413,7 +22384,6 @@ GF 2471;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 2472;Übersetzungen;18.10;Deutsche Literatur
 GF 2472;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 2473;Sekundärliteratur;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 2501;Allgemeines;18.10;Deutsche Literatur
 GF 2501;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 2601;Allgemeines;18.10;Deutsche Literatur
@@ -22519,7 +22489,6 @@ GF 3340;Textsammlungen;17.81;Epik, Prosa
 GF 3340;Textsammlungen;17.98;Textsammlungen
 GF 3345;Sonstige Texte;18.10;Deutsche Literatur
 GF 3345;Sonstige Texte;17.81;Epik, Prosa
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 3367;Gesamtausgaben;18.10;Deutsche Literatur
 GF 3367;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 3368;Einzelausgaben;18.10;Deutsche Literatur
@@ -23300,7 +23269,6 @@ GF 6061;Parzival;18.10;Deutsche Literatur
 GF 6071;Titurel;18.10;Deutsche Literatur
 GF 6081;Willehalm;18.10;Deutsche Literatur
 GF 6090;Untersuchungen zu einzelnen Problemen;18.10;Deutsche Literatur
-sourcenotation;sourcepreflabel;targetnotation;targetpreflabel
 GF 6201;Allgemeines;18.10;Deutsche Literatur
 GF 6201;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 6342;Allgemeines;18.10;Deutsche Literatur
