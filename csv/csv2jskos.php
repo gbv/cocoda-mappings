@@ -64,10 +64,7 @@ function notation2concept($scheme, $notation) {
     if ($f) $uri = $f($notation);
     if (isset($uri)) {
         return [ [ 'uri' => $uri, 'notation' => [$notation] ] ];
-    } else {
-        error_log("malformed $scheme notation: $notation");
-        return [ ];
-    }
+    } 
 }
 
 $fromScheme = strtoupper($match[1]);
@@ -107,6 +104,12 @@ foreach (file($csvfile) as $line) {
             }
 
             echo json_encode($jskos, JSON_UNESCAPED_SLASHES) ."\n";
+        } else {
+            $from = trim($mapping['sourcenotation']);
+            $to   = trim($mapping['targetnotation']);
+            if ($from || $to) {
+                error_log("$from;$to");
+            }
         }
     }
 }
