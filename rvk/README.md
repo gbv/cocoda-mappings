@@ -104,7 +104,8 @@ Um das Mapping nach Aktualisierungen wiederholen zu können, sollten die Arbeits
 
 ### Personenklassen
 
-*Achtung, diese Analyse ist noch nicht vollständig und u.A. fehlerhaft*
+*Update: Mapping mit Wikidata ist jetzt hier verfügbar: <https://tools.wmflabs.org/mix-n-match/#/list/1751>*
+
 
 Personenklassen strehen anscheinend immer Unter einer Klasse mit einer Benennung wie "Autoren A", "Autoren B" etc. Weitere Personen gibt es unter Klassen wie "Autoren und Denkmäler V" allerdings sind darunter auch andere Entitäten. Aus JSKOS lassen sich diese Überklassen so ermitteln:
 
