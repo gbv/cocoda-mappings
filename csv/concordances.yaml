@@ -1,7 +1,27 @@
 ---
-rvk_ddc_chemiepharmazie:
+rvk_ddc_sa-sp:
+  count: 232
+  about: SA-SP Mathematik
+  creator: GESIS
+rvk_ddc_ta-td:
+  count: 68
+  about: TA-TD Allgemeine Naturwissenschaft
+  creator: GESIS
+rvk_ddc_te-tz:
+  count: 1162
+  about: TE-TZ Geologie und Paläontologie
+  creator: GESIS
+rvk_ddc_v:
   about: Chemie und Pharmazie
   count: 771
+  creator: GESIS
+rvk_ddc_u:
+  count: 1335
+  about: U Physik
+  creator: GESIS
+rvk_ddc_w:
+  count: 5349
+  about: W Biologie
   creator: GESIS
 ddc_bk_1000:
   about: Full DDC up to three digits
