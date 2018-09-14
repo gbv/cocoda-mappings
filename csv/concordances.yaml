@@ -1,4 +1,8 @@
 ---
+rvk_ddc_chemiepharmazie:
+  about: Chemie und Pharmazie
+  count: 771
+  creator: GESIS
 ddc_bk_1000:
   about: Full DDC up to three digits
   count: 1236
