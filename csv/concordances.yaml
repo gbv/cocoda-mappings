@@ -15,26 +15,32 @@ ddc_rvk_100:
   about: DDC 100er-Klassen
   count: 754
   creator: VZG
+  created: 2013
 ddc_rvk_1000:
   about: DDC 1000er-Klassen
   count: 2064
   creator: VZG
+  created: 2013
 ddc_rvk_biblinf:
   about: Bibliotheks- und Informationswissenschaften
   count: 384
   creator: HdM Stuttgart
+  created: 2009
 ddc_rvk_medizin:
   about: Medizin und Gesundheit
   count: 2814
   creator: VZG
+  created: 2011
 ddc_rvk_philo_psych:
   about: Philosophie und Psychologie (1--)
   count: 1071
   creator: VZG
+  date: 2016
 ddc_rvk_recht:
   about: Recht
   count: 2267
   creator: VZG
+  created: 2012
 gnd_ddc_crisscross:
   about: CrissCross-SWD-DDC-Mapping
   count: 168881
@@ -43,26 +49,32 @@ rvk_bk_recht:
   about: Recht
   count: 16835
   creator: ULB Tirol
+  created: 2013
 rvk_bk_wiwi:
   about: Wirtschaft
   count: 1042
   creator: ULB Tirol
+  created: 2013
 rvk_bk_germanistik:
   about: Germanistik
   count: 23435
   creator: ULB Tirol
+  created: 2013
 rvk_ddc_ethik:
   about: Ethik
   count: 23
   creator: VZG
+  created: 2015
 rvk_ddc_philo_psych:
   about: Philosophie und Psychologie
   count: 357
   creator: VZG
+  created: 2016
 rvk_gnd_ubregensburg:
-  about: 
+  about: GND-Indexterme der RVK
   count: 94195
   creator: UB Regensburg
+  created: 2015
 stw_gnd_exact_zbw:
   about: Ausschnitt mit 1-zu-1 Mappings (exactMatch)
   count: 5229

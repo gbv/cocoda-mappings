@@ -43,6 +43,8 @@ while ( my ( $id, $conc ) = each %$concordances ) {
         distributions => \@distributions,
     );
 
+    $jskos{created} = $conc->{created} if $conc->{created};
+
     if ( my $creator = $conc->{creator} ) {
         $jskos{creator} = [
             ref $creator
