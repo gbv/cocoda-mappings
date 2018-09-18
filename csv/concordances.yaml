@@ -1,4 +1,9 @@
 ---
+gnd_lcsh_macs:
+  about: project macs
+  count: 43744 
+  creator: DNB
+  created: 2016
 rvk_ddc_cl-cz:
   count: 419
   about: CL-CZ Psychologie
@@ -71,7 +76,7 @@ ddc_rvk_recht:
   created: 2012
 gnd_ddc_crisscross:
   about: CrissCross-SWD-DDC-Mapping
-  count: 168881
+  count: 170641
   creator: DNB
 rvk_bk_recht:
   about: Recht

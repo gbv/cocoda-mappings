@@ -8,14 +8,19 @@ include "$BASE/header.php";
 Corporate bodies, Conferences and Events, Geographic Information, Topics and
 Works. It is operated cooperatively mostly by German libraries. Its content can
 be used under <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC
-1.0</a> in multiple formats.</p>
+1.0</a> in multiple formats. GND is being mapped to several other knowledge
+organization systems.</p>
 
-<p>GND is being mapped to several other knowledge organization systems.</p>
-
-<h3>Mappings stored in GND</h3>
+<h3>Mappings from GND</h3>
 
 <p>
- See the <a href="../">concordance registry</a> for GBD-DDC mappings also stored in the GND data. Additional mappings are counted daily:
+ See the <a href="../">concordance registry</a> for 
+ <ul>
+   <li>GND-DDC mappings (project CrissCross)</li>
+   <li>GND-LCSH mappings (project macs)</li>
+   <li><strike>GND-RAMEAU mappings (project macs)</strike></li>
+ </ul>
+ Additional mappings are counted daily:
 </p>
 
 
@@ -50,11 +55,13 @@ foreach (file('count-gnd-mappings.csv') as $line) {
   </tbody>
 </table>
 
-<h3>Wikidata Mappings</h3>
+<h3>Mappings from other systems</h3>
+
+<h4>Wikidata Mappings</h4>
 <p>See <a href="../wikidata">Wikidata concordances</a> for mappings from Wikidata to GND, harvested daily.</p>
 
-<h3>RVK Mappings</h3>
-<p>See the <a href="../">Concordance registry</a>.</p>
+<h4>RVK Mappings</h4>
+<p>See the <a href="../">Concordance registry</a> for concordances between RVK and GND.</p>
 
 <?php
 include "$BASE/footer.php";

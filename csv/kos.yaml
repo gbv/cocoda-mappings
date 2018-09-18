@@ -14,3 +14,7 @@ gnd:
 stw:
   uri: http://bartoc.org/en/node/313
   notation: ['STW']
+lcsh:
+  uri: http://bartoc.org/en/node/454
+  notation: ['LCSH']
+

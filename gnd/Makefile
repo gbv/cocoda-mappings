@@ -9,5 +9,16 @@ codelist:
 update:
 	cat codelist | ./count-gnd-mappings.pl >> count-gnd-mappings.csv
 
-../csv/gnd_ddc_crisscross.csv: GND.ttl.gz
-	zcat $< | perl gndttl2ddcmappings.pl > $@
+# GND-LCSH (project macs)
+GNDLCSH=../csv/gnd_lcsh_macs.csv
+MACSNT=$(wildcard macs-*.nt.gz)
+macs: $(MACSNT) 
+	zcat $< | perl macs-gnd2lcsh.pl > $(GNDLCSH)
+
+# GND-DDC mappings (CrissCross project)
+CRISSCROSS=../csv/gnd_ddc_crisscross.csv
+GNDTTL=$(wildcard T*.ttl.gz)
+
+crisscross: $(CRISSCROSS)
+$(CRISSCROSS): $(GNDTTL)
+	zcat $(GNDTTL) | perl gndttl2ddcmappings.pl > $@

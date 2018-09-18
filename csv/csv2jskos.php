@@ -19,6 +19,9 @@ use Symfony\Component\Yaml\Yaml;
 $kos = Yaml::parseFile('kos.yaml');
 
 $notation2uri = [
+    'LCSH' => function ($notation) {
+        return "http://id.loc.gov/authorities/subjects/$notation";
+    },
     'RVK' => function ($notation) {
         $notation = preg_replace('/\s*-\s*/', '-', $notation);
         $notation = preg_replace('/\s+/', '_', $notation);
