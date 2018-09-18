@@ -3,13 +3,12 @@
 // check script is called from command line as expected
 if (php_sapi_name() != "cli") exit;
 if (count($argv) < 2) {
-    print "usage: php csv2jskos.php CSVFILE [OPTIONS]\n";
-    exit;
+    exit("usage: php csv2jskos.php CSVFILE [OPTIONS]");
 }
 
 // get source and target KOS from filename
 $csvfile = $argv[1];
-if (!preg_match('/^([a-z]+)_([a-z]+)_[a-z0-9_]+\.csv$/', $csvfile, $match)) {
+if (!preg_match('/^([a-z]+)[_-]([a-z]+)[_-][a-z0-9_-]+\.csv$/', $csvfile, $match)) {
     exit("CSV filename pattern must be source_target_text.csv");
 }
 
@@ -75,6 +74,8 @@ foreach ([$fromScheme, $toScheme] as $notation) {
     if (!$kos[strtolower($notation)]) exit ("KOS $notation not defined!");
 }
 
+$sourcenotation = '';
+
 // convert mappings in CSV to JSKOS
 foreach (file($csvfile) as $line) {
     $mapping = explode(";",trim($line));
@@ -86,7 +87,11 @@ foreach (file($csvfile) as $line) {
     } else {
         $mapping = @array_combine($header, $mapping);
 
-        $fromSet = notation2concept($fromScheme, $mapping['sourcenotation']);
+        if ($mapping['sourcenotation'] !== '') {
+            $sourcenotation = $mapping['sourcenotation'];
+        }
+
+        $fromSet = notation2concept($fromScheme, $sourcenotation);
         $toSet = notation2concept($toScheme, $mapping['targetnotation']);
 
         if ($fromSet && $toSet) {
@@ -105,7 +110,7 @@ foreach (file($csvfile) as $line) {
 
             echo json_encode($jskos, JSON_UNESCAPED_SLASHES) ."\n";
         } else {
-            $from = trim($mapping['sourcenotation']);
+            $from = trim($sourcenotation);
             $to   = trim($mapping['targetnotation']);
             if ($from || $to) {
                 error_log("$from;$to");
