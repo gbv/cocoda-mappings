@@ -13,7 +13,7 @@ update:
 GNDLCSH=../csv/gnd_lcsh_macs.csv
 MACSNT=$(wildcard macs-*.nt.gz)
 macs: $(MACSNT) 
-	zcat $< | perl macs-gnd2lcsh.pl > $(GNDLCSH)
+	zcat $< | perl macs-gnd2lcsh.pl > $(GNDLCSH) 2> macs.err
 
 # GND-DDC mappings (CrissCross project)
 CRISSCROSS=../csv/gnd_ddc_crisscross.csv
