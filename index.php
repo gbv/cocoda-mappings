@@ -16,5 +16,12 @@ if (preg_match_all('!src=["\']?([^"\'>]+)!', $html, $match)) {
       echo "<script type='text/javascript' src='../cocoda/$src'></script>";
   }
 }
+if (preg_match_all('!link href=["\']?([^"\'> ]+)!', $html, $match)) {
+  foreach ($match[1] as $src) {
+    if (strpos($src, "bootstrap") === false) {
+      echo "<link href='../cocoda/$src' rel='stylesheet'>";
+    }
+  }
+}
 
 include "$BASE/footer.php";
