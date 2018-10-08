@@ -114,7 +114,7 @@ rvk_gnd_ubregensburg:
   count: 94195
   creator: UB Regensburg
   created: 2015
-stw_gnd_exact_zbw:
-  about: Ausschnitt mit 1-zu-1 Mappings (exactMatch)
+stw_gnd_zbw:
+  about: Ausschnitt mit 1-zu-1 Mappings
   count: 5229
   creator: ZBW
