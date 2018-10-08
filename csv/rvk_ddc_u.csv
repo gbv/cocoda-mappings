@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 U;100;1;100;530
 UA 1000 - UA 1210;100;2;25;530.05
 UA 1230 - UA 9999;100;4;100;530.05
@@ -566,7 +566,7 @@ UM 1500;25;4;25;539.7
 UM 2000 - UM 2900;100;2;50;539.7
 UM 2000;100;2;50;539.7
 UM 2100;50;4;25;539.7028
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 UM 2100;50;4;25;539.70724
 UM 2110;50;4;50;541.242
 UM 2130;25;4;25;541.2401537

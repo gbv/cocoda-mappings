@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 V;100;1;100;540
 V;25;4;50;615.1
 VA;25;4;25;016.54

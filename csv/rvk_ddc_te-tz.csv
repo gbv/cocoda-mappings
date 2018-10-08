@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 TE - TZ;50;3;100;550
 TE - TZ;50;3;100;560
 TE 1000 - TE 9999;50;4;50;550.5
@@ -770,7 +770,7 @@ TQ 1010;100;1;100;560.4
 TQ 1012;100;2;50;560.41
 TQ 1014;100;2;50;560.41
 TQ 1016;;;;
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 TQ 1018;;;;
 TQ 1020;;;;
 TQ 1022;100;1;100;560.43

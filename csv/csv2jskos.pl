@@ -65,28 +65,28 @@ sub notation2concept {
 
 # convert mappings in CSV to JSKOS
 my $exporter = exporter( 'JSON', line_delimited => 1 );
-my $sourcenotation = '';
+my $fromNotation = '';
 importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
   ->each(
     sub {
         my $m = shift;
-        return unless defined $m->{sourcenotation};
+        return unless defined $m->{fromNotation};
 
-        if ( $m->{sourcenotation} ne '' ) {
-            $sourcenotation = $m->{sourcenotation};
-            $sourcenotation =~ s/^\s+|\s+$//g;
+        if ( $m->{fromNotation} ne '' ) {
+            $fromNotation = $m->{fromNotation};
+            $fromNotation =~ s/^\s+|\s+$//g;
         }
-        my ($targetnotation) = $m->{targetnotation};
-        $targetnotation =~ s/^\s+|\s+$//g;
+        my ($toNotation) = $m->{toNotation};
+        $toNotation =~ s/^\s+|\s+$//g;
 
         my ($type) = $m->{type};
         if ( $type !~ /^(|close|exact|broad|narrow|related)$/ ) {
-            say STDERR "$sourcenotation;$targetnotation;$type";
+            say STDERR "$fromNotation;$toNotation;$type";
             return;
         }
 
-        my $fromSet = notation2concept( $fromScheme, $sourcenotation );
-        my $toSet   = notation2concept( $toScheme,   $targetnotation );
+        my $fromSet = notation2concept( $fromScheme, $fromNotation );
+        my $toSet   = notation2concept( $toScheme,   $toNotation );
 
         if ( $fromSet && $toSet ) {
             my %jskos = (
@@ -103,8 +103,8 @@ importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
 
             $exporter->add( \%jskos );
         }
-        elsif ( $sourcenotation || $targetnotation ) {
-            say STDERR "$sourcenotation;$targetnotation;$type";
+        elsif ( $fromNotation || $toNotation ) {
+            say STDERR "$fromNotation;$toNotation;$type";
         }
     }
   );

@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 TA - TD;100;1;100;500
 TA 1000 - TA 1210;50;4;25;016.5
 TA 1000 - TA 1210;50;4;25;505

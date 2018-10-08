@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 SA - SP;100;1;100;510
 SA;100;2;50;510.5
 SB;;;;

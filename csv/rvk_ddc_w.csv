@@ -1,4 +1,4 @@
-sourcenotation;x;y;z;targetnotation
+fromNotation;x;y;z;toNotation
 W;100;1;100;570
 WA;100;2;50;570.5
 WA 10000 - WA 14999;100;2;25;570.5
