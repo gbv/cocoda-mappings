@@ -1,0 +1,7 @@
+language: php
+
+install:
+    - cpanm Catmandu
+
+script:
+    - make -C csv
