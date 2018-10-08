@@ -1,7 +1,11 @@
 language: perl
 
+cache:
+  directories:
+    - ~/perl5
+
 install:
-    - cpanm Catmandu
+  - cpanm --quiet --installdeps --notest .
 
 script:
-    - make -C csv
+  - make -C csv
