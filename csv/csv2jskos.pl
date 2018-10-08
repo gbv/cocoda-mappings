@@ -15,37 +15,35 @@ $csvfile =~ /^([a-z]+)[_-]([a-z]+)[_-][a-z0-9_-]+\.csv$/
 
 my ( $fromScheme, $toScheme ) = ( $1, $2 );
 
-my %notation2uri = (    # TODO: move to kos.yaml
-    lcsh => sub {
-        return "http://id.loc.gov/authorities/subjects/$_[0]";
-    },
+my %notation2uri = (    # TODO: remove once RVK URIs have been switched
     rvk => sub {
         my $notation = shift;
         $notation =~ s/\s*-\s*/-/;
         $notation =~ s/\s+/_/;    # TODO: use %20 instead
         return "http://rvk.uni-regensburg.de/nt/$notation";
-    },
-    bk => sub {
-        return "http://uri.gbv.de/terminology/bk/$_[0]"
-          if $_[0] =~ /^(0|1-2|3-4|5|7-8|[0-9]{2}(\.[0-9]{2})?)$/;
-    },
-    ddc => sub {
-        my $regex = join '|',
-          '[0-9][0-9]?',
-          '[0-9]{3}(-[0-9]{3})?',
-          '[0-9]{3}\.[0-9]+(-[0-9]{3}\.[0-9]+)?',
-          '[1-9][A-Z]?--[0-9]+',
-          '[1-9][A-Z]?--[0-9]+(-[1-9][A-Z]?--[0-9]+)?';
-        return "http://dewey.info/class/$_[0]/e23/" if $_[0] =~ /^($regex)$/;
-    },
-    gnd => sub {
-        return "http://d-nb.info/gnd/$_[0]" if $_[0] =~ /^[0-9X-]+$/;
-    },
-    stw => sub {
-        return "http://zbw.eu/stw/descriptor/$_[0]"
-          if $_[0] =~ /^[0-9]+-[0-9]$/;
     }
 );
+
+# See <https://github.com/gbv/jskos/issues/69>
+foreach ( keys %$kos ) {
+    my $namespace = $kos->{$_}{namespace};
+    my $template  = $kos->{$_}{template};
+    $template = $namespace . '()' if !$template && $namespace;
+
+    my $pattern = $kos->{$_}{pattern};
+    $pattern = qr{^$pattern$} if $pattern;
+
+    $notation2uri{$_} //= sub {
+        if ($template) {
+            my $id = shift;
+            return if $pattern && $id !~ $pattern;
+            my $uri = $template;
+            $id =~ s/ /%20/g;
+            $uri =~ s/\([^)]*\)/$id/;
+            return $uri;
+        }
+    };
+}
 
 foreach ( ( $fromScheme, $toScheme ) ) {
     die "KOS $_ has no known URI forms!\n" unless $notation2uri{$_};
