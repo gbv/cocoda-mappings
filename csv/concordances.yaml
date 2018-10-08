@@ -63,7 +63,8 @@ ddc_rvk_mathematik:
   about: Mathematik
   count: 37
   creator: Philipp Zumstein
-  created: 2016-2018
+  created: 2016
+  modified: 2018
 ddc_rvk_medizin:
   about: Medizin und Gesundheit
   count: 2814
