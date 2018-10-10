@@ -87,8 +87,12 @@ $query = rawurlencode(file_get_contents('properties.sparql'));
   See also the <a href="https://tools.wmflabs.org/wikidata-todo/beacon.php">Wikidata BEACON</a>
   tool to directly download selected mappings and
   <a href="https://tools.wmflabs.org/mix-n-match/">Mix'n'match</a> to contribute adding mappings
-  to Wikidata.
+  to Wikidata. In particular:
 </p>
+<ul>
+  <li><a href="https://tools.wmflabs.org/mix-n-match/#/catalog/1751">Authors in RVK</a></li>
+  <li><a href="https://tools.wmflabs.org/mix-n-match/#/catalog/1786">Basisklassifikation</a></li>
+</ul>
 <p>
   Indirect mappings with Wikidata as linking hub can be harvested as well. See CSV file
   <a href="indirect.csv">indirect.csv</a> for current numbers with the authority files
