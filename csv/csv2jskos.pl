@@ -19,7 +19,7 @@ my %notation2uri = (    # TODO: remove once RVK URIs have been switched
     rvk => sub {
         my $notation = shift;
         $notation =~ s/\s*-\s*/-/;
-        $notation =~ s/\s+/_/;    # TODO: use %20 instead
+        $notation =~ s/\s+/_/g;    # TODO: use %20 instead
         return "http://rvk.uni-regensburg.de/nt/$notation";
     }
 );
