@@ -5,7 +5,7 @@
 
 CSV = $(wildcard *_*.csv)
 
-ndjson: concordances.ndjson $(CSV:%.csv=%.ndjson)
+ndjson: $(CSV:%.csv=%.ndjson)
 
 concordances.ndjson: concordances.yaml kos.yaml
 	./concordances2jskos.pl > $@
@@ -14,6 +14,7 @@ concordances.ndjson: concordances.yaml kos.yaml
 	@echo $@
 	@./csv2jskos.pl $< > $@ 2> $(<:%.csv=%.err)
 	@[ -s $(<:%.csv=%.err) ] || rm $(<:%.csv=%.err)
+	@make -B --no-print-directory concordances.ndjson
 
 clean:
 	rm *.ndjson *.err
