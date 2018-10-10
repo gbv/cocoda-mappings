@@ -96,7 +96,7 @@ importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
 
             # TODO: `sourcepreflabel` (optional, possibly empty)
             # TODO: `targetepreflabel` (optional, possibly empty)
-            $jskos{type} = "http://www.w3.org/2004/02/skos/core#${type}Match"
+            $jskos{type} = ["http://www.w3.org/2004/02/skos/core#${type}Match"]
               if $m->{type};
 
             $exporter->add( \%jskos );

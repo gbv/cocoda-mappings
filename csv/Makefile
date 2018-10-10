@@ -16,4 +16,4 @@ concordances.ndjson: concordances.yaml kos.yaml
 	@[ -s $(<:%.csv=%.err) ] || rm $(<:%.csv=%.err)
 
 clean:
-	rm *.err
+	rm *.ndjson *.err
