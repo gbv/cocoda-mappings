@@ -18,6 +18,9 @@ my ( $fromScheme, $toScheme ) = ( $1, $2 );
 my %notation2uri = (    # TODO: remove once RVK URIs have been switched
     rvk => sub {
         my $notation = shift;
+        return
+          if $notation !~
+/^[A-Z]([A-Z]( [0-9]+(\.[0-9]+)?)?)?( - [A-Z]([A-Z]( [0-9]+(\.[0-9]+)?)?))?$/;
         $notation =~ s/\s*-\s*/-/;
         $notation =~ s/\s+/_/g;    # TODO: use %20 instead
         return "http://rvk.uni-regensburg.de/nt/$notation";
