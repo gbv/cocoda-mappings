@@ -21,6 +21,10 @@ foreach ($registry->concordances[0]->set as $conc) {
   Information about this list can also be accessed as JSKOS Registry from
   <a href="wikidata-concordances.json">wikidata-concordances.json</a>.
 </p>
+<p>
+  An API for live querying of mappings between Wikidata and other authority files 
+  <a href="../../services/wikidata/">is provided here</a>.
+</p>
 <table class="table sortable table-hover">
   <thead>
     <tr>
