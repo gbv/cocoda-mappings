@@ -1,12 +1,15 @@
 package GBV::ConceptScheme;
 use v5.14;
 
+use List::Util qw(any);
+
 sub new {
     my ($class, $scheme) = @_;
     
     # derive template from namespace, if available
     if ( my $namespace = $scheme->{namespace} ) {
-        $scheme->{template} ||= $namespace . '()' if $namespace;
+        $scheme->{template} ||=
+            $namespace . '(' . ($scheme->{pattern} || '.*') . ')';
     }
 
     bless $scheme, $class;
@@ -39,11 +42,38 @@ sub notation2uri {
 }
 
 sub notation2concept {
-    my ( $self, $notation ) = @_;
+    my ( $self, $notation, @fields ) = @_;
 
     if ( my $uri = $self->notation2uri($notation) ) {
-        return { uri => $uri, notation => [$notation] };
+        return $self->concept($uri, $notation, @fields);
     }
+}
+
+sub uri2concept {
+    my ($self, $uri, @fields) = @_;
+
+    my $template = $self->{template} // return;
+    return unless $uri =~ qr{$template};
+
+    my $notation = $1 // return;
+
+    # TODO: remove this special case
+    if ( $self->{uri} eq 'http://bartoc.org/en/node/533' ) {
+       $notation =~ s/_/ /g; 
+    }
+    
+    return $self->concept($uri, $notation, @fields);
+}
+
+sub concept {
+    my ( $self, $uri, $notation, @fields) = @_;
+    my %concept = (
+        uri => $uri,
+        notation => [$notation],
+    );
+    $concept{inScheme} = [ { uri => $self->{uri} } ]
+        if any { $_ eq 'inScheme' };
+    return \%concept;
 }
 
 sub minimal {
