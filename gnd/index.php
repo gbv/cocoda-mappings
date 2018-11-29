@@ -11,6 +11,9 @@ be used under <a href="http://creativecommons.org/publicdomain/zero/1.0/">CC
 1.0</a> in multiple formats. GND is being mapped to several other knowledge
 organization systems.</p>
 
+<p>An overview of GND mappings as of November 2018 is been given in <a href="tr12.html">coli-conc report 12</a>
+   (<a href="https://doi.org/10.5281/zenodo.1689997">https://doi.org/10.5281/zenodo.1689997</a>, in German)</p>
+
 <h3>Mappings from GND</h3>
 
 <p>
