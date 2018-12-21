@@ -21,7 +21,7 @@ organization systems.</p>
  <ul>
    <li>GND-DDC mappings (project CrissCross)</li>
    <li>GND-LCSH mappings (project macs)</li>
-   <li><strike>GND-RAMEAU mappings (project macs)</strike></li>
+   <li>GND-RAMEAU mappings (project macs): not included yet</li>
  </ul>
  Additional mappings are counted daily:
 </p>
