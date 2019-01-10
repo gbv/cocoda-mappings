@@ -19,6 +19,7 @@ rvk:
   prefLabel:
     de: Regensburger Verbundklassifikation
     -: ''
+  namespace: http://rvk.uni-regensburg.de/nt/
   CQLKEY: rvk
   EXAMPLES:
   - GB_3022

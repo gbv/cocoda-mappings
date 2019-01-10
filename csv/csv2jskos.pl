@@ -13,8 +13,8 @@ my $kos = importer( 'YAML', file => 'kos.yaml' )->first;
 $kos->{$_} = GBV::ConceptScheme->new($kos->{$_}) for keys %$kos;
 
 # get source and target KOS from filename
-$csvfile =~ /^([a-z]+)[_-]([a-z]+)[_-][a-z0-9_-]+\.csv$/
-  or die "CSV filename pattern must be source_target_text.csv\n";
+$csvfile =~ /^([a-z]+)[_-]([a-z]+)([_-][a-z0-9_-]+)?\.csv$/
+  or die "CSV filename pattern must be source_target[_text].csv\n";
 
 my ( $fromScheme, $toScheme ) = map {
     $kos->{$_} || die "KOS $_ not defined!\n"

@@ -4,12 +4,12 @@ use v5.14;
 use List::Util qw(any);
 
 sub new {
-    my ($class, $scheme) = @_;
-    
+    my ( $class, $scheme ) = @_;
+
     # derive template from namespace, if available
     if ( my $namespace = $scheme->{namespace} ) {
         $scheme->{template} ||=
-            $namespace . '(' . ($scheme->{pattern} || '.*') . ')';
+          $namespace . '(' . ( $scheme->{pattern} || '.*' ) . ')';
     }
 
     bless $scheme, $class;
@@ -18,16 +18,6 @@ sub new {
 sub notation2uri {
     my ( $self, $notation ) = @_;
     return if $notation eq '';
-
-    # TODO: remove once RVK URIs have been switched
-    if ( $self->{uri} eq 'http://bartoc.org/en/node/533' ) {
-        return
-          if $notation !~
-/^[A-Z]([A-Z]( [0-9]+(\.[0-9]+)?)?)?( - [A-Z]([A-Z]( [0-9]+(\.[0-9]+)?)?))?$/;
-        $notation =~ s/\s*-\s*/-/;
-        $notation =~ s/\s+/_/g;    # TODO: use %20 instead
-        return "http://rvk.uni-regensburg.de/nt/$notation";
-    }
 
     my $template = $self->{template} // return;
 
@@ -45,12 +35,12 @@ sub notation2concept {
     my ( $self, $notation, @fields ) = @_;
 
     if ( my $uri = $self->notation2uri($notation) ) {
-        return $self->concept($uri, $notation, @fields);
+        return $self->concept( $uri, $notation, @fields );
     }
 }
 
 sub uri2concept {
-    my ($self, $uri, @fields) = @_;
+    my ( $self, $uri, @fields ) = @_;
 
     my $template = $self->{template} // return;
     return unless $uri =~ qr{$template};
@@ -59,29 +49,26 @@ sub uri2concept {
 
     # TODO: remove this special case
     if ( $self->{uri} eq 'http://bartoc.org/en/node/533' ) {
-       $notation =~ s/_/ /g; 
+        $notation =~ s/_/ /g;
     }
-    
-    return $self->concept($uri, $notation, @fields);
+
+    return $self->concept( $uri, $notation, @fields );
 }
 
 sub concept {
-    my ( $self, $uri, $notation, @fields) = @_;
+    my ( $self, $uri, $notation, @fields ) = @_;
     my %concept = (
-        uri => $uri,
+        uri      => $uri,
         notation => [$notation],
     );
     $concept{inScheme} = [ { uri => $self->{uri} } ]
-        if any { $_ eq 'inScheme' };
+      if any { $_ eq 'inScheme' };
     return \%concept;
 }
 
 sub minimal {
-    my $self = shift;    
-    return {
-        map { ( $_ => $self->{$_} ) if $self->{$_} } 
-        qw(uri notation)
-    };
+    my $self = shift;
+    return { map { ( $_ => $self->{$_} ) if $self->{$_} } qw(uri notation) };
 }
 
 1;
