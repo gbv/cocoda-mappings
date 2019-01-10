@@ -60,6 +60,18 @@ lcsh:
   notation: ['LCSH']
   namespace: 'http://id.loc.gov/authorities/subjects/'
 
+ulan:
+  uri: 'http://bartoc.org/en/node/910'
+  notation: ['ULAN']
+  pattern: '500[0-9]{6}'
+  namespace: 'http://vocab.getty.edu/ulan/'
+
+viaf:
+  uri: 'http://bartoc.org/en/node/2053'
+  notation: ['VIAF']
+  namespace: 'http://viaf.org/viaf/'
+  pattern: '[1-9]\d(\d{0,7}|\d{17,20})'
+
 # not fully supported yet
 asb:
   CQLKEY: ASB
