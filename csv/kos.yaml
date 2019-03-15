@@ -73,6 +73,12 @@ viaf:
   namespace: 'http://viaf.org/viaf/'
   pattern: '[1-9]\d(\d{0,7}|\d{17,20})'
 
+ixtheo:
+  uri: 'http://www.ixtheo.de/classification/'
+  notation: ['ixtheo']
+  namespace: 'http://www.ixtheo.de/classification/'
+  pattern: '[A-Z][A-Z]?'
+
 # not fully supported yet
 asb:
   CQLKEY: ASB
