@@ -77,7 +77,7 @@ ixtheo:
   uri: 'http://www.ixtheo.de/classification/'
   notation: ['ixtheo']
   namespace: 'http://www.ixtheo.de/classification/'
-  pattern: '[A-Z][A-Z]?'
+  pattern: '[A-Z][A-Z]?[A-Z]?'
 
 # not fully supported yet
 asb:
