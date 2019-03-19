@@ -20,6 +20,7 @@ See file `README.md` in each particular directory for further documentation.
 
 * wdmapper
 * PHP >= 7.0 with ext-gd enabled
+* Catmandu (for Perl scripts)
 
 ~~~bash
 $ sudo apt-get install php-gd
