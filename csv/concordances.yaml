@@ -118,3 +118,7 @@ stw_gnd_zbw:
   about: Ausschnitt mit 1-zu-1 Mappings
   count: 5229
   creator: ZBW
+ddc_ixtheo_tuebingen:
+  about: DDC zu IxTheo-Klassifikation
+  creator: Timotheus Chang Whae Kim
+
