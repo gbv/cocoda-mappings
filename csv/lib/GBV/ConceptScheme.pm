@@ -47,9 +47,9 @@ sub uri2concept {
 
     my $notation = $1 // return;
 
-    # TODO: remove this special case
+    # special case for cleaning up RVK notations
     if ( $self->{uri} eq 'http://bartoc.org/en/node/533' ) {
-        $notation =~ s/_/ /g;
+        $notation =~ s/([^ ])-([^ ])/$1 - $2/g;
     }
 
     return $self->concept( $uri, $notation, @fields );
