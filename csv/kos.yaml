@@ -1,38 +1,35 @@
 ---
-ddc: 
+ddc:
   uri: http://bartoc.org/en/node/241
-  notation: 
+  notation:
     - DDC
   prefLabel:
     de: Dewey-Dezimalklassifikation
-    -: ''
-  template: 'http://dewey.info/class/(.+)/e23/'
-  pattern: '[0-9][0-9]?|[0-9]{3}(-[0-9]{3})?|[0-9]{3}\.[0-9]+(-[0-9]{3}\.[0-9]+)?|[1-9][A-Z]?--[0-9]+|[1-9][A-Z]?--[0-9]+(-[1-9][A-Z]?--[0-9]+)?'
+  uriPattern: 'http://dewey.info/class/(.+)/e23/'
+  notationPattern: '[0-9][0-9]?|[0-9]{3}(-[0-9]{3})?|[0-9]{3}\.[0-9]+(-[0-9]{3}\.[0-9]+)?|[1-9][A-Z]?--[0-9]+|[1-9][A-Z]?--[0-9]+(-[1-9][A-Z]?--[0-9]+)?'
   CQLKEY: ddc
   EXAMPLES:
   - class/612.112
   PICAPATH: 045F$a
 
-rvk: 
+rvk:
   uri: http://bartoc.org/en/node/533
   notation: ['RVK']
   prefLabel:
     de: Regensburger Verbundklassifikation
-    -: ''
   namespace: http://rvk.uni-regensburg.de/nt/
   CQLKEY: rvk
   EXAMPLES:
   - GB_3022
   PICAPATH: 045T$a
 
-bk: 
+bk:
   uri: http://bartoc.org/en/node/18785
   notation: ['BK']
   namespace: 'http://uri.gbv.de/terminology/bk/'
-  pattern: '(0|1-2|3-4|5|7-8|[0-9]{2}(\.[0-9]{2})?)'
+  notationPattern: '(0|1-2|3-4|5|7-8|[0-9]{2}(\.[0-9]{2})?)'
   prefLabel:
     de: Basisklassifikation
-    -: ''
   CQLKEY: BKL
   EXAMPLES:
   - '86.78'
@@ -43,9 +40,8 @@ gnd:
   notation: ['GND']
   prefLabel:
     de: Gemeinsame Normdatei
-    -: ''
   namespace: 'http://d-nb.info/gnd/'
-  pattern: '[0-9X-]+'
+  notationPattern: '[0-9X-]+'
   CQLKEY: GND
   EXAMPLES:
   - '118540475'
@@ -54,7 +50,7 @@ stw:
   uri: 'http://bartoc.org/en/node/313'
   notation: ['STW']
   namespace: 'http://zbw.eu/stw/descriptor/'
-  pattern: '[0-9]+-[0-9]'
+  notationPattern: '[0-9]+-[0-9]'
 
 lcsh:
   uri: 'http://bartoc.org/en/node/454'
@@ -64,20 +60,20 @@ lcsh:
 ulan:
   uri: 'http://bartoc.org/en/node/910'
   notation: ['ULAN']
-  pattern: '500[0-9]{6}'
+  notationPattern: '500[0-9]{6}'
   namespace: 'http://vocab.getty.edu/ulan/'
 
 viaf:
   uri: 'http://bartoc.org/en/node/2053'
   notation: ['VIAF']
   namespace: 'http://viaf.org/viaf/'
-  pattern: '[1-9]\d(\d{0,7}|\d{17,20})'
+  notationPattern: '[1-9]\d(\d{0,7}|\d{17,20})'
 
 ixtheo:
   uri: 'http://www.ixtheo.de/classification/'
   notation: ['ixtheo']
   namespace: 'http://www.ixtheo.de/classification/'
-  pattern: '[A-Z][A-Z]?[A-Z]?'
+  notationPattern: '[A-Z][A-Z]?[A-Z]?'
 
 # not fully supported yet
 asb:
@@ -89,7 +85,6 @@ asb:
   - ASB
   prefLabel:
     de: Allgemeine Systematik für Öffentliche Bibliotheken
-    -: ''
   uri: http://bartoc.org/en/node/732
 
 ssd:
@@ -101,7 +96,6 @@ ssd:
   - SSD
   prefLabel:
     de: Systematik der Stadtbibliothek Duisburg
-    -: ''
   uri: http://bartoc.org/en/node/1051
 
 sfb:
@@ -111,7 +105,6 @@ sfb:
   - SfB
   prefLabel:
     de: Systematik für Bibliotheken
-    -: ''
   uri: http://bartoc.org/en/node/335
 
 kab:
@@ -124,5 +117,3 @@ kab:
   - KAB
   prefLabel:
     de: Klassifikation für Allgemeinbibliotheken
-    -: ''
-
