@@ -41,8 +41,11 @@ importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
             return;
         }
 
-        my $fromSet = [ $fromScheme->notation2concept($fromNotation) ];
-        my $toSet   = [ $toScheme->notation2concept($toNotation) ];
+        my $fromConcept = $fromScheme->notation2concept($fromNotation);
+        my $toConcept   = $toScheme->notation2concept($toNotation);
+
+        my $fromSet = defined $fromConcept ? [$fromConcept] : [];
+        my $toSet   = defined $toConcept   ? [$toConcept]   : [];
 
         if ( @$fromSet && ( @$toSet || $toNotation eq '' ) ) {
             my %jskos = (
@@ -52,8 +55,6 @@ importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
                 toScheme   => $toScheme->minimal,
             );
 
-            # TODO: `sourcepreflabel` (optional, possibly empty)
-            # TODO: `targetepreflabel` (optional, possibly empty)
             $jskos{type} = ["http://www.w3.org/2004/02/skos/core#${type}Match"]
               if $m->{type};
 

@@ -21,9 +21,10 @@ sub notation2uri {
 
     my $uriPattern = $self->{uriPattern} // return;
 
-    # See <https://github.com/gbv/jskos/issues/69>
     if ( my $notationPattern = $self->{notationPattern} ) {
-        return if $notation !~ qr{^$notationPattern$};
+        if ( $notation !~ qr{^$notationPattern$} ) {
+            return;
+        }
     }
 
     my $uri = $uriPattern;
