@@ -6,10 +6,10 @@ use List::Util qw(any);
 sub new {
     my ( $class, $scheme ) = @_;
 
-    # derive template from namespace, if available
+    # derive uriPattern from namespace, if available
     if ( my $namespace = $scheme->{namespace} ) {
-        $scheme->{template} ||=
-          $namespace . '(' . ( $scheme->{pattern} || '.*' ) . ')';
+        $scheme->{uriPattern} ||=
+          $namespace . '(' . ( $scheme->{notationPattern} || '.*' ) . ')';
     }
 
     bless $scheme, $class;
@@ -19,13 +19,14 @@ sub notation2uri {
     my ( $self, $notation ) = @_;
     return if $notation eq '';
 
-    my $template = $self->{template} // return;
+    my $uriPattern = $self->{uriPattern} // return;
 
     # See <https://github.com/gbv/jskos/issues/69>
-    if ( my $pattern = $self->{pattern} ) {
-        return if $notation !~ qr{^$pattern$};
+    if ( my $notationPattern = $self->{notationPattern} ) {
+        return if $notation !~ qr{^$notationPattern$};
     }
-    my $uri = $template;
+
+    my $uri = $uriPattern;
     $notation =~ s/ /%20/g;
     $uri =~ s/\([^)]*\)/$notation/;
     return $uri;
@@ -42,8 +43,8 @@ sub notation2concept {
 sub uri2concept {
     my ( $self, $uri, @fields ) = @_;
 
-    my $template = $self->{template} // return;
-    return unless $uri =~ qr{$template};
+    my $uriPattern = $self->{uriPattern} // return;
+    return unless $uri =~ qr{$uriPattern};
 
     my $notation = $1 // return;
 

@@ -19,7 +19,7 @@ foreach ( keys %kosCode ) {
         next;
     };
 
-    my $pattern   = $kos->{$code}{pattern};
+    my $pattern   = $kos->{$code}{notationPattern};
     my $namespace = $kos->{$code}{namespace};
 
     $kos->{$code}{NOTATION} = qr{^$pattern$};

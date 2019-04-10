@@ -10,15 +10,14 @@ my ($csvfile) = @ARGV;
 
 # known concept schemes
 my $kos = importer( 'YAML', file => 'kos.yaml' )->first;
-$kos->{$_} = GBV::ConceptScheme->new($kos->{$_}) for keys %$kos;
+$kos->{$_} = GBV::ConceptScheme->new( $kos->{$_} ) for keys %$kos;
 
 # get source and target KOS from filename
 $csvfile =~ /^([a-z]+)[_-]([a-z]+)([_-][a-z0-9_-]+)?\.csv$/
   or die "CSV filename pattern must be source_target[_text].csv\n";
 
-my ( $fromScheme, $toScheme ) = map {
-    $kos->{$_} || die "KOS $_ not defined!\n"
-} ( $1, $2 );
+my ( $fromScheme, $toScheme ) =
+  map { $kos->{$_} || die "KOS $_ not defined!\n" } ( $1, $2 );
 
 # convert mappings in CSV to JSKOS
 my $exporter = exporter( 'JSON', line_delimited => 1 );
@@ -42,10 +41,10 @@ importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
             return;
         }
 
-        my $fromSet = [$fromScheme->notation2concept($fromNotation)];
-        my $toSet   = [$toScheme->notation2concept($toNotation)];
+        my $fromSet = [ $fromScheme->notation2concept($fromNotation) ];
+        my $toSet   = [ $toScheme->notation2concept($toNotation) ];
 
-        if ( @$fromSet && (@$toSet || $toNotation eq '')) {
+        if ( @$fromSet && ( @$toSet || $toNotation eq '' ) ) {
             my %jskos = (
                 from       => { memberSet => $fromSet },
                 to         => { memberSet => $toSet },
