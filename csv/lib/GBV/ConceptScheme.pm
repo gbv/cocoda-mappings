@@ -8,8 +8,7 @@ sub new {
 
     # derive uriPattern from namespace, if available
     if ( my $namespace = $scheme->{namespace} ) {
-        $scheme->{uriPattern} ||=
-          $namespace . '(' . ( $scheme->{notationPattern} || '.*' ) . ')';
+        $scheme->{uriPattern} ||= "$namespace(.+)";
     }
 
     bless $scheme, $class;
@@ -22,9 +21,7 @@ sub notation2uri {
     my $uriPattern = $self->{uriPattern} // return;
 
     if ( my $notationPattern = $self->{notationPattern} ) {
-        if ( $notation !~ qr{^$notationPattern$} ) {
-            return;
-        }
+        return if $notation !~ qr{^$notationPattern$};
     }
 
     my $uri = $uriPattern;
