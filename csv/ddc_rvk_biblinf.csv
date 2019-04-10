@@ -5,17 +5,17 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 020.601;Internationale Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.603-020.609;Nationale, gliedstaatliche, lokale Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.62;Dauerhafte Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
-020.621;Internationale Organisationen;AN 53000 ;Organisationsformen, Körperschaften: Allgemeines
+020.621;Internationale Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.622;Nationale Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.623;Organisationen auf regionaler und gliedstaatlicher Ebene;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 206.232;Regionalorganisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
-206.234;Organisationen auf gliedstaatlicher Ebene;AN 53000 ;Organisationsformen, Körperschaften: Allgemeines
+206.234;Organisationen auf gliedstaatlicher Ebene;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.624;Lokale Organisationen;AN 53000;Organisationsformen, Körperschaften: Allgemeines
 020.68;Management;AN 70000;Bibliotheksverwaltung: Allgemeines
 020.682;Anlagenmanagement;AN 70600;Bibliothekshaushalt, Etat
 020.683;Personalmanagement (Human Resource Management);AN 70800;Stellenpläne, Personalverwaltung
 020.7;Ausbildung, Forschung, verwandte Themen;AN 54500;Nachwuchsfragen, Berufsausbildung, Prüfungen
-020.7;Ausbildung, Forschung, verwandte Themen;AN 91500 ;Ausbildung 
+020.7;Ausbildung, Forschung, verwandte Themen;AN 91500;Ausbildung 
 020.7;Ausbildung, Forschung, verwandte Themen;AN 65900;Bibliotheksforschung 
 020.7;Ausbildung, Forschung, verwandte Themen;AN 91800;Forschung
 020.7;Ausbildung, Forschung, verwandte Themen;AN 54500;Nachwuchsfüragen, Berufsausbildung, Prüfungen, Spezialisierung
@@ -25,7 +25,7 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 208.827;Christliche Bibliothekare;AN 55000;Bibliothekar an wissenschaftlichen Bibliotheken
 208.827;Christliche Bibliothekare;AN 55600;Bibliothekar an öffentlichen Bibliotheken
 208.827;Christliche Bibliothekare;AN 69000;Kirchliche Bibliotheken
-020.9;Historische, geografische, personenbezogene Behandlung 0020.92 Archivare;AN 15200 ;Buchmuseen, Archive, Sammlungen
+020.9;Historische, geografische, personenbezogene Behandlung 0020.92 Archivare;AN 15200;Buchmuseen, Archive, Sammlungen
 020.973;Informationswissenschaft-USA,...;AN 99000;Information und Dokumentation in einzelnen Ländern
 021;Beziehungen zwischen Bibliotheken, Archiven, Informationszentren;AN 66000 - AN 66900;Beziehungen, Ausstrahlungen, Einwirkungen
 021.2;Bibliothek und Gemeinde;AN 66000;Bibliothek und Gesellschaft
@@ -36,7 +36,7 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 021.3;Beziehungen zu anderen Bildungseinrichtungen;AN 66500;Bibliothek, Schule und Erziehung 
 021.6;Kooperation und Netzwerke;AN 91300;Informationsnetze, Informationsverbund
 021.64;Kooperation;AN 91300;Informationsnetze, Informationsverbund 
-021.642;Kooperation durch Verbundkataloge;AN 75900 ;Verbundkataloge
+021.642;Kooperation durch Verbundkataloge;AN 75900;Verbundkataloge
 021.642;Kooperation durch Verbundkataloge;AN 91300;Informationsnetze, Informationsverbund
 021.65;Netzwerke;AN 91300;Informationsnetze, Informationsverbund
 021.7;Förderung von Bibliotheken, Archiven, Informationszentren;AK 30600;Förderung und Finanzierung durch den Staat 
@@ -74,23 +74,23 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 023.9;Bereiche des Personalmanagements;AN 54000;Bibliothekspersonal
 025.02;Technische Buchbearbeitung, technische Dienste;AN 73000;Datenverarbeitung: Allgemeines
 025.02;Technische Buchbearbeitung, technische Dienste;AN 95800;Technische Verfahren und Hilfsmittel
-025.04;Informationsspeicherung- und Information-Retrieval-Systeme;AN 96900 ;Informations- und Dokumentationssystem nach Art
+025.04;Informationsspeicherung- und Information-Retrieval-Systeme;AN 96900;Informations- und Dokumentationssystem nach Art
 025.06;Fachgebiets- und themenspezifische Informationsspeicherung- und Information-Retrieval-Systeme;AN 96900;Informations- und Dokumentationssystem nach Art
-025.060012;Wissenschaftliche Websites;AN 96900 ;Informations- und Dokumentationssystem nach Art 
-025.060013;Geisteswissenschaften;AN 96900 ;Informations- und Dokumentationssystem nach Art 
+025.060012;Wissenschaftliche Websites;AN 96900;Informations- und Dokumentationssystem nach Art 
+025.060013;Geisteswissenschaften;AN 96900;Informations- und Dokumentationssystem nach Art 
 250.615;Psychologie;AN 96900;Informations- und Dokumentationssystem nach Art 
 025.063;Sozialwissenschaften;AN 96900;Informations- und Dokumentationssystem nach Art 
 025.063067;Computersex-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 025.06324;Wahlen-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 250.633;Wirtschaft-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art
-250.634;Recht-Informationssysteme;AN 96900 ;Informations- und Dokumentationssystem nach Art 
+250.634;Recht-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 025.06364;Strafrechtliche Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art
 025.065;Naturwissenschaften-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
-025.06526;Mathematische Geografie-Informationssysteme;AN 96900 ;Informations- und Dokumentationssystem nach Art 
+025.06526;Mathematische Geografie-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 250.654;Chemie-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 250.655;Geowissenschaften-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art
 250.661;Medizinwissenschaft-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
-025.0661073;Krankenpflege-Medizin-Informationssysteme;AN 96900 ;Informations- und Dokumentationssystem nach Art 
+025.0661073;Krankenpflege-Medizin-Informationssysteme;AN 96900;Informations- und Dokumentationssystem nach Art 
 025.1;Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines 
 025.11;Finanzen;AN 70600;Bibliothekshaushalt, Etat
 025.12;Vervielfältigung als Dienstleistung (Reprografie);AP 98600;Reproduktionstechnik
@@ -101,21 +101,21 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 251.712;Handschriften-Behandlung in Bibliotheken;AM 46800;Handschriftenarten und Handschriftenbeschreibung: Katalogisierung und Katalogisierungsregeln
 251.714;Archivalien-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen 
 251.714;Archivalien-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
-251.716;Seltene Bücher-Behandlung in Bibliotheken;AN 78850 ;Sonderbestände: Rara
+251.716;Seltene Bücher-Behandlung in Bibliotheken;AN 78850;Sonderbestände: Rara
 251.716;Seltene Bücher-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
-025.172;Flugschriften-Behandlung in Bibliotheken;AN 78950 ;Sonderbestände: Einzelne Publikationsformen 
+025.172;Flugschriften-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen 
 025.172;Flugschriften-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 251.732;Fortlaufende Sammelwerke-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen
 251.732;Fortlaufende Sammelwerke-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 251.734;Amtliche Dokumente-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen
 251.734;Amtliche Dokumente-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
-251.736;Forschungsberichte-Behandlung in Bibliotheken;AN 78950 ;Sonderbestände: Einzelne Publikationsformen 
+251.736;Forschungsberichte-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen 
 251.736;Forschungsberichte-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 025.174;CD-ROMs-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen
 025.174;CD-ROMs-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 025.176;Atlanten-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen
 025.176;Atlanten-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
-025.177;Audiovisuelle Materialien-Behandlung in Bibliotheken;AN 78900 ;Sonderbestände: Auditive und audiovisuelle Medien
+025.177;Audiovisuelle Materialien-Behandlung in Bibliotheken;AN 78900;Sonderbestände: Auditive und audiovisuelle Medien
 025.177;Audiovisuelle Materialien-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 251.771;Abbildungen-Behandlung in Bibliotheken;AN 78900;Sonderbestände: Auditive und audiovisuelle Medien
 251.771;Abbildungen-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
@@ -133,15 +133,15 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 251.794;Mikroformen-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 251.796;Lernkarteien-Behandlung in Bibliotheken;AN 78950;Sonderbestände: Einzelne Publikationsformen
 251.796;Lernkarteien-Behandlung in Bibliotheken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
-025.19;Verwaltung einzelner Arten von Einrichtungen;AN 70000 ;Bibliotheksverwaltung: Allgemeines 
+025.19;Verwaltung einzelner Arten von Einrichtungen;AN 70000;Bibliotheksverwaltung: Allgemeines 
 025.19673;USA. National Archives and Records Administration;AN 70000;Bibliotheksverwaltung: Allgemeines 
 025.197;Allgemeinbibliotheken-Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines
 025.197092;Bibliotheksdirektoren;AN 70000 Bibliotheksverwaltung: Allgemeines;
 251.974;öffentliche Bibliotheken-Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines
 251.974;öffentliche Bibliotheken-Verwaltung;AN 69300;öffentliche Bibliotheken Volksbüchereien, Public Library
-251.975;Behördenbibliotheken-Verwaltung;AN 70000 ;Bibliotheksverwaltung: Allgemeines
+251.975;Behördenbibliotheken-Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines
 251.975;Behördenbibliotheken-Verwaltung;AN 69200;Behördenbibliotheken
-025.197573;Library of Congress-öffentliche Verwaltung;AN 70000 ;Bibliotheksverwaltung: Allgemeines
+025.197573;Library of Congress-öffentliche Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines
 025.197573;Library of Congress-öffentliche Verwaltung;AN 82000;Ausländische Bibliotheken
 025.197625;Kinderbibliotheken-Verwaltung;AN 70000;Bibliotheksverwaltung: Allgemeines
 025.197625;Kinderbibliotheken-Verwaltung;AN 69550;Kinderbibliothek
@@ -168,7 +168,7 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 252.187625;Kinderbibliotheken-Bestandsentwicklung;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
 252.187625;Kinderbibliothek;AN 69550;Kinderbibliothek
 252.187662;Krankenhausbibliotheken-Bestandsentwicklung;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
-252.187662;Krankenhausbibliotheken-Bestandsentwicklung;AN 69800 ;Gefängnisbibliotheken, Krankenhausbibliotheken u.ä.
+252.187662;Krankenhausbibliotheken-Bestandsentwicklung;AN 69800;Gefängnisbibliotheken, Krankenhausbibliotheken u.ä.
 252.187663;Behinderte Personen-Bibliotheken für-Bestandsentwicklung;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
 252.187663;Behinderte Personen-Bibliotheken für-Bestandsentwicklung;AN 69800;Gefängnisbibliotheken, Krankenhausbibliotheken u.ä.
 252.187663;Behinderte Personen-Bibliotheken für-Bestandsentwicklung;AN 67300;nach der Art der Benutzung
@@ -184,18 +184,18 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 025.233;Beziehungen zu Lieferanten;AN 71400;Erwerbungsarten: Kauf
 025.236;Tätigkeiten des Bropersonals;AN 71400;Erwerbungsarten: Kauf
 025.26;Erwerbung durch Tausch, Schenkung, Pflichtexemplare;AN 71500;Tausch
-025.26;Erwerbung durch Tausch, Schenkung, Pflichtexemplare;AN 71800 ;Geschenk
-025.26;Erwerbung durch Tausch, Schenkung, Pflichtexemplare;AN 71600 ;Pflichtexemplare
+025.26;Erwerbung durch Tausch, Schenkung, Pflichtexemplare;AN 71800;Geschenk
+025.26;Erwerbung durch Tausch, Schenkung, Pflichtexemplare;AN 71600;Pflichtexemplare
 025.27-025.29;Erwerbung und Bestandsentwicklung für einzelne Arten von Materialien;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
-025.27;Erwerbung und Bestandsentwicklung für fachgebiets- und themenspezifische Materialien;AN 71000 ;Erwerbung, Bestandsaufbau: Allgemeines
+025.27;Erwerbung und Bestandsentwicklung für fachgebiets- und themenspezifische Materialien;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
 025.28;Erwerbung und Bestandsentwicklung für Sonderformen;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
-025.28;Erwerbung und Bestandsentwicklung für Sonderformen;AN 71900 ;Sonderfüragen
+025.28;Erwerbung und Bestandsentwicklung für Sonderformen;AN 71900;Sonderfüragen
 252.814;Archivalien-Erwerbung in Bibliotheken;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
 252.832;Fortlaufende Sammelwerke-Erwerbung in Bibliotheken;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines 
 025.284;Elektronische Ressourcen-Erwerbung in Bibliotheken;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines 
 025.29;Erwerbung und Bestandsentwicklung für Materialien nach geografischen Gebieten;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines 
 025.291724;Publikationen aus EntwicklungsLändern-Erwerbung in Bibliotheken;AN 71000;Erwerbung, Bestandsaufbau: Allgemeines
-025.3;Bibliografische Analyse und Kontrolle;AN 95000 ;Bibliographische Erfassung, Suchpraxis 
+025.3;Bibliografische Analyse und Kontrolle;AN 95000;Bibliographische Erfassung, Suchpraxis 
 025.30285;Datenverarbeitung Computereinsatz;AN 73000;Datenverarbeitung: Allgemeines 
 025.30285572;Einsatz zur Datenaufbereitung und Datenpräsentation, von Datenformaten;AN 73000;Datenverarbeitung: Allgemeines
 025.30285574;Einsatz von Computerdateien und Datenbanken;AN 73000;Datenverarbeitung: Allgemeines
@@ -205,9 +205,9 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 253.132;Online-Kataloge;AN 74190;Elektronische Kataloge, Online-Kataloge 
 025.315;Struktur;AN 74000;Kataloge, Katalogisierung: Allgemeines
 025.316;Maschinenlesbare Katalogdatenformate;AN 74180;Kataloge in Mikroform
-025.317;Konvertierung und Datenhaltung;AN 74000 ;Kataloge, Katalogisierung: Allgemeines
+025.317;Konvertierung und Datenhaltung;AN 74000;Kataloge, Katalogisierung: Allgemeines
 253.173;Retrospektive Konvertierung;AN 74000;Kataloge, Katalogisierung: Allgemeines
-253.177;Sortierung, Ordnung, Ablage;AN 74000 ;Kataloge, Katalogisierung: Allgemeines
+253.177;Sortierung, Ordnung, Ablage;AN 74000;Kataloge, Katalogisierung: Allgemeines
 025.32;Formalkatalogisierung;AN 74300;Alphabetischer Formal-Katalog
 025.322;Bestimmung der Ansetzungsform und Art der Eintragung;AN 74300;Alphabetischer Formal-Katalog
 253.222;Normdateien;AN 74300;Alphabetischer Formal-Katalog
@@ -237,8 +237,8 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 025.346;Karten, Atlanten, Globen;AN 78950;Einzelne Publikationsformen
 025.347;Abbildungen und Materialien zu Projektionszwecken;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 ;;;
-253.471;Bilder und Drucke;AN 74800 ;Katalogisierung von Sonderbeständen (Medien)
-253.471;Bilder und Drucke;AN 78900 ;Auditive und audiovisuelle Medien
+253.471;Bilder und Drucke;AN 74800;Katalogisierung von Sonderbeständen (Medien)
+253.471;Bilder und Drucke;AN 78900;Auditive und audiovisuelle Medien
 253.473;Filme, Dias, Videoaufzeichnungen;AN 74800;Katalogisierung von Sonderbeständen (Medien)  
 253.473;Filme, Dias, Videoaufzeichnungen;AN 78900;Auditive und audiovisuelle Medien
 025.348;Tonaufzeichnungen und Partituren;AN 74800;Katalogisierung von Sonderbeständen (Medien)
@@ -255,13 +255,13 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 253.494;Mikroformen;AN 78950 Einzelne;AN 78950 Einzelne Publikationsformen
 253.496;Spiele, Medienpakete, Modelle, Spielzeug;AN 74800;Katalogisierung von Sonderbeständen (Medien)
 253.496;Spiele, Medienpakete, Modelle, Spielzeug;AN 78950;Einzelne Publikationsformen
-025.35;Kooperative Sacherschlie ung;AN 75000 ;Sacherschließung in Bibliotheken: Allgemeines
+025.35;Kooperative Sacherschlie ung;AN 75000;Sacherschließung in Bibliotheken: Allgemeines
 025.39;Rekatalogisierung, Umsystematisierung, Re-Indexierung;AN 74000;Kataloge, Katalogisierung: Allgemeines 
 025.393;Rekatalogisierung;AN 74000;Kataloge, Katalogisierung: Allgemeines
 025.396;Umsystematisierung;AN 74000;Kataloge, Katalogisierung: Allgemeines
 025.4;Inhaltsanalyse und thematische Kontrolle;AN 95500;Sacherschließung
 254.028;Abstractingverfahren;unterstützende Techniken und Verfahren;Geräte, Ausstattung, Materialien
-025.42;Klassifikation und Signaturenvergabe;AN 72100 ;Signaturenvergabe
+025.42;Klassifikation und Signaturenvergabe;AN 72100;Signaturenvergabe
 025.428;Signaturenvergabe;AN 72100;Signaturenvergabe
 025.43;Universalklassifikationssysteme;AN 93750;Sonstige universelle Systeme
 025.431;Dewey-Dezimalklassifikation;AN 93550;Dewey-Dezimalklassifikation
@@ -269,7 +269,7 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 025.433;Library of Congress Classification;AN 93650;Library of Congress-Classification
 025.434;Bliss Bibliographic Classification;AN 93750;Sonstige universelle Systeme
 025.435;Colon-Klassifikation;AN 93750;Sonstige universelle Systeme 
-025.46;Fachgebiets- und themenspezifische Klassifikation;AN 93800 ;Fachlich begrenzte Systeme
+025.46;Fachgebiets- und themenspezifische Klassifikation;AN 93800;Fachlich begrenzte Systeme
 025.47;Sachkatalogisierung;AN 75000;Sacherschließung in Bibliotheken: Allgemeines
 025.48;Schlagwortindexierung;AN 95100;Referieren, Klassifizieren, Indexieren
 025.482;Präkoordinierte Indexierung;AN 95100;Referieren, Klassifizieren, Indexieren
@@ -281,9 +281,9 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 025.5;Dienstleistungen für Benutzer;AN 70300;Bibliotheksorganisation und -betrieb, Rationalisierung, Zentrale Dienstleistungen
 255.019;Bibliotheksdienstleistungen-psychologische Aspekte;AN 70300;Bibliotheksorganisation und -betrieb, Rationalisierung, Zentrale Dienstleistungen
 025.50285;Publikumsdienstleistungen-Bibliotheken-Computereinsatz;AN 70300;Bibliotheksorganisation und -betrieb, Rationalisierung, Zentrale Dienstleistungen
-025.5092;Bibliotheksbenutzer;AN 77500 ;Bibliotheksbenutzer, Benutzerforschung, Benutzeranalyse
+025.5092;Bibliotheksbenutzer;AN 77500;Bibliotheksbenutzer, Benutzerforschung, Benutzeranalyse
 025.52;Auskunfts- und Informationsdienst;AN 76400;Auskunft, Information
-025.52;Auskunfts- und Informationsdienst;AN 96200 ;Auskunft und Beratung
+025.52;Auskunfts- und Informationsdienst;AN 96200;Auskunft und Beratung
 025.52;Auskunfts- und Informationsdienst;AN 96300;Wissensverbreitung, Informationsflu 
 025.523;Kooperativer Informationsdienst;AN 76400;Auskunft, Information 
 025.523;Kooperativer Informationsdienst;AN 96200;Auskunft und Beratung
@@ -291,85 +291,85 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 025.524;Informationssuche und Information Retrieval;AN 76400;Auskunft, Information
 025.524;Informationssuche und Information Retrieval;AN 96200;Auskunft und Beratung
 025.524;Informationssuche und Information Retrieval;AN 96500;Informationsbedarf
-025.525;Selective dissemination of information (SDI);AN 76400 ;Auskunft, Information
-025.525;Selective dissemination of information (SDI);AN 96200 ;Auskunft und Beratung
+025.525;Selective dissemination of information (SDI);AN 76400;Auskunft, Information
+025.525;Selective dissemination of information (SDI);AN 96200;Auskunft und Beratung
 025.527;Auskunfts- und Informationsdienst in einzelnen Arten von Einrichtungen;AN 76400;Auskunft, Information
-025.527;Auskunfts- und Informationsdienst in einzelnen Arten von Einrichtungen;AN 96200 ;Auskunft und Beratung
+025.527;Auskunfts- und Informationsdienst in einzelnen Arten von Einrichtungen;AN 96200;Auskunft und Beratung
 025.54;Lektüreberatung für Einzelpersonen und Gruppen;AN 76400;Auskunft, Information
-025.54;Lektüreberatung für Einzelpersonen und Gruppen;AN 96200 ;Auskunft und Beratung
+025.54;Lektüreberatung für Einzelpersonen und Gruppen;AN 96200;Auskunft und Beratung
 025.56;Benutzerorientierung und Benutzerschulung;AN 77500;Bibliotheksbenutzer, Benutzerforschung, Benutzeranalyse
 025.58;Bibliotheksnutzungsstudien;AN 76000;Bibliotheksbenutzung: Allgemeines 
 255.874;Öffentliche Bibliotheken Nutzungsstudien;AN 76000;Bibliotheksbenutzung: Allgemeines
 255.877;Wissenschaftliche Bibliotheken Nutzungsstudien;AN 76000;Bibliotheksbenutzung: Allgemeines
-255.878;Schulbibliotheken Nutzungsstudien;AN 76000 ;Bibliotheksbenutzung: Allgemeines
+255.878;Schulbibliotheken Nutzungsstudien;AN 76000;Bibliotheksbenutzung: Allgemeines
 025.6;Leihverkehr;AN 76700;Leihverkehr, Fernleihe
 025.62;Fernleihe;AN 76700;Leihverkehr, Fernleihe
 025.7;Technische Buchbearbeitung;AN 73000;Datenverarbeitung: Allgemeines
 025.8;Bestandspflege und Bestandserhaltung;AN 72300;Bestandssicherung
 025.8;Bestandspflege und Bestandserhaltung;AN 72400;Buchaussonderung, Behandlung veralteter Bestände
 025.81;Bestandsaufstellung und Zugang zu den Beständen;AN 72000;Buchaufstellung: Allgemeines
-025.82;Sicherung gegen Diebstahl und andere Risiken;AN 72300 ;Bestandssicherung
+025.82;Sicherung gegen Diebstahl und andere Risiken;AN 72300;Bestandssicherung
 025.84;Erhaltung;AN 72300;Bestandssicherung
-026-027;Einzelne Arten von Einrichtungen;AN 67000 - 69900 ;Bibliotheksarten
+026-027;Einzelne Arten von Einrichtungen;AN 67000 - 69900;Bibliotheksarten
 026;Fachgebiets- und themenspezifische Bibliotheken, Archive, Informationszentren;AN 68200;Fachbibliotheken
 260.006;Organisationen;AN 68200;Fachbibliotheken
-260.006;Organisationen;AN 70000 ;Bibliotheksverwaltung: Allgemeines
-026.00068;Management;AN 68200 ;Fachbibliotheken
+260.006;Organisationen;AN 70000;Bibliotheksverwaltung: Allgemeines
+026.00068;Management;AN 68200;Fachbibliotheken
 026.00068;Management;AN 70000;Bibliotheksverwaltung: Allgemeines
-026.001-026.999;Einzelne Themen und Fachgebiete ;AN 68200 ;Fachbibliotheken
-026.09;Rarabibliotheken;AN 68800 ;Sonstige
+026.001-026.999;Einzelne Themen und Fachgebiete;AN 68200;Fachbibliotheken
+026.09;Rarabibliotheken;AN 68800;Sonstige
 026.33;Wirtschaftswissenschaftliche Fachbibliotheken;AN 68200;Fachbibliotheken
 026.34;Juristische Fachbibliotheken;AN 68200;Fachbibliotheken
 026.5;Naturwissenschaften Bibliotheken;AN 68500;Naturwissenschaften
-026.55;Geowissenschaftliche Fachbibliotheken;AN 68500 ;Naturwissenschaften
+026.55;Geowissenschaftliche Fachbibliotheken;AN 68500;Naturwissenschaften
 026.6;Technische Fachbibliotheken;AN 68700;Technische Wissenschaften
 026.61;Medizinische Fachbibliotheken;AN 68600;Medizin und angewandte Wissenschaften
-026.63;Agrarwissenschaftliche Fachbibliotheken;AN 68700 ;Technische Wissenschaften
+026.63;Agrarwissenschaftliche Fachbibliotheken;AN 68700;Technische Wissenschaften
 026.7;Kunstbibliotheken;AN 68800;Sonstige
 026.78;Musikbibliotheken;AN 68800;Sonstige
 026.954;Südasien-Fachbibliotheken;AN 82000;Ausländische Bibliotheken
 026.954;Südasien-Fachbibliotheken;AN 68800;Sonstige
 026.973;USA. National Archives and Records Administration;AN 82000;Ausländische Bibliotheken  
-026.973;USA. National Archives and Records Administration;AN 68800 ;Sonstige
+026.973;USA. National Archives and Records Administration;AN 68800;Sonstige
 027;Allgemeinbibliotheken, Archive, Informationszentren;AN 67000;Bibliotheksarten: Allgemeines
-027.006;Organisationen;AN 67000 ;Bibliotheksarten: Allgemeines
+027.006;Organisationen;AN 67000;Bibliotheksarten: Allgemeines
 027.006;Organisationen;AN 70000;Bibliotheksverwaltung: Allgemeines
-027.0068;Management;AN 67000 ;Bibliotheksarten: Allgemeines
+027.0068;Management;AN 67000;Bibliotheksarten: Allgemeines
 027.0068;Management;AN 70000;Bibliotheksverwaltung: Allgemeines
-027.009;Historische und personenbezogene Behandlung;AN 67000 ;Bibliotheksarten: Allgemeines
+027.009;Historische und personenbezogene Behandlung;AN 67000;Bibliotheksarten: Allgemeines
 027.009;Historische und personenbezogene Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.01-027.09;Geografische Behandlung ;AN 67000 ;Bibliotheksarten: Allgemeines
-027.01-027.09;Geografische Behandlung ;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.01-027.09;Geografische Behandlung;AN 67000;Bibliotheksarten: Allgemeines
+027.01-027.09;Geografische Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
 027.1;Privat- und Familienbibliotheken;AN 69750;Privatbibliotheken
 027.109;Historische und personenbezogene Behandlung;AN 69750;Privatbibliotheken
-027.11-027.19;Geografische Behandlung;AN 69750 ;Privatbibliotheken
+027.11-027.19;Geografische Behandlung;AN 69750;Privatbibliotheken
 027.2;Bibliotheken auf Mitgliedschaftsbasis;AN 67100;Bibliotheksarten: nach Unterhaltsträger oder Eigentümer
 027.209;Historische und personenbezogene Behandlung;AN 67100;Bibliotheksarten: nach Unterhaltsträger oder Eigentümer
 027.209;Historische und personenbezogene Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.21-027.29;Geografische Behandlung;AN 67100 ;Bibliotheksarten: nach Unterhaltsträger oder Eigentümer
-027.21-027.29;Geografische Behandlung;AN 80000 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.3;Kommerzielle Bibliotheken;AN 67200 ;Bibliotheksarten: nach dem Grad der Zugänglichkeit
-027.3;Kommerzielle Bibliotheken;AN 67300 ;Bibliotheksarten: nach der Art der Benutzung
+027.21-027.29;Geografische Behandlung;AN 67100;Bibliotheksarten: nach Unterhaltsträger oder Eigentümer
+027.21-027.29;Geografische Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.3;Kommerzielle Bibliotheken;AN 67200;Bibliotheksarten: nach dem Grad der Zugänglichkeit
+027.3;Kommerzielle Bibliotheken;AN 67300;Bibliotheksarten: nach der Art der Benutzung
 027.309;Historische und personenbezogene Behandlung;AN 67200;Bibliotheksarten: nach dem Grad der Zugänglichkeit
-027.309;Historische und personenbezogene Behandlung;AN 67300 ;Bibliotheksarten: nach der Art der Benutzung 
-027.309;Historische und personenbezogene Behandlung;AN 80000 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.31-027.39;Geografische Behandlung;AN 67200 ;Bibliotheksarten: nach dem Grad der Zugänglichkeit
-027.31-027.39;Geografische Behandlung;AN 67300 ;Bibliotheksarten: nach der Art der Benutzung
-027.31-027.39;Geografische Behandlung;AN 80000 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.309;Historische und personenbezogene Behandlung;AN 67300;Bibliotheksarten: nach der Art der Benutzung 
+027.309;Historische und personenbezogene Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.31-027.39;Geografische Behandlung;AN 67200;Bibliotheksarten: nach dem Grad der Zugänglichkeit
+027.31-027.39;Geografische Behandlung;AN 67300;Bibliotheksarten: nach der Art der Benutzung
+027.31-027.39;Geografische Behandlung;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
 027.4;Öffentliche Bibliotheken;AN 69300;öffentliche Bibliotheken, Volksbüchereien, Public Library
 027.4093-027.4099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 69300;öffentliche Bibliotheken 
-027.4093-027.4099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 80000 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.473091734;Öffentliche Bibliotheken USA ländliche Gebiete;AN 69300 ;öffentliche Bibliotheken
-027.473091734;Öffentliche Bibliotheken USA ländliche Gebiete;AN 80000 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
-027.5;Behördenbibliotheken;AN 69200 ;Behördenbibliotheken
+027.4093-027.4099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.473091734;Öffentliche Bibliotheken USA ländliche Gebiete;AN 69300;öffentliche Bibliotheken
+027.473091734;Öffentliche Bibliotheken USA ländliche Gebiete;AN 80000;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.5;Behördenbibliotheken;AN 69200;Behördenbibliotheken
 027.5093-027.5099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 69200;Behördenbibliotheken
-027.5093-027.5099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 80000-89900 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.5093-027.5099;Behandlung nach einzelnen Kontinenten, Ländern, Ortschaften;AN 80000 - 89900;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
 027.53-027.59;Einzelne Einrichtungen;AN 69200;Behördenbibliotheken
-027.53-027.59;Einzelne Einrichtungen;AN 80000-89900 ;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
+027.53-027.59;Einzelne Einrichtungen;AN 80000 - 89900;Bibliothekswesen in einzelnen Ländern und einzelne Bibliotheken
 027.573;USA Library of Congress;AN 82000;Ausländische Bibliotheken
 027.573;USA Library of Congress;AN 69200;Behördenbibliotheken
-027.625;Kinderbibliotheken;AN 69550 ;Kinderbibliothek
-276.251;Geschichtenerzählen;AN 69550 ;Kinderbibliothek
+027.625;Kinderbibliotheken;AN 69550;Kinderbibliothek
+276.251;Geschichtenerzählen;AN 69550;Kinderbibliothek
 027.65;Behördenbibliotheken für spezielle Personengruppen;AN 69200;Behördenbibliotheken
 027.652;Parlamentarische Informationseinrichtungen;AN 69200;Behördenbibliotheken
 027.66;Bibliotheken von sozialen Einrichtungen;AN 67100;Bibliotheksarten: nach Unterhaltsträger oder Eigentümer
@@ -378,7 +378,7 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 027.663;Bibliotheken für behinderte Personen;AN 67400;nach der Art der Benutzung
 027.665;Gefängnisbibliotheken;AN 69800;Gefängnisbibliotheken, Krankenhausbibliotheken u.ä.
 027.67;Bibliotheken von religiösen Organisationen;AN 69000;Kirchliche Bibliotheken 
-027.67;Bibliotheken von religiösen Organisationen;AN 69600 ;Kirchliche öffentliche Büchereien
+027.67;Bibliotheken von religiösen Organisationen;AN 69600;Kirchliche öffentliche Büchereien
 027.68;Bibliotheken von gemeinnützigen Organisationen;AN 67100;nach Unterhaltsträger oder Eigentümer
 027.69;Bibliotheken von Wirtschaftsorganisationen und von Organisationen in Industrie und Handwerk;AN 69700;Werkbibliotheken, Industriebibliotheken
 027.7-027.8;Bibliotheken von Bildungseinrichtungen;AN 67800;Hochschulbibliotheken

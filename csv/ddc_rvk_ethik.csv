@@ -1,11 +1,11 @@
 fromNotation;sourcepreflabel;toNotation;targetpreflabel
-170;Ethik (Moralphilosophie);CC 7000 - CC 7267 ;Ethik
-170;Ethik (Moralphilosophie);BK 1540 - BK 1550 ;Moralphilosophie/Philosophische Ethik)
-170.4;Spezielle Themen der Ethik;BK 2500 - BK 8300 ;Spezielle Moraltheologie/Spezielle Ethik
+170;Ethik (Moralphilosophie);CC 7000 - CC 7267;Ethik
+170;Ethik (Moralphilosophie);BK 1540 - BK 1550;Moralphilosophie/Philosophische Ethik)
+170.4;Spezielle Themen der Ethik;BK 2500 - BK 8300;Spezielle Moraltheologie/Spezielle Ethik
 170.42;Metaethik;BK 1570;Metaethik
 170.44;Normative Ethik;CC 7240;Analytische Ethik und Axiologie
 170.44;Normative Ethik;CC 7250;Wertphilosophie, Sinnfrage
-170.[4408];Geschichte und Darstellung im Hinblick auf Personengruppen;CC 7000 ;Geschichte der Ethik
+170.[4408];Geschichte und Darstellung im Hinblick auf Personengruppen;CC 7000;Geschichte der Ethik
 171;Ethische Systeme;CP;Psychomotorik, Handeln, Leistung (human performance)
 171.1;Auf Autorität beruhende Systeme;CC 7220;Freiheit, Wille
 171.1;Auf Autorität beruhende Systeme;CC 7700;Gesellschaftsphilosophie
@@ -28,67 +28,67 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 171.6;Auf Gewissen beruhende Systeme;BU 5500;Gewissensbildung und sittliche Erziehung
 171.6;Auf Gewissen beruhende Systeme;PI 3580;Sittlichkeit, Ethik, Moral, Gewissen
 171.6;Auf Gewissen beruhende Systeme;PL 407;Art. 4 GG: Glaubens-, Gewissens- und Bekenntnisfreiheit
-171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;BK 2100 ;Das sittliche Objekt (Materie), Kasuistik, Situationsethik
+171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;BK 2100;Das sittliche Objekt (Materie), Kasuistik, Situationsethik
 171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;CC 7240;Analytische Ethik und Axiologie
-171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;PI 3580 ;Sittlichkeit, Ethik, Moral, Gewissen
+171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;PI 3580;Sittlichkeit, Ethik, Moral, Gewissen
 171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;CC 7264;Bio- und Medizinethik
 171.7;Auf Biologie, Genetik, Evolution, Erziehung, sozialen Faktoren beruhende Systeme;CC 7910;Marxismus, Marxismus-Leninismus, Kommunismus, Neomarxismus
-171.8;Auf Altruismus beruhende Systeme; CC 7250 ;Wertphilosophie, Sinnfrage
+171.8;Auf Altruismus beruhende Systeme;CC 7250;Wertphilosophie, Sinnfrage
 171.8;Auf Altruismus beruhende Systeme;BF 8200;Ethik (Praktische Philosophie-Wertphilosophie)
 171.8;Auf Altruismus beruhende Systeme;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
 171.8;Auf Altruismus beruhende Systeme;MR 7200;Werte und Wertsystem, Symbol und Moral
 171.8;Auf Altruismus beruhende Systeme;BK 2110;Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)
-171.9;Auf Egoismus beruhende Systeme; CC 7250 ;Wertphilosophie, Sinnfrage
+171.9;Auf Egoismus beruhende Systeme;CC 7250;Wertphilosophie, Sinnfrage
 171.9;Auf Egoismus beruhende Systeme;CR 7000;Besondere Persönlichkeitsmerkmale und Eigenschaften
-171.9;Auf Egoismus beruhende Systeme;BF 8200; (Praktische Philosophie-Wertphilosophie)
+171.9;Auf Egoismus beruhende Systeme;BF 8200;(Praktische Philosophie-Wertphilosophie)
 171.9;Auf Egoismus beruhende Systeme;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
 171.9;Auf Egoismus beruhende Systeme;MR 7200;Werte und Wertsystem, Symbol und Moral
 171.9;Auf Egoismus beruhende Systeme;BK 2110;Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)
-172;Politische Ethik;CC 7300 - 7950;Rechts-, Staat-, und Gesellschaftsphilosophie
+172;Politische Ethik;CC 7300 - CC 7950;Rechts-, Staat-, und Gesellschaftsphilosophie
 172;Politische Ethik;MD 6300;Politisches Handeln, Ethik und Politik, politische Verantwortung 
-172;Politische Ethik;PI 3580 ;Sittlichkeit, Ethik, Moral, Gewissen
+172;Politische Ethik;PI 3580;Sittlichkeit, Ethik, Moral, Gewissen
 172;Politische Ethik;MS 1290;Sozialphilosophie (auch Theorie der Gesellschaft), Sozial- und Kulturkritik (auch Dialektik), Entfremdung
 172.1;Verhältnis des Einzelnen zum Staat;PK 280;Staat und Bürger, Grund- und Menschenrechte, Widerstandsrecht, Mitwirkung des Einzelnen an der staatlichen Willensbildung 
-172.1;Verhältnis des Einzelnen zum Staat; MD 6300 ;Politisches Handeln, Ethik und Politik, politische Verantwortung
+172.1;Verhältnis des Einzelnen zum Staat;MD 6300;Politisches Handeln, Ethik und Politik, politische Verantwortung
 172.1;Verhältnis des Einzelnen zum Staat;CC 7800;Staatsphilosophie
 172.1;Verhältnis des Einzelnen zum Staat;CP 3100;Motivation und Handlung
 172.1;Verhältnis des Einzelnen zum Staat;CC 7620;Naturrecht
-172.2;Pflichten des Staats;CC 7800 ;Staatsphilosophie, Politologie
+172.2;Pflichten des Staats;CC 7800;Staatsphilosophie, Politologie
 172.2;Pflichten des Staats;PI 3520;Gerechtigkeit, Billigkeit, Individualgerechtigkeit, Schutz, allg. Werte, Gemeinwohl
 172.2;Pflichten des Staats;MD 4550;Gleichheit
 172.2;Pflichten des Staats;BK 2300;Gerechtigkeit
 172.2;Pflichten des Staats;CC 7600;Rechtsphilosophie
-172.4;Internationale Beziehungen;MK  ;Internationale Politik
-172.4;Internationale Beziehungen;MK 3600 ;Abrüstung, Rüstung 
-172.4;Internationale Beziehungen;BL 9970 ;Abrüstung, Rüstungsbegrenzung
+172.4;Internationale Beziehungen;MK;Internationale Politik
+172.4;Internationale Beziehungen;MK 3600;Abrüstung, Rüstung 
+172.4;Internationale Beziehungen;BL 9970;Abrüstung, Rüstungsbegrenzung
 172.4;Internationale Beziehungen;PR 2631;Spionage (BF Militärische Spionage)
 172.4;Internationale Beziehungen;CC 7800;Staatsphilosophie, Politologie
 172.4;Internationale Beziehungen;MD 6300;Politisches Handeln, Ethik und Politik, politische Verantwortung
 172.4;Internationale Beziehungen;MZ 6800;Abrüstung
-172.42;Krieg und Frieden;BL 9940  ;Krieg und Frieden, Aggression
+172.42;Krieg und Frieden;BL 9940;Krieg und Frieden, Aggression
 172.42;Krieg und Frieden;MK 3700;sonstige Einzelfragen (Internationale Friedensbewegung, Pazifismus)
 172.42;Krieg und Frieden;MK 3100;Krieg (Allgemein, Strategie, Militarismus) 
 172.42;Krieg und Frieden;BL 9990;Friedensforschung & Konfliktforschung
 172.42;Krieg und Frieden;BC 6865;Politik, Krieg, Frieden
-172.422;Atomwaffen und Atomkrieg;MD 6300 ;Politisches Handeln, Ethik und Politik, politische 
+172.422;Atomwaffen und Atomkrieg;MD 6300;Politisches Handeln, Ethik und Politik, politische 
 172.422;Atomwaffen und Atomkrieg;TB 2200;Ethische Fragen, Wesen, Bedeutung, Nutzen, Ziele
 172.422;Atomwaffen und Atomkrieg;AK 24400;Ethik, Wissenschaft und Gewissen
 172.422;Atomwaffen und Atomkrieg;MK 2400;Atomfragen, Strategie
-172.422;Atomwaffen und Atomkrieg;BK 5450; Krieg und Frieden, Aggression
-173;Familienethik ;BK 60500;Personen- und/oder Familienethik
-173;Familienethik ;BK 5100;Familie (Eltern, Kinder, Verwandte)
+172.422;Atomwaffen und Atomkrieg;BK 5450;Krieg und Frieden, Aggression
+173;Familienethik;BK 60500;Personen- und/oder Familienethik
+173;Familienethik;BK 5100;Familie (Eltern, Kinder, Verwandte)
 174;Berufsethik;CC 7262;Wirtschaftsethik
 174;Berufsethik;AK 24400;Ethik, Wissenschaft und Gewissen
-174;Berufsethik;Q 010;Mensch und Wirtschaft. Wirtschaftliches Verhalten. Motivation. Wirtschaftsethik
-174.1;Geistliche;CC 7260 ;Allgemeines
+174;Berufsethik;QC 010;Mensch und Wirtschaft. Wirtschaftliches Verhalten. Motivation. Wirtschaftsethik
+174.1;Geistliche;CC 7260;Allgemeines
 174.2;Medizinische Berufe;CC 7264;Bio- und Medizinethik
 174.2;Medizinische Berufe;BK 8200;Medizin, Biologie
-174.2;Medizinische Berufe;XC 2800 ;Allgemeines
+174.2;Medizinische Berufe;XC 2800;Allgemeines
 174.2;Medizinische Berufe;AK 24400;Ethik, Wissenschaft und Gewissen
 174.2;Medizinische Berufe;WF 9710;Rechtliche, gesellschaftliche und ethische Aspekte der Biotechnologie
 174.22;Hippokratischer Eid;CC 7264;Bio- und Medizinethik
 174.22;Hippokratischer Eid;BK 8200;Medizin, Biologie
-174.22;Hippokratischer Eid;XC 2800 ;Allgemeines
+174.22;Hippokratischer Eid;XC 2800;Allgemeines
 174.24;Fragen von Leben und Tod;BK 6100;Gesundheit, Krankheit, Tod, Schmerz 
 174.24;Fragen von Leben und Tod;CC 7264;Bio- und Medizinethik
 174.24;Fragen von Leben und Tod;BK 6120;Lebensbeginn und Lebensende
@@ -100,91 +100,91 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 174.26;Wirtschaftliche Fragen;XC 2800;Allgemeines
 174.26;Wirtschaftliche Fragen;CC 7262;Wirtschaftsethik
 174.28;Experimentieren;CC 7264;Bio- und Medizinethik
-174.28;Experimentieren;XC 2800 ;Allgemeines
+174.28;Experimentieren;XC 2800;Allgemeines
 174.28;Experimentieren;PJ 2360;Sonstige Einzelfragen
 174.28;Experimentieren;AK 24400;Ethik, Wissenschaft und Gewissen
 174.28;Experimentieren;BK 8200;Medizin, Biologie
 174.28;Experimentieren;BK 6200;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
 174.29;Einzelne Themen und Bereiche der Medizin und Gesundheit;CC 7264;Bio- und Medizinethik
-174.29073;Krankenpflege, Medizinethik;XC 2816 ;Pflege und Erziehung des Patienten, Literatur für Gesundheitsfachberufe
-174.2951;Pharmazeutische Ethik, . . .;XC 2800 ;Allgemeines
+174.29073;Krankenpflege, Medizinethik;XC 2816;Pflege und Erziehung des Patienten, Literatur für Gesundheitsfachberufe
+174.2951;Pharmazeutische Ethik, . . .;XC 2800;Allgemeines
 174.2951;Pharmazeutische Ethik, . . .;BK 8200;Medizin, Biologie
 174.295895;Gentherapie Medizinethik;CC 7264;Bio- und Medizinethik
 174.295895;Gentherapie Medizinethik;BK 8200;Medizin, Biologie
 174.295895;Gentherapie Medizinethik;XC 2811;Methodik, Arbeitsmethoden, Nachweise, (einschließlich Apparate, Instrumente, Einrichtung)
 174.296042;Genetische Störungen Menschen Medizinethik, . . .;CC 7264;Bio- und Medizinethik
-174.296042;Genetische Störungen Menschen Medizinethik, . . .;XC 2800 ;Allgemeines
+174.296042;Genetische Störungen Menschen Medizinethik, . . .;XC 2800;Allgemeines
 174.29689;Psychiatrie Medizinethik;XC 2893;Neurologie, Psychiatrie und Psychotherapie, Medizinische Psychologie
 174.29689;Psychiatrie Medizinethik;CC 7264;Bio- und Medizinethik
-174.29689;Psychiatrie Medizinethik;PJ 2380 ;Komplexe Untersuchungen, Querschnittsfragen
+174.29689;Psychiatrie Medizinethik;PJ 2380;Komplexe Untersuchungen, Querschnittsfragen
 174.297954;Organtransplantationen Medizinethik;CC 7264;Bio- und Medizinethik
-174.297954;Organtransplantationen Medizinethik;XC 2800 ;Allgemeines
+174.297954;Organtransplantationen Medizinethik;XC 2800;Allgemeines
 174.297954;Organtransplantationen Medizinethik;BK 8200;Medizin, Biologie
 174.297954;Organtransplantationen Medizinethik;PJ 2320;Transplantation, Organtransplantation, Organspende, Sektion, Transfusionsrecht
 174.297954;Organtransplantationen Medizinethik;BK 6200;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
-174.29892;Pädiatrie Medizinethik;XC 2898 ;Kinderheilkunde
-174.29892;Pädiatrie Medizinethik;CC 7264 ;Bio- und Medizinethik
-174.3;Juristische Berufe;CC 7600 ;
+174.29892;Pädiatrie Medizinethik;XC 2898;Kinderheilkunde
+174.29892;Pädiatrie Medizinethik;CC 7264;Bio- und Medizinethik
+174.3;Juristische Berufe;CC 7600;
 174.3;Juristische Berufe;PI 3580;Sittlichkeit, Ethik, Moral, Gewissen
 174.30973;Richter Berufsethik USA, . . .;PU 5310;Rechtsphilosophie - AUS
 174.30973;Richter Berufsethik USA, . . .;CC 7600;Rechtsphilosophie
-174.4;Wirtschaftsethik;CC 7262 ;Wirtschaftsethik
-174.6;Glücksspielindustrie;CC 7262 ;Wirtschaftsethik
+174.4;Wirtschaftsethik;CC 7262;Wirtschaftsethik
+174.6;Glücksspielindustrie;CC 7262;Wirtschaftsethik
 174.907;Journalisten Berufsethik, . . .;AP 13625;Ethik
 174.907;Journalisten Berufsethik, . . .;AP 23600;Ethik, Moral
-174.957;Bioethik, . . .;CC 7264 ;Bio- und Medizinethik
+174.957;Bioethik, . . .;CC 7264;Bio- und Medizinethik
 174.957;Bioethik, . . .;BK 6200;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
 174.9796;Sportler Berufsethik;CC 7260 - CC 7267;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)
-174.9796;Sportler Berufsethik;ZX 7070 - ZX 7079;"Ethik im Sport; Fairness
-175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 7260 bis CC 7267;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)
+174.9796;Sportler Berufsethik;ZX 7070 - ZX 7079;"Ethik im Sport;Fairness
+175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 7260 - CC 7267;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)
 175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;AP 13625;Ethik
 175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;BK 7600;Ethik der Inforamtionsmedien
-175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 800 bis CC 8300;Geschichts- und Kulturphilosophie
+175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 800 - CC 8300;Geschichts- und Kulturphilosophie
 175;Ethik von Freizeit und Erholung, öffentlichen Darbietungen, Kommunikation;CC 8400;Medienphilosophie
 176;Sexual- und Reproduktionsethik;CC 7264;Angewandte Ethik (Bioethik, Medizinische Ethik, Ethik der einzelnen Wissenschaften)
 176;Sexual- und Reproduktionsethik;PJ 2280;Forschung am Menschen (u.a. Reproduktionsmedizin, Genforschung und -technologie den Menschen betreffend)
 176;Sexual- und Reproduktionsethik;XC 2895;Gynäkologie, Geburtshilfe
-176;Sexual- und Reproduktionsethik;BK 6400 bis BK 6900;Verantwortung für Ehe und Geschlechtsleben
+176;Sexual- und Reproduktionsethik;BK 6400 - BK 6900;Verantwortung für Ehe und Geschlechtsleben
 176.5;Prostitution;CC 7260;Bio- und Medizinethik
-176.5;Prostitution;MS 2880 ;Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)
-176.5;Prostitution;PH 8820;""Gewalt / Sexualverhalten; Vergewaltigung, Sexueller Miábrauch, Sexuelle Nötigung; Kind / Sexueller Miábrauch; Pornographie; Prostitution; Zuhälterei; Abweichendes Sexualverhalten"
-176.7;Obszönität und Pornografie;CC 7250 ;Wertphilosophie, Sinnfrage
-176.7;Obszönität und Pornografie;MS 2880 ;Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)
-176.8;Obszönität und Pornografie in der Literatur;CC 7250 ;Wertphilosophie, Sinnfrage
-176.8;Obszönität und Pornografie in der Literatur;EC 8735 ;Pornographie
+176.5;Prostitution;MS 2880;Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)
+176.5;Prostitution;PH 8820;""Gewalt / Sexualverhalten;Vergewaltigung, Sexueller Miábrauch, Sexuelle Nötigung;Kind / Sexueller Miábrauch;Pornographie;Prostitution;Zuhälterei;Abweichendes Sexualverhalten"
+176.7;Obszönität und Pornografie;CC 7250;Wertphilosophie, Sinnfrage
+176.7;Obszönität und Pornografie;MS 2880;Sexuierte Praktiken (Prostitution, Pornographie, auch abweichendes Sexualverhalten, etc.)
+176.8;Obszönität und Pornografie in der Literatur;CC 7250;Wertphilosophie, Sinnfrage
+176.8;Obszönität und Pornografie in der Literatur;EC 8735;Pornographie
 177;Ethik sozialer Beziehungen;CC 7250;Wertphilosophie, Sinnfrage
 177;Ethik sozialer Beziehungen;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
 177;Ethik sozialer Beziehungen;CC 7700;Gesellschaftsphilosophie
 177.1;Benehmen, Gastfreundlichkeit, Höflichkeit;BK 2110;Das handelnde Subjekt (Akt, Handlung, Gesinnung, Gewohnheit, Motiv, Verhaltensforschung)
-177.1;Benehmen, Gastfreundlichkeit, Höflichkeit;CC 6400 - CC 6600 ;Philosophische Anthropologie
+177.1;Benehmen, Gastfreundlichkeit, Höflichkeit;CC 6400 - CC 6600;Philosophische Anthropologie
 177.1;Benehmen, Gastfreundlichkeit, Höflichkeit;LB 60000 - LB 60730;Philosophische Anthropologie
 177.1;Benehmen, Gastfreundlichkeit, Höflichkeit;MR 7300;Soziale Normen, Leitbilder, Sanktionen, Institutionen
-177.2;Konversation;CC 4600 - CC 4800 ;Sprachphilosophie
+177.2;Konversation;CC 4600 - CC 4800;Sprachphilosophie
 177.2;Konversation;MR 6600;Theorie der sozialen Interaktion, Kommunikation, Konformität
-177.3;Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei;BK 7300 ;Wahrhaftigkeit, Lge
+177.3;Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei;BK 7300;Wahrhaftigkeit, Lge
 177.3;Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei;CC 7250;Wertphilosophie, Sinnfrage
 177.3;Aufrichtigkeit, Lügen, Beleidigung, Schmeichelei;CV 3500;Interpersonelle Kommunikation (verbale und nonverbale Kommunikation)
 177.5;Diskriminierende Handlungen und Sklaverei;BK 2003;Menschenbild (Natur und Person, Einzelwesen und Gemeinschaftswesen)
-177.5;Diskriminierende Handlungen und Sklaverei;CC 7220 ;Freiheit, Wille
+177.5;Diskriminierende Handlungen und Sklaverei;CC 7220;Freiheit, Wille
 177.5;Diskriminierende Handlungen und Sklaverei;PL 406;Gleichbehandlungsgrundsatz
 177.5;Diskriminierende Handlungen und Sklaverei;NW 8295;Sklaverei
 177.6;Freundschaft und Beziehungsanbahnung;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
 177.6;Freundschaft und Beziehungsanbahnung;BK 4100;Freund und Feind
-177.6;Freundschaft und Beziehungsanbahnung;BK 2003 ;Menschenbild
+177.6;Freundschaft und Beziehungsanbahnung;BK 2003;Menschenbild
 177.6;Freundschaft und Beziehungsanbahnung;BK 2005;Der menschlich-sittliche-Akt
-177.6;Freundschaft und Beziehungsanbahnung;BK 2110 ;Das handelnde Subjekt
-177.62;Freundschaft;BK 4100 ;Freund und Feind
+177.6;Freundschaft und Beziehungsanbahnung;BK 2110;Das handelnde Subjekt
+177.62;Freundschaft;BK 4100;Freund und Feind
 177.62;Freundschaft;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
-177.62;Freundschaft;BK 2003 ;Menschenbild
+177.62;Freundschaft;BK 2003;Menschenbild
 177.62;Freundschaft;BK 2005;Der menschlich-sittliche-Akt
-177.62;Freundschaft;BK 2110 ;Das handelnde Subjekt
+177.62;Freundschaft;BK 2110;Das handelnde Subjekt
 177.65;Beziehungsanbahnung;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
-177.65;Beziehungsanbahnung;BK 2003 ;Menschenbild
+177.65;Beziehungsanbahnung;BK 2003;Menschenbild
 177.65;Beziehungsanbahnung;BK 2005;Der menschlich-sittliche-Akt
-177.65;Beziehungsanbahnung;BK 2110 ;Das handelnde Subjekt
-177.65;Beziehungsanbahnung;BK 4100 ;Freund und Feind
+177.65;Beziehungsanbahnung;BK 2110;Das handelnde Subjekt
+177.65;Beziehungsanbahnung;BK 4100;Freund und Feind
 177.7;Liebe;BK 4000;Nächstenliebe, Selbstliebe (Ich-Du-Wir)
-177.7;Liebe;BK 6500 ;Geschlechtliche Liebe (Sexus, Eros, Philia, Agape)
+177.7;Liebe;BK 6500;Geschlechtliche Liebe (Sexus, Eros, Philia, Agape)
 178;Konsumethik;CC 7262;Wirtschaftsethik
 178;Konsumethik;BL 8130;Konsumfreiheit
 178;Konsumethik;CC 7250;Wertphilosophie, Sinnfrage
@@ -208,27 +208,27 @@ fromNotation;sourcepreflabel;toNotation;targetpreflabel
 179.3;Behandlung von Tieren;BK 6200;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
 179.3;Behandlung von Tieren;ZC 93920;Jagd und Ehtik
 179.3;Behandlung von Tieren;ZD 16300;International, Allgemeines
-179.4;Experimente mit Tieren;BK 6200 ;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
-179.4;Experimente mit Tieren;XC 2800 - XC 2899 ;Arzt und Patient, Medizinische Ethik, Vivisektion
+179.4;Experimente mit Tieren;BK 6200;Eingriff in das Leben (Gentechnik, Operationen, Transplantationen, Menschenversuche, Sterilisation, Tierversuche)
+179.4;Experimente mit Tieren;XC 2800 - XC 2899;Arzt und Patient, Medizinische Ethik, Vivisektion
 179.5;Blasphemie, Schimpfwörter, Obszönität in der gesprochenen Sprache;BK 2280;Einzellaster
 179.5;Blasphemie, Schimpfwörter, Obszönität in der gesprochenen Sprache;CS 4500;Ausdruckspsychologie, Graphologie, zeichnerischer Ausdruck
-179.6;Mut und Feigheit;BK 2270 ;Einzeltugenden
+179.6;Mut und Feigheit;BK 2270;Einzeltugenden
 179.6;Mut und Feigheit;CP 3700;Angst
 179.6;Mut und Feigheit;CC 72250;Freiheit, Wille
 179.6;Mut und Feigheit;BK 2250;Tugend allgemein
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6100;Gesundheit, Krankheit, Tod, Schmerz
-179.7;Respekt und Respektlosigkeit vor menschlichem Leben;CC 7264 ;Bio- und Medizinethik
-179.7;Respekt und Respektlosigkeit vor menschlichem Leben;CW 6920 ;Suizid (Ursachen, Gefährdete, Verhütung ...)
-179.7;Respekt und Respektlosigkeit vor menschlichem Leben;PJ 2300 ;Selbstmord, Sterbehilfe (Euthanasie), Recht auf Leben
-179.7;Respekt und Respektlosigkeit vor menschlichem Leben;MS 6300 ;Sterben, Tod
-179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6140 ;Selbstmord
+179.7;Respekt und Respektlosigkeit vor menschlichem Leben;CC 7264;Bio- und Medizinethik
+179.7;Respekt und Respektlosigkeit vor menschlichem Leben;CW 6920;Suizid (Ursachen, Gefährdete, Verhütung ...)
+179.7;Respekt und Respektlosigkeit vor menschlichem Leben;PJ 2300;Selbstmord, Sterbehilfe (Euthanasie), Recht auf Leben
+179.7;Respekt und Respektlosigkeit vor menschlichem Leben;MS 6300;Sterben, Tod
+179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6140;Selbstmord
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6120;Lebensbeginn und Lebensende (Todeszeitpunkt)
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6130;Angriff auf das Leben (Mord, Selbstmord, Euthanasie)
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BL 9960;Spezielle Fragen, Gewaltloser Widerstand, Revolution, Terrorismus
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;MD 8920;Terror, Gewalt, Mord
 179.7;Respekt und Respektlosigkeit vor menschlichem Leben;BK 6150;Euthanasie
-179.76;Schwangerschaftsabbruch;BK 6135 ;Schwangerschaftsabbruch
+179.76;Schwangerschaftsabbruch;BK 6135;Schwangerschaftsabbruch
 179.76;Schwangerschaftsabbruch;CC 7264;Bio- und Medizinethik
-179.8;Laster, Fehler, Mängel;BK 2280 ;Einzellaster
-179.9;Tugenden;BK 2270 ;Einzeltugenden
+179.8;Laster, Fehler, Mängel;BK 2280;Einzellaster
+179.9;Tugenden;BK 2270;Einzeltugenden
 179.9;Tugenden;MD 4520;Toleranz

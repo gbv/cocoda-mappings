@@ -1,7 +1,7 @@
 fromNotation;sourcepreflabel;toNotation
-1;Philosophy & psychology;CA-CK
-1;;CL-CZ
-10;Philosophy;CL-CZ
+1;Philosophy & psychology;CA - CK
+1;;CL - CZ
+10;Philosophy;CL - CZ
 101;Theory of philosophy;CC 3000 - CC 3300
 101;;CC 3400 - CC 3900
 101;;CC 4000 - CC 4500
@@ -363,7 +363,7 @@ fromNotation;sourcepreflabel;toNotation
 142.78;		;IH 1676
 143;Bergsonism and intuitionism;CI 5500 - CI 5517
 143;				;BF 5190 - BF 5191
-144;Humanism and related systems and doctrines;Bo 5325
+144;Humanism and related systems and doctrines;BO 5325
 144;				;MC 4100
 144.3;Pragmatism;CI 1110
 144.3;		;BL 4800
@@ -418,7 +418,7 @@ fromNotation;sourcepreflabel;toNotation
 149.97;	;CI 1125
 149.97;;MR 5450
 15;Psychology
-150;Psychology;CL - CZ Psychologie
+150;Psychology;CL - CZ
 150.1;Philosophy and theory, systems, viewpoints
 150.15195;Psychometrics, ...;QH 254
 150.19;Systems, schools, viewpoints;Keine Treffer
@@ -519,7 +519,7 @@ fromNotation;sourcepreflabel;toNotation
 152.4;Emotions;CZ 1330
 152.40287;Emotional intelligence tests, ...;CT 1000
 152.41;Love and affection;BL 3180
-152.41;		;Bk 6500
+152.41;		;BK 6500
 152.42;Pleasure, enjoyment, happiness, joy, ecstasy;
 152.43;Wit and humor;EC 3930
 152.44;Guilt and shame;BC 6880
@@ -541,7 +541,7 @@ fromNotation;sourcepreflabel;toNotation
 153.0287;;CT 2000 - CT 2400
 153.0287;;CT 2400
 153.0287;;CT 3000
-153.0287;;CT CT 4000 - CT 4880
+153.0287;;CT 4000 - CT 4880
 153.1;Memory and learning;CP 5000
 153.1;			;MR 6200
 153.1;;WW 4200

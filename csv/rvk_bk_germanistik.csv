@@ -172,8 +172,8 @@ GF 7182;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7183;Übersetzungen;18.10;Deutsche Literatur
 GF 7183;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7184;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7199;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7199;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7200;Einzelausgaben;18.10;Deutsche Literatur
 GF 7200;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7201;Übersetzungen;18.10;Deutsche Literatur
@@ -272,8 +272,8 @@ GF 7353;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7354;Übersetzungen;18.10;Deutsche Literatur
 GF 7354;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7355;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7470;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7470;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7471;Einzelausgaben;18.10;Deutsche Literatur
 GF 7471;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7472;Übersetzungen;18.10;Deutsche Literatur
@@ -558,7 +558,7 @@ GF 7992;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;17.97;Texte eines einzelnen Autors
 GF 7902;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7904 ;Primärliteratur;18.10;Deutsche Literatur
+GF 7904;Primärliteratur;18.10;Deutsche Literatur
 GF 7904;Primärliteratur;17.97;Texte eines einzelnen Autors
 GF 7905;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7907;Primärliteratur;18.10;Deutsche Literatur
@@ -895,7 +895,7 @@ GF 7181;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7182;Einzelausgaben;18.10;Deutsche Literatur
 GF 7183;Übersetzungen;18.10;Deutsche Literatur
 GF 7184;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7199;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7200;Einzelausgaben;18.10;Deutsche Literatur
 GF 7201;Übersetzungen;18.10;Deutsche Literatur
 GF 7202;Sekundärliteratur;18.10;Deutsche Literatur
@@ -953,7 +953,7 @@ GF 7352;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7353;Einzelausgaben;18.10;Deutsche Literatur
 GF 7354;Übersetzungen;18.10;Deutsche Literatur
 GF 7355;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7470;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7471;Einzelausgaben;18.10;Deutsche Literatur
 GF 7472;Übersetzungen;18.10;Deutsche Literatur
 GF 7473;Sekundärliteratur;18.10;Deutsche Literatur
@@ -1119,7 +1119,7 @@ GF 7991;Übersetzungen;18.10;Deutsche Literatur
 GF 7992;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;18.10;Deutsche Literatur
 GF 7902;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7904 ;Primärliteratur;18.10;Deutsche Literatur
+GF 7904;Primärliteratur;18.10;Deutsche Literatur
 GF 7905;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7907;Primärliteratur;18.10;Deutsche Literatur
 GF 7908;Sekundärliteratur;18.10;Deutsche Literatur
@@ -1332,7 +1332,7 @@ GF 7177;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7181;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7182;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7183;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 7199 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7199;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7200;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7201;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7215;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -1374,7 +1374,7 @@ GF 7346;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7352;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7353;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7354;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 7470 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7470;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7471;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7472;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7498;Gesamtausgaben;17.97;Texte eines einzelnen Autors
@@ -1700,9 +1700,9 @@ GG 3871;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu ande
 GG 3925;Allgemeines;18.10;Deutsche Literatur
 GG 3925;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GG 4033;Metrik. Rhythmik;18.10;Deutsche Literatur
-GG 4033;Metrik. Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GG 4033;Metrik. Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GG 4125;Stilistik (Stilforschung);18.10;Deutsche Literatur
-GG 4125;Stilistik (Stilforschung);17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GG 4125;Stilistik (Stilforschung);17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GG 4130;Gattungsprobleme;18.10;Deutsche Literatur
 GG 4130;Gattungsprobleme;17.80;Literarische Gattungen: Allgemeines
 GG 4141;Sonstiges;18.10;Deutsche Literatur
@@ -1959,7 +1959,7 @@ GN 2935;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 2946;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GN 2947;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GN 2948;Übersetzungen;17.97;Texte eines einzelnen Autors
-Gn 3058;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 3058;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3070;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3090;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3173;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -2043,7 +2043,7 @@ GN 3970;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3990;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GN 3991;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GN 3992;Übersetzungen;17.97;Texte eines einzelnen Autors
-GN 4058 ;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 4058;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4081;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4100;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4140;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -2413,8 +2413,8 @@ GN 8877;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8881;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8887;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8889;Primärliteratur;17.97;Texte eines einzelnen Autors
-Gn 8891;Primärliteratur;17.97;Texte eines einzelnen Autors
-Gn 8894;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 8891;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 8894;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8897;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8899;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 9001;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -2584,8 +2584,8 @@ GN 2946;Gesamtausgaben;18.10;Deutsche Literatur
 GN 2947;Einzelausgaben;18.10;Deutsche Literatur
 GN 2948;Übersetzungen;18.10;Deutsche Literatur
 GN 2949;Sekundärliteratur;18.10;Deutsche Literatur
-Gn 3058;Primärliteratur;18.10;Deutsche Literatur
-Gn 3059;Sekundärliteratur;18.10;Deutsche Literatur
+GN 3058;Primärliteratur;18.10;Deutsche Literatur
+GN 3059;Sekundärliteratur;18.10;Deutsche Literatur
 GN 3070;Primärliteratur;18.10;Deutsche Literatur
 GN 3071;Sekundärliteratur;18.10;Deutsche Literatur
 GN 3090;Primärliteratur;18.10;Deutsche Literatur
@@ -2746,7 +2746,7 @@ GN 3990;Gesamtausgaben;18.10;Deutsche Literatur
 GN 3991;Einzelausgaben;18.10;Deutsche Literatur
 GN 3992;Übersetzungen;18.10;Deutsche Literatur
 GN 3993;Sekundärliteratur;18.10;Deutsche Literatur
-GN 4058 ;Primärliteratur;18.10;Deutsche Literatur
+GN 4058;Primärliteratur;18.10;Deutsche Literatur
 GN 4059;Sekundärliteratur;18.10;Deutsche Literatur
 GN 4081;Primärliteratur;18.10;Deutsche Literatur
 GN 4082;Sekundärliteratur;18.10;Deutsche Literatur
@@ -3274,7 +3274,7 @@ GN 7842;Primärliteratur;18.10;Deutsche Literatur
 GN 7843;Sekundärliteratur;18.10;Deutsche Literatur
 GN 7844;Primärliteratur;18.10;Deutsche Literatur
 GN 7845;Sekundärliteratur;18.10;Deutsche Literatur
-GN 7848 ;Primärliteratur;18.10;Deutsche Literatur
+GN 7848;Primärliteratur;18.10;Deutsche Literatur
 GN 7849;Sekundärliteratur;18.10;Deutsche Literatur
 GN 7850;Primärliteratur;18.10;Deutsche Literatur
 GN 7851;Sekundärliteratur;18.10;Deutsche Literatur
@@ -3775,8 +3775,8 @@ GO 23410;Texte. Sammlungen;17.75;Literaturkritik
 GO 23450;Einzelne Rezensenten;17.75;Literaturkritik
 GO 24100;Allgemeine Sammlungen;17.75;Literaturkritik
 GO 24300;Sammlungen nach Gattungen;17.75;Literaturkritik
-GO 11300;Metrik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GO 11400;Stilistik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GO 11300;Metrik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GO 11400;Stilistik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GO 11500;Gattungstheorie;17.80;Literarische Gattungen: Allgemeines
 GO 20100;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GO 21100;Prosa allgemein;17.81;Epik, Prosa
@@ -4444,7 +4444,7 @@ GT 1078;Literaturpsychologie;17.90;Literatur in Beziehung zu anderen Bereichen v
 GT 1087;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GT 1054;Literatursoziologie. Literarisches Leben;17.91;Literatursoziologie
 GT 1431;Thematische Sammlungen;17.93;Literarische Stoffe, literarische Motive, literarische Themen
-GT 1375 ;Allgemeine Sammlungen;17.98;Textsammlungen
+GT 1375;Allgemeine Sammlungen;17.98;Textsammlungen
 GT 1401;Regionale Sammlungen;17.98;Textsammlungen
 GT 1431;Thematische Sammlungen;17.98;Textsammlungen
 GT 1467;Lyrik;17.98;Textsammlungen
@@ -4492,7 +4492,7 @@ GT 1356;w;18.10;Deutsche Literatur
 GT 1357;x;18.10;Deutsche Literatur
 GT 1358;y;18.10;Deutsche Literatur
 GT 1359;z;18.10;Deutsche Literatur
-GT 1375 ;Allgemeine Sammlungen;18.10;Deutsche Literatur
+GT 1375;Allgemeine Sammlungen;18.10;Deutsche Literatur
 GT 1401;Regionale Sammlungen;18.10;Deutsche Literatur
 GT 1431;Thematische Sammlungen;18.10;Deutsche Literatur
 GT 1467;Lyrik;18.10;Deutsche Literatur
@@ -4548,7 +4548,7 @@ GU 19000;Allgemeines;17.18;Dialektologie
 GU 19050;Sprachgeographie;17.18;Dialektologie
 GU 19125;Allgemeines;17.18;Dialektologie
 GU 19150;Besonderes;17.18;Dialektologie
-GU 19175;Einzelne Mundarten ;17.18;Dialektologie
+GU 19175;Einzelne Mundarten;17.18;Dialektologie
 GU 19225;Allgemeines;17.18;Dialektologie
 GU 19250;Besonderes;17.18;Dialektologie
 GU 19275;Einzelne Mundarten;17.18;Dialektologie
@@ -4691,22 +4691,22 @@ GU 18370;Idiom- und Argotwörterbücher;17.59;Lexikologie
 GU 18380;Stilwörterbücher und Sprachschwierigkeiten;17.59;Lexikologie
 GU 18390;Synonymwörterbücher;17.59;Lexikologie
 GU 18395;Sonstige Wörterbücher;17.59;Lexikologie
-GU 18400 ;Allgemeines;17.59;Lexikologie
+GU 18400;Allgemeines;17.59;Lexikologie
 GU 18425;Einzelne Wörter;17.59;Lexikologie
 GU 18450;Wortgeschichte, Etymologie;17.59;Lexikologie
 GU 18475;Semantik;17.59;Lexikologie
 GU 18490;Lehn- und Fremdwörter;17.59;Lexikologie
 GU 19475;Wortschatz;17.59;Lexikologie
 GU 18250;Lexikographie;17.60;Lexikographie
-GU 18000;Wissenschaftliche Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
-GU 18050;Phraseologie, Idiomatik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
-GU 18075;normative Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GU 18000;Wissenschaftliche Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GU 18050;Phraseologie, Idiomatik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GU 18075;normative Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
 GU 18100;Allgemeines;17.63;Textlinguistik
 GU 18150;Diskursanalyse, Konversationsanalyse;17.63;Textlinguistik
 GU 18175;Spezielle Probleme;17.63;Textlinguistik
 GU 19500;Sonstiges;17.69;Sprachwissenschaft: Sonstiges
 GU 10430;Literaturwissenschaft;17.70;Literaturwissenschaft: Allgemeines
-GU 20000;"Allgemeines (Handbücher; Schriftstellerlexika)";17.70;Literaturwissenschaft: Allgemeines
+GU 20000;"Allgemeines (Handbücher;Schriftstellerlexika)";17.70;Literaturwissenschaft: Allgemeines
 GU 20300;Sachwörterbücher;17.70;Literaturwissenschaft: Allgemeines
 GU 20500;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GU 25000;Allgemeines;17.71;Literaturgeschichte
@@ -4730,15 +4730,15 @@ GU 27810;Lyrik;17.75;Literaturkritik
 GU 27825;Dramatik;17.75;Literaturkritik
 GU 27850;Prosa;17.75;Literaturkritik
 GU 27875;Sonstige Gattungen;17.75;Literaturkritik
-GU 22300;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22350;Reim, Assonanz;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22400;Einzelne Versmaße;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22450;Strophen und feste Gedichtformen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22500;Rhythmus;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22800;Stil;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22900;Rhetorische Figuren;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 26700;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 20600;"Handschriften; Textkritik";17.78;Textkritik <Literaturwissenschaft>
+GU 22300;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22350;Reim, Assonanz;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22400;Einzelne Versmaße;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22450;Strophen und feste Gedichtformen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22500;Rhythmus;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22800;Stil;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22900;Rhetorische Figuren;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 26700;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 20600;"Handschriften;Textkritik";17.78;Textkritik <Literaturwissenschaft>
 GU 23000;Gattungsfragen;17.80;Literarische Gattungen: Allgemeines
 GU 27000;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GU 27025;Prosa im Allgemeinen;17.81;Epik, Prosa
@@ -4753,7 +4753,7 @@ GU 27500;Allgemeines;17.81;Epik, Prosa
 GU 27525;Tagebuch, Memoiren;17.81;Epik, Prosa
 GU 27850;Prosa;17.81;Epik, Prosa
 GU 28450;Prosa;17.81;Epik, Prosa
-GU 27200 ;Allgemeines;17.82;Dramatik
+GU 27200;Allgemeines;17.82;Dramatik
 GU 27210;Prosadrama;17.82;Dramatik
 GU 27225;Tragödie;17.82;Dramatik
 GU 27250;Komödie;17.82;Dramatik
@@ -4772,7 +4772,7 @@ GU 27875;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GU 28475;Briefe;17.84;Sonstige literarische Gattungen
 GU 28490;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GU 25800;Sonstige Regionen und Mundartliteratur;17.87;Besondere Literaturkategorien
-GU 20800;"Literaturpsychologie; Literaturphilosophie";17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
+GU 20800;"Literaturpsychologie;Literaturphilosophie";17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21600;Allgemeines;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21650;Beziehung der Literatur zu Theologie und Religion;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21675;Beziehung der Literatur zu Philosophie und Psychologie;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
@@ -4783,7 +4783,7 @@ GU 21775;Beziehung der Literatur zur Erziehung;17.90;Literatur in Beziehung zu a
 GU 21800;Beziehung der Literatur zu den Naturwissenschaften;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21850;Beziehungen zu sonstigen Gebieten;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21000;Allgemeines;17.91;Literatursoziologie
-GU 21100;"Schriftsteller; gesammelte biographische Essays über Dichter";17.91;Literatursoziologie
+GU 21100;"Schriftsteller;gesammelte biographische Essays über Dichter";17.91;Literatursoziologie
 GU 21300;Publikum;17.91;Literatursoziologie
 GU 21400;Literarisches Leben;17.91;Literatursoziologie
 GU 21500;Sonstiges;17.91;Literatursoziologie
@@ -4984,7 +4984,7 @@ GU 18370;Idiom- und Argotwörterbücher;18.12;Niederländische Sprache
 GU 18380;Stilwörterbücher und Sprachschwierigkeiten;18.12;Niederländische Sprache
 GU 18390;Synonymwörterbücher;18.12;Niederländische Sprache
 GU 18395;Sonstige Wörterbücher;18.12;Niederländische Sprache
-GU 18400 ;Allgemeines;18.12;Niederländische Sprache
+GU 18400;Allgemeines;18.12;Niederländische Sprache
 GU 18425;Einzelne Wörter;18.12;Niederländische Sprache
 GU 18450;Wortgeschichte, Etymologie;18.12;Niederländische Sprache
 GU 18475;Semantik;18.12;Niederländische Sprache
@@ -4996,7 +4996,7 @@ GU 19000;Allgemeines;18.12;Niederländische Sprache
 GU 19050;Sprachgeographie;18.12;Niederländische Sprache
 GU 19125;Allgemeines;18.12;Niederländische Sprache
 GU 19150;Besonderes;18.12;Niederländische Sprache
-GU 19175;Einzelne Mundarten ;18.12;Niederländische Sprache
+GU 19175;Einzelne Mundarten;18.12;Niederländische Sprache
 GU 19225;Allgemeines;18.12;Niederländische Sprache
 GU 19250;Besonderes;18.12;Niederländische Sprache
 GU 19275;Einzelne Mundarten;18.12;Niederländische Sprache
@@ -5015,14 +5015,14 @@ GU 14100;Literaturgeschichte;18.13;Niederländische Literatur
 GU 14150;Interpretation;18.13;Niederländische Literatur
 GU 14200;Lesebücher;18.13;Niederländische Literatur
 GU 14250;Besonderes;18.13;Niederländische Literatur
-GU 20000;"Allgemeines (Handbücher; Schriftstellerlexika)";18.13;Niederländische Literatur
+GU 20000;"Allgemeines (Handbücher;Schriftstellerlexika)";18.13;Niederländische Literatur
 GU 20300;Sachwörterbücher;18.13;Niederländische Literatur
 GU 20500;Allgemeines;18.13;Niederländische Literatur
-GU 20600;"Handschriften; Textkritik";18.13;Niederländische Literatur
+GU 20600;"Handschriften;Textkritik";18.13;Niederländische Literatur
 GU 20700;Literaturtheorie allgemein;18.13;Niederländische Literatur
-GU 20800;"Literaturpsychologie; Literaturphilosophie";18.13;Niederländische Literatur
+GU 20800;"Literaturpsychologie;Literaturphilosophie";18.13;Niederländische Literatur
 GU 21000;Allgemeines;18.13;Niederländische Literatur
-GU 21100;"Schriftsteller; gesammelte biographische Essays über Dichter";18.13;Niederländische Literatur
+GU 21100;"Schriftsteller;gesammelte biographische Essays über Dichter";18.13;Niederländische Literatur
 GU 21200;Verleger;18.13;Niederländische Literatur
 GU 21300;Publikum;18.13;Niederländische Literatur
 GU 21400;Literarisches Leben;18.13;Niederländische Literatur
@@ -5101,7 +5101,7 @@ GU 27050;Versdichtung im Allgemeinen;18.13;Niederländische Literatur
 GU 27080;Allgemeines;18.13;Niederländische Literatur
 GU 27100;Einzelne Formen;18.13;Niederländische Literatur
 GU 27150;Besondere Gesichtspunkte;18.13;Niederländische Literatur
-GU 27200 ;Allgemeines;18.13;Niederländische Literatur
+GU 27200;Allgemeines;18.13;Niederländische Literatur
 GU 27210;Prosadrama;18.13;Niederländische Literatur
 GU 27225;Tragödie;18.13;Niederländische Literatur
 GU 27250;Komödie;18.13;Niederländische Literatur
@@ -5148,7 +5148,7 @@ GU 12750;Schriftlicher Ausdruck, Aufsatz, Textproduktion, Schreibdidaktik;80.60;
 GU 12850;Mündlicher Ausdruck, Konversation, Hörverstehen, Leseverstehen;80.60;Schreibunterricht, Leseunterricht
 GU 12100;Unterrichtsplanung;81.60;Unterrichtsprozess: Allgemeines
 GU 10800;Curriculumforschung, Empirische Fremdsprachenunterrichtsforschung, Lehrerbildung;81.62;Curriculum
-GU 12200;Sprachtest, Prüfung, Evaluation;81.64 ;Unterrichtsprozess: Sonstiges
+GU 12200;Sprachtest, Prüfung, Evaluation;81.64;Unterrichtsprozess: Sonstiges
 GU 11500;Allgemeines;81.65;Lehrmitttel, Lernmittel: Allgemeines
 GU 12000;Schulbuch (Theorie und Analyse);81.66;Schulbuch
 GU 12550;Sprachlehrbuch (Theorie und Analyse);81.66;Schulbuch
@@ -5181,8 +5181,8 @@ GE 4251;Ostdeutschland;18.10;Deutsche Literatur
 GE 4251;Ostdeutschland;17.87;Besondere Literaturkategorien
 GE 4275;Das literarische Leben in einzelnen Regionen und Orten;18.10;Deutsche Literatur
 GE 4275;Das literarische Leben in einzelnen Regionen und Orten;17.71;Literaturgeschichte
-GE 4301 ;mehrere Gebiete umfassend;18.10;Deutsche Literatur
-GE 4301 ;mehrere Gebiete umfassend;17.71;Literaturgeschichte
+GE 4301;mehrere Gebiete umfassend;18.10;Deutsche Literatur
+GE 4301;mehrere Gebiete umfassend;17.71;Literaturgeschichte
 GE 4325;Österreich;18.10;Deutsche Literatur
 GE 4325;Österreich;17.71;Literaturgeschichte
 GE 4355;Gesamtdarstellungen;18.10;Deutsche Literatur
@@ -5270,13 +5270,13 @@ GE 4600;spanische und portugiesische;18.10;Deutsche Literatur
 GE 4600;spanische und portugiesische;17.71;Literaturgeschichte
 GE 4600;spanische und portugiesische;18.32;Spanische Literatur
 GE 4600;spanische und portugiesische;18.37;Portugiesische Literatur
-GE 4606;slawische ;18.10;Deutsche Literatur
-GE 4606;slawische ;17.71;Literaturgeschichte
-GE 4606;slawische ;18.50;Slawische Sprachen und Literaturen: Allgemeines
+GE 4606;slawische;18.10;Deutsche Literatur
+GE 4606;slawische;17.71;Literaturgeschichte
+GE 4606;slawische;18.50;Slawische Sprachen und Literaturen: Allgemeines
 GE 4608;orientalische;18.10;Deutsche Literatur
 GE 4608;orientalische;17.71;Literaturgeschichte
-GE 4611 ;a;18.10;Deutsche Literatur
-GE 4611 ;a;17.71;Literaturgeschichte
+GE 4611;a;18.10;Deutsche Literatur
+GE 4611;a;17.71;Literaturgeschichte
 GE 4612;b;18.10;Deutsche Literatur
 GE 4612;b;17.71;Literaturgeschichte
 GE 4613;c;18.10;Deutsche Literatur
@@ -5335,8 +5335,8 @@ GE 4639;z;18.10;Deutsche Literatur
 GE 4639;z;17.71;Literaturgeschichte
 GE 4705;Allgemeines;18.10;Deutsche Literatur
 GE 4705;Allgemeines;17.95;Literarische Übersetzung
-GE 4711 ;a;18.10;Deutsche Literatur
-GE 4711 ;a;17.95;Literarische Übersetzung
+GE 4711;a;18.10;Deutsche Literatur
+GE 4711;a;17.95;Literarische Übersetzung
 GE 4712;b;18.10;Deutsche Literatur
 GE 4712;b;17.95;Literarische Übersetzung
 GE 4713;c;18.10;Deutsche Literatur
@@ -5593,8 +5593,8 @@ GE 5250;Allgemeines;18.10;Deutsche Literatur
 GE 5250;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GE 5505;Allgemeines;18.10;Deutsche Literatur
 GE 5505;Allgemeines;17.83;Lyrik
-GE 5511 ;a;18.10;Deutsche Literatur
-GE 5511 ;a;17.83;Lyrik
+GE 5511;a;18.10;Deutsche Literatur
+GE 5511;a;17.83;Lyrik
 GE 5512;b;18.10;Deutsche Literatur
 GE 5512;b;17.83;Lyrik
 GE 5513;c;18.10;Deutsche Literatur
@@ -5991,8 +5991,8 @@ GE 6086;Aphorismus, Fragment;18.10;Deutsche Literatur
 GE 6086;Aphorismus, Fragment;17.84;Sonstige literarische Gattungen
 GE 6088;Spruch;18.10;Deutsche Literatur
 GE 6088;Spruch;17.84;Sonstige literarische Gattungen
-GE 6095;Sonstige Gattungen ;18.10;Deutsche Literatur
-GE 6095;Sonstige Gattungen ;17.84;Sonstige literarische Gattungen
+GE 6095;Sonstige Gattungen;18.10;Deutsche Literatur
+GE 6095;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GE 6101;Allgemeines;18.10;Deutsche Literatur
 GE 6101;Allgemeines;17.84;Sonstige literarische Gattungen
 GE 6155;Autobiographie;18.10;Deutsche Literatur
@@ -6025,7 +6025,7 @@ GE 6290;Moritat;18.10;Deutsche Literatur
 GE 6290;Moritat;17.87;Besondere Literaturkategorien
 GE 6295;Volksschauspiel;18.10;Deutsche Literatur
 GE 6295;Volksschauspiel;17.87;Besondere Literaturkategorien
-GE 6296 -6421;Nichtfiktive Prosa;;
+GE 6296 - 6421;Nichtfiktive Prosa;;
 GE 6296;Allgemeines;18.10;Deutsche Literatur
 GE 6296;Allgemeines;17.81;Epik, Prosa
 GE 6297;Biographik;18.10;Deutsche Literatur
@@ -6113,9 +6113,9 @@ GE 6601;Epik;18.10;Deutsche Literatur
 GE 6601;Epik;17.75;Literaturkritik
 GE 6601;Epik;17.81;Epik, Prosa
 GE 6601;Epik;17.98;Textsammlungen
-GE 6631 ;a;18.10;Deutsche Literatur
-GE 6631 ;a;17.75;Literaturkritik
-GE 6631 ;a;17.98;Textsammlungen
+GE 6631;a;18.10;Deutsche Literatur
+GE 6631;a;17.75;Literaturkritik
+GE 6631;a;17.98;Textsammlungen
 GE 6632;b;18.10;Deutsche Literatur
 GE 6632;b;17.75;Literaturkritik
 GE 6632;b;17.98;Textsammlungen
@@ -6462,13 +6462,13 @@ GE 6814;Komödie;17.98;Textsammlungen
 GE 6817;Tragikomödie;18.10;Deutsche Literatur
 GE 6817;Tragikomödie;17.82;Dramatik
 GE 6817;Tragikomödie;17.98;Textsammlungen
-GE 6819;"Sonstige Gattungen; Bearbeitungen";18.10;Deutsche Literatur
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.82;Dramatik
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.98;Textsammlungen
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.84;Sonstige literarische Gattungen
-GE 6821 ;Allgemeine Sammlungen;18.10;Deutsche Literatur
-GE 6821 ;Allgemeine Sammlungen;17.81;Epik, Prosa
-GE 6821 ;Allgemeine Sammlungen;17.98;Textsammlungen
+GE 6819;"Sonstige Gattungen;Bearbeitungen";18.10;Deutsche Literatur
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.82;Dramatik
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.98;Textsammlungen
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.84;Sonstige literarische Gattungen
+GE 6821;Allgemeine Sammlungen;18.10;Deutsche Literatur
+GE 6821;Allgemeine Sammlungen;17.81;Epik, Prosa
+GE 6821;Allgemeine Sammlungen;17.98;Textsammlungen
 GE 6824;Einzelne Themen und Motive;18.10;Deutsche Literatur
 GE 6824;Einzelne Themen und Motive;17.81;Epik, Prosa
 GE 6824;Einzelne Themen und Motive;17.98;Textsammlungen
@@ -6688,10 +6688,10 @@ GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);18.10;Deutsche 
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.98;Textsammlungen
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.97;Texte eines einzelnen Autors
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.87;Besondere Literaturkategorien
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;18.10;Deutsche Literatur
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.98;Textsammlungen
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.97;Texte eines einzelnen Autors
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.87;Besondere Literaturkategorien
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);18.10;Deutsche Literatur
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.98;Textsammlungen
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.97;Texte eines einzelnen Autors
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.87;Besondere Literaturkategorien
 GV 1050;Landes- und Volkskunde;15.63;Belgien, Niederlande, Luxemburg <Geschichte>
 GV 1000;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 1010;Bibliographie;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -6713,7 +6713,7 @@ GV 1790;Morphologie <Linguistik>;17.55;Morphologie, Wortbildung
 GV 1920;Namenkunde;17.57;Namenkunde
 GV 1860;Lexikologie (Wortkunde);17.59;Lexikologie
 GV 1880;Wörterbücher;17.59;Lexikologie
-GV 1820;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GV 1820;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
 GV 1840;Textlinguistik;17.63;Textlinguistik
 GV 1960;Sonstiges;17.69;Sprachwissenschaft: Sonstiges
 GV 2000;Allgemeines (Einführungen, Bibliographie, Nachschlagewerke);17.70;Literaturwissenschaft: Allgemeines
@@ -6787,7 +6787,7 @@ GV 2800;Textsammlungen;18.13;Niederländische Literatur
 GV 2810;nach Gattungen;18.13;Niederländische Literatur
 GV 2820;nach Themen;18.13;Niederländische Literatur
 GV 2830;Sonstige;18.13;Niederländische Literatur
-GV 4001;Allgemeines ;17.00;Sprach- und Literaturwissenschaft: Allgemeines
+GV 4001;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4010;Bibliographien;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4100;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4206;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -6816,7 +6816,7 @@ GV 6174;Sprachgeschichte. Sprachpflege;17.22;Sprachlenkung, Sprachpolitik
 GV 4030;Sprachverbreitung. Sprachkontakt (Sprachberührung);17.23;Mehrsprachigkeit
 GV 4026;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);17.30;Psycholinguistik: Allgemeines
 GV 6092;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);17.30;Psycholinguistik: Allgemeines
-GV 4045 ;Allgemeines;17.50;Allgemeine Grammatik
+GV 4045;Allgemeines;17.50;Allgemeine Grammatik
 GV 4046;Historische Grammatik;17.50;Allgemeine Grammatik
 GV 4050;(Deskriptive) Grammatik;17.50;Allgemeine Grammatik
 GV 4110;Grammatik. Stilistik;17.50;Allgemeine Grammatik
@@ -6851,10 +6851,10 @@ GV 6561;Allgemeines;17.59;Lexikologie
 GV 6652;Wörterbücher;17.59;Lexikologie
 GV 6743;Wortschatz. Etymologie (Wortgeschichte);17.59;Lexikologie
 GV 8078;Wortschatz;17.59;Lexikologie
-GV 4070;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
-GV 4110;Grammatik. Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
-GV 5057;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
-GV 6468;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GV 4070;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GV 4110;Grammatik. Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GV 5057;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
+GV 6468;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>"
 GV 7525;Allgemeines;17.71;Literaturgeschichte
 GV 7636;Systematische Literaturgeschichte;17.71;Literaturgeschichte
 GV 7757;Literaturepochen;17.71;Literaturgeschichte
@@ -6871,7 +6871,7 @@ GV 7303;Allgemeines;17.79;Literaturwissenschaft: Allgemeines
 GV 7414;Literaturwissenschaft;17.79;Literaturwissenschaft: Allgemeines
 GV 7755;Textsammlungen;17.98;Textsammlungen
 GV 8189;Textsammlungen;17.98;Textsammlungen
-GV 4001;Allgemeines ;18.19;Germanische Sprachen und Literaturen: Sonstiges
+GV 4001;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4010;Bibliographien;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4023;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4026;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);18.19;Germanische Sprachen und Literaturen: Sonstiges
@@ -6879,7 +6879,7 @@ GV 4029;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4030;Sprachverbreitung. Sprachkontakt (Sprachberührung);18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4035;Sprachpflege;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4040;Einzelne Epochen;18.19;Germanische Sprachen und Literaturen: Sonstiges
-GV 4045 ;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
+GV 4045;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4046;Historische Grammatik;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4050;(Deskriptive) Grammatik;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4055;Lautlehre. Schreibung;18.19;Germanische Sprachen und Literaturen: Sonstiges
@@ -7072,12 +7072,12 @@ GW 2470;Sprachgeschichte;17.15;Historische Linguistik
 GW 3228;Sprachgeschichte;17.15;Historische Linguistik
 GW 4410;Sprachgeschichte;17.15;Historische Linguistik
 GW 4753;Sprachgeschichte;17.15;Historische Linguistik
-GW 1130 ;Allgemeines;17.18;Dialektologie
+GW 1130;Allgemeines;17.18;Dialektologie
 GW 1132;Sprachgeographie;17.18;Dialektologie
-GW 1133 ;Besonderes;17.18;Dialektologie
-GW 1134 ;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
+GW 1133;Besonderes;17.18;Dialektologie
+GW 1134;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
 GW 1140;Besonderes;17.18;Dialektologie
-GW 1960 ;Allgemeines;17.18;Dialektologie
+GW 1960;Allgemeines;17.18;Dialektologie
 GW 1962;Sprachgeographie;17.18;Dialektologie
 GW 1963;Besonderes;17.18;Dialektologie
 GW 1964;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
@@ -7305,7 +7305,7 @@ GW 2355;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 2515;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 3320;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 4510;Rechtschreibung (Orthographie);17.54;Orthographie
-GW 1078 ;Wortbildung;17.55;Morphologie, Wortbildung
+GW 1078;Wortbildung;17.55;Morphologie, Wortbildung
 GW 1080;Morphologie (Formenlehre);17.55;Morphologie, Wortbildung
 GW 1081;Wortklassen;17.55;Morphologie, Wortbildung
 GW 1255;Wortbildung;17.55;Morphologie, Wortbildung
@@ -7458,7 +7458,7 @@ GW 2015;Lexikographie;17.60;Lexikographie
 GW 2190;Allgemeines;17.60;Lexikographie
 GW 2400;Allgemeines;17.60;Lexikographie
 GW 2560;Allgemeines;17.60;Lexikographie
-GW 3370 ;Allgemeines;17.60;Lexikographie
+GW 3370;Allgemeines;17.60;Lexikographie
 GW 4570;Allgemeines;17.60;Lexikographie
 GW 4770;Lexikographie;17.60;Lexikographie
 GW 1027;Pragmatik;17.61;Pragmatik, Sprechakttheorie
@@ -7470,19 +7470,19 @@ GW 2468;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 3225;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 4408;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 4752;Pragmatik;17.61;Pragmatik, Sprechakttheorie
-GW 1090;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 1275;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 1420;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 1552;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 1668;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 1860;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 2000;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 2180;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 2380;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 2540;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 3360;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 4550;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
-GW 4766;Stilistik;17.62;"Rhetorik; Stilistik <Sprachwissenschaft>"
+GW 1090;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 1275;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 1420;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 1552;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 1668;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 1860;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 2000;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 2180;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 2380;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 2540;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 3360;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 4550;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
+GW 4766;Stilistik;17.62;"Rhetorik;Stilistik <Sprachwissenschaft>"
 GW 1027;Textlinguistik;17.63;Textlinguistik
 GW 1755;Textlinguistik;17.63;Textlinguistik
 GW 1980;Textlinguistik;17.63;Textlinguistik
@@ -7519,7 +7519,7 @@ GW 1038;Sprachpflege. Sprachlenkung. Sprachpolitik;18.15;Skandinavische Sprachen
 GW 1071;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1076;Lautlehre. Phonologie. Phonetik;18.15;Skandinavische Sprachen und Literaturen
 GW 1077;Rechtschreibung (Orthographie);18.15;Skandinavische Sprachen und Literaturen
-GW 1078 ;Wortbildung;18.15;Skandinavische Sprachen und Literaturen
+GW 1078;Wortbildung;18.15;Skandinavische Sprachen und Literaturen
 GW 1080;Morphologie (Formenlehre);18.15;Skandinavische Sprachen und Literaturen
 GW 1081;Wortklassen;18.15;Skandinavische Sprachen und Literaturen
 GW 1082;Syntax;18.15;Skandinavische Sprachen und Literaturen
@@ -7537,10 +7537,10 @@ GW 1120;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1121;Personennamen;18.15;Skandinavische Sprachen und Literaturen
 GW 1123;Geographische Namen;18.15;Skandinavische Sprachen und Literaturen
 GW 1125;Sonstige Namen;18.15;Skandinavische Sprachen und Literaturen
-GW 1130 ;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
+GW 1130;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1132;Sprachgeographie;18.15;Skandinavische Sprachen und Literaturen
-GW 1133 ;Besonderes;18.15;Skandinavische Sprachen und Literaturen
-GW 1134 ;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
+GW 1133;Besonderes;18.15;Skandinavische Sprachen und Literaturen
+GW 1134;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
 GW 1137;Sondersprachen;18.15;Skandinavische Sprachen und Literaturen
 GW 1140;Besonderes;18.15;Skandinavische Sprachen und Literaturen
 GW 1145;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
@@ -7649,7 +7649,7 @@ GW 1920;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1930;Personennamen;18.15;Skandinavische Sprachen und Literaturen
 GW 1940;Geographische Namen;18.15;Skandinavische Sprachen und Literaturen
 GW 1950;Sonstige Namen;18.15;Skandinavische Sprachen und Literaturen
-GW 1960 ;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
+GW 1960;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1962;Sprachgeographie;18.15;Skandinavische Sprachen und Literaturen
 GW 1963;Besonderes;18.15;Skandinavische Sprachen und Literaturen
 GW 1964;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
@@ -8005,7 +8005,7 @@ GW 3340;Morphologie (Formenlehre);18.18;Dänische Sprache und Literatur
 GW 3345;Wortklassen;18.18;Dänische Sprache und Literatur
 GW 3350;Syntax;18.18;Dänische Sprache und Literatur
 GW 3360;Stilistik;18.18;Dänische Sprache und Literatur
-GW 3370 ;Allgemeines;18.18;Dänische Sprache und Literatur
+GW 3370;Allgemeines;18.18;Dänische Sprache und Literatur
 GW 3381;Einsprachige Wörterbücher;18.18;Dänische Sprache und Literatur
 GW 3382;Mehrsprachige Wörterbücher;18.18;Dänische Sprache und Literatur
 GW 3690;Allgemeines;18.18;Dänische Sprache und Literatur
@@ -8069,8 +8069,8 @@ GW 4385;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 4746;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 1008;Recht und Wirtschaft;83.30;Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines
 GW 1008;Recht und Wirtschaft;89.00;Politologie: Allgemeines
-GW 5060;Metrik, Rhythmik;17.62;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 5070;Stilforschung;17.62;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5060;Metrik, Rhythmik;17.62;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 5070;Stilforschung;17.62;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 5003;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GW 5005;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -8082,7 +8082,7 @@ GW 5110;Beziehungen zu anderen Literaturen bzw. Rezeption skandinavischer Litera
 GW 5120;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GW 5040;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GW 5050;Geschichte der Poetik;17.73;Literaturtheorie: Allgemeines
-GW 5140;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5140;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5150;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GW 5180;Epik;17.81;Epik, Prosa
 GW 5250;Epik;17.81;Epik, Prosa
@@ -8148,25 +8148,25 @@ GW 5430;Bez. zu anderen Gebieten;17.90;Literatur in Beziehung zu anderen Bereich
 GW 5432;Rezeptionsgeschichte;18.15;Skandinavische Sprachen und Literaturen
 GW 5432;Rezeptionsgeschichte;17.94;Literarische Einflüsse und Beziehungen, Rezeption
 GW 5470;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
-GW 5470;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5470;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5480;Reim, Stabreim;18.15;Skandinavische Sprachen und Literaturen
-GW 5480;Reim, Stabreim;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5480;Reim, Stabreim;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5490;Versmaß, Strophenbau;18.15;Skandinavische Sprachen und Literaturen
-GW 5490;Versmaß, Strophenbau;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5490;Versmaß, Strophenbau;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5510;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 5510;Sonstiges;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5510;Sonstiges;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5530;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
-GW 5530;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5530;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5535;Stilgeschichte;18.15;Skandinavische Sprachen und Literaturen
-GW 5535;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5535;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5550;Figuren;18.15;Skandinavische Sprachen und Literaturen
-GW 5550;Figuren;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5550;Figuren;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5560;Syntaktische Formen;18.15;Skandinavische Sprachen und Literaturen
-GW 5560;Syntaktische Formen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5560;Syntaktische Formen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5670;Stilarten;18.15;Skandinavische Sprachen und Literaturen
-GW 5670;Stilarten;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5670;Stilarten;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5680;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 5680;Sonstiges;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5680;Sonstiges;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5690;Allgemeines, Literaturgeschichten;18.15;Skandinavische Sprachen und Literaturen
 GW 5690;Allgemeines, Literaturgeschichten;17.71;Literaturgeschichte
 GW 5700;Darstellungen unter besonderen Gesichtspunkten;18.15;Skandinavische Sprachen und Literaturen
@@ -8198,7 +8198,7 @@ GW 5810;Allgemeines;17.71;Literaturgeschichte
 GW 5850;Gesamtdarstellungen;17.71;Literaturgeschichte
 GW 5860;Einzelne Sachverhalte;17.71;Literaturgeschichte
 GW 5865;Einzelne Formen;17.71;Literaturgeschichte
-GW 5950;Allgemeines ;17.71;Literaturgeschichte
+GW 5950;Allgemeines;17.71;Literaturgeschichte
 GW 6010;Gesamtdarstellungen zur edd. Dichtung;17.71;Literaturgeschichte
 GW 6020;Einzelne Sachverhalte;17.71;Literaturgeschichte
 GW 6050;Allgemeines;17.71;Literaturgeschichte
@@ -8267,7 +8267,7 @@ GW 5840;Ausgaben, Übersetzungen, Kommentare;18.15;Skandinavische Sprachen und L
 GW 5850;Gesamtdarstellungen;18.15;Skandinavische Sprachen und Literaturen
 GW 5860;Einzelne Sachverhalte;18.15;Skandinavische Sprachen und Literaturen
 GW 5865;Einzelne Formen;18.15;Skandinavische Sprachen und Literaturen
-GW 5950;Allgemeines ;18.15;Skandinavische Sprachen und Literaturen
+GW 5950;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 5960;Überlieferung, Textkritik;18.15;Skandinavische Sprachen und Literaturen
 GW 5970;Ausgaben;18.15;Skandinavische Sprachen und Literaturen
 GW 5980;Übersetzungen;18.15;Skandinavische Sprachen und Literaturen
@@ -8316,7 +8316,7 @@ GW 6660;Darstellungen unter besonderen Gesichtspunkten;17.71;Literaturgeschichte
 GW 6670;Beziehungen zu anderen Literaturen, Rezeption in anderen Ländern;17.71;Literaturgeschichte
 GW 6680;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GW 6640;Poetik;17.73;Literaturtheorie: Allgemeines
-GW 6700;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 6700;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 6710;Geschichte einzelner Gattungen;17.80;Literarische Gattungen: Allgemeines
 GW 6740;Epik;17.81;Epik, Prosa
 GW 6795;Epik;17.81;Epik, Prosa
@@ -8370,8 +8370,8 @@ GW 6890;Allgemeines;17.71;Literaturgeschichte
 GW 6900;Besondere Gebiete;17.71;Literaturgeschichte
 GW 6840;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GW 6850;Geschichte der Poetik;17.73;Literaturtheorie: Allgemeines
-GW 6860;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 6870;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 6860;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 6870;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 6940;Epik;17.81;Epik, Prosa
 GW 7020;Epik;17.81;Epik, Prosa
 GW 6930;Dramatik;17.82;Dramatik
@@ -8422,15 +8422,15 @@ GW 7010;Dramatik;18.15;Skandinavische Sprachen und Literaturen
 GW 7020;Epik;18.15;Skandinavische Sprachen und Literaturen
 GW 7025;Volksdichtung;18.15;Skandinavische Sprachen und Literaturen
 GW 7030;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 - ;17.97;Texte eines einzelnen Autors
+GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 -;17.97;Texte eines einzelnen Autors
 GW 7036;Agnar Þórðarson (1917 -;17.97;Texte eines einzelnen Autors
 GW 7038;Álfrún Gunnlaugsdóttir (1938 -;17.97;Texte eines einzelnen Autors
 GW 7040;Andrés Indriðason (1941 -;17.97;Texte eines einzelnen Autors
 GW 7042;Anton Helgi Jónsson (1955 -;17.97;Texte eines einzelnen Autors
 GW 7044;Ármann Kr. Einarsson (1915 -;17.97;Texte eines einzelnen Autors
-GW 7046;Árni Bergmann (1935 - ;17.97;Texte eines einzelnen Autors
+GW 7046;Árni Bergmann (1935 -;17.97;Texte eines einzelnen Autors
 GW 7048;Ásta Sigurðardóttir (1930 - 1971);17.97;Texte eines einzelnen Autors
-GW 7050;Auður Haralds (1947 - ;17.97;Texte eines einzelnen Autors
+GW 7050;Auður Haralds (1947 -;17.97;Texte eines einzelnen Autors
 GW 7052;Axel Thorsteinson (1985 - 1984);17.97;Texte eines einzelnen Autors
 GW 7054;Balður Óskarsson (1932 -;17.97;Texte eines einzelnen Autors
 GW 7056;Baldvin Einarsson (1801 - 1833);17.97;Texte eines einzelnen Autors
@@ -8560,7 +8560,7 @@ GW 7306 - 7312;Autoren M;17.97;Texte eines einzelnen Autors
 GW 7306;Magnea Matthiasdóttir (1953 -;17.97;Texte eines einzelnen Autors
 GW 7308;Már Kristjónsson (1927 -;17.97;Texte eines einzelnen Autors
 GW 7310;Matthias Jochumsson (1835 - 1920);17.97;Texte eines einzelnen Autors
-GW 7312;Matthias Jóhannessen (1930 - ;17.97;Texte eines einzelnen Autors
+GW 7312;Matthias Jóhannessen (1930 -;17.97;Texte eines einzelnen Autors
 GW 7314;Nina Björk Árnadóttir (1941 -;17.97;Texte eines einzelnen Autors
 GW 7316;Njörður P[étursson] Njarðvik (1936 -;17.97;Texte eines einzelnen Autors
 GW 7318;Oddur Björnsson (1932 -;17.97;Texte eines einzelnen Autors
@@ -8576,7 +8576,7 @@ GW 7336;Óskar Aðalsteinn [Guðjónsson] (1919 -;17.97;Texte eines einzelnen Au
 GW 7338;Páll H. Jónsson (1908 - 1990);17.97;Texte eines einzelnen Autors
 GW 7340;Páll J[ónsson] Árdal (1857 - 1930);17.97;Texte eines einzelnen Autors
 GW 7342;Páll Jónsson (1535 - 1598);17.97;Texte eines einzelnen Autors
-GW 7344;Pálmi Örn Guðmundsson (1949 - ;17.97;Texte eines einzelnen Autors
+GW 7344;Pálmi Örn Guðmundsson (1949 -;17.97;Texte eines einzelnen Autors
 GW 7346;Pétur Gunnarsson (1947 -;17.97;Texte eines einzelnen Autors
 GW 7348;Ragnheiður Jónsdóttir (1895 - 1967);17.97;Texte eines einzelnen Autors
 GW 7350;Rósa B[jörnsdóttir] Blöndals (1913 -;17.97;Texte eines einzelnen Autors
@@ -8651,15 +8651,15 @@ GW 7486;Vigdís Grímsdóttir (1953 -;17.97;Texte eines einzelnen Autors
 GW 7488;Vilborg Dagbjartsdóttir (1930 -;17.97;Texte eines einzelnen Autors
 GW 7490;Vilhjálmur S[igursteinn] Vilhjálmsson (1930 - 1966);17.97;Texte eines einzelnen Autors
 GW 7492;Vilmundur Gylfason (1948 - 1983);17.97;Texte eines einzelnen Autors
-GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7036;Agnar Þórðarson (1917 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7038;Álfrún Gunnlaugsdóttir (1938 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7040;Andrés Indriðason (1941 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7042;Anton Helgi Jónsson (1955 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7044;Ármann Kr. Einarsson (1915 -;18.15;Skandinavische Sprachen und Literaturen
-GW 7046;Árni Bergmann (1935 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7046;Árni Bergmann (1935 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7048;Ásta Sigurðardóttir (1930 - 1971);18.15;Skandinavische Sprachen und Literaturen
-GW 7050;Auður Haralds (1947 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7050;Auður Haralds (1947 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7052;Axel Thorsteinson (1985 - 1984);18.15;Skandinavische Sprachen und Literaturen
 GW 7054;Balður Óskarsson (1932 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7056;Baldvin Einarsson (1801 - 1833);18.15;Skandinavische Sprachen und Literaturen
@@ -8789,7 +8789,7 @@ GW 7304;Lárus Már Björnsson (1952 -;18.15;Skandinavische Sprachen und Literat
 GW 7306;Magnea Matthiasdóttir (1953 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7308;Már Kristjónsson (1927 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7310;Matthias Jochumsson (1835 - 1920);18.15;Skandinavische Sprachen und Literaturen
-GW 7312;Matthias Jóhannessen (1930 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7312;Matthias Jóhannessen (1930 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7314;Nina Björk Árnadóttir (1941 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7316;Njörður P[étursson] Njarðvik (1936 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7318;Oddur Björnsson (1932 -;18.15;Skandinavische Sprachen und Literaturen
@@ -8805,7 +8805,7 @@ GW 7336;Óskar Aðalsteinn [Guðjónsson] (1919 -;18.15;Skandinavische Sprachen 
 GW 7338;Páll H. Jónsson (1908 - 1990);18.15;Skandinavische Sprachen und Literaturen
 GW 7340;Páll J[ónsson] Árdal (1857 - 1930);18.15;Skandinavische Sprachen und Literaturen
 GW 7342;Páll Jónsson (1535 - 1598);18.15;Skandinavische Sprachen und Literaturen
-GW 7344;Pálmi Örn Guðmundsson (1949 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7344;Pálmi Örn Guðmundsson (1949 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7346;Pétur Gunnarsson (1947 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7348;Ragnheiður Jónsdóttir (1895 - 1967);18.15;Skandinavische Sprachen und Literaturen
 GW 7350;Rósa B[jörnsdóttir] Blöndals (1913 -;18.15;Skandinavische Sprachen und Literaturen
@@ -8872,7 +8872,7 @@ GW 7470;Þuriður Guðmundsdóttir (1939 -;18.15;Skandinavische Sprachen und Lit
 GW 7472;Tómas Guðmundsson (1901 - 1983);18.15;Skandinavische Sprachen und Literaturen
 GW 7474;Torfhildur [Þorsteinsdóttir] Hólm (1845 - 1918);18.15;Skandinavische Sprachen und Literaturen
 GW 7476;Tryggvi Emilsson (1902 - 1993);18.15;Skandinavische Sprachen und Literaturen
-GW 7478 ;Úlfar Þormóðsson (1944 -;18.15;Skandinavische Sprachen und Literaturen
+GW 7478;Úlfar Þormóðsson (1944 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7480;Úlfur Hjörvar (1935 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7482;Valdís Óskarsdóttir (1949 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7484;Vésteinn Lúðviksson (1944 -;18.15;Skandinavische Sprachen und Literaturen
@@ -8914,8 +8914,8 @@ GW 7655;Literaturkritik;17.75;Literaturkritik
 GW 7780;Literaturkritik;17.75;Literaturkritik
 GW 7802;Literaturkritik;17.75;Literaturkritik
 GW 7826;Literaturkritik;17.75;Literaturkritik
-GW 7560;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 7570;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 7560;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 7570;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 7778;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GW 7800;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GW 7824;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -9035,269 +9035,269 @@ GE 7111;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu ande
 GE 7200;Allgemeines;18.10;Deutsche Literatur
 GE 7200;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GE 7301;Allgemeines;18.10;Deutsche Literatur
-GE 7301;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7301;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7355;Reim;18.10;Deutsche Literatur
-GE 7355;Reim;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7355;Reim;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7374;Rhythmus;18.10;Deutsche Literatur
-GE 7374;Rhythmus;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7374;Rhythmus;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7404;Metrum (Versmaße);18.10;Deutsche Literatur
-GE 7404;Metrum (Versmaße);17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7404;Metrum (Versmaße);17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7471;a;18.10;Deutsche Literatur
-GE 7471;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7471;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7472;b;18.10;Deutsche Literatur
-GE 7472;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7472;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7473;c;18.10;Deutsche Literatur
-GE 7473;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7473;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7474;d;18.10;Deutsche Literatur
-GE 7474;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7474;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7475;e;18.10;Deutsche Literatur
-GE 7475;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7475;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7476;f;18.10;Deutsche Literatur
-GE 7476;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7476;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7477;g;18.10;Deutsche Literatur
-GE 7477;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7477;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7478;h;18.10;Deutsche Literatur
-GE 7478;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7478;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7479;i;18.10;Deutsche Literatur
-GE 7479;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7479;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7480;j;18.10;Deutsche Literatur
-GE 7480;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7480;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7481;k;18.10;Deutsche Literatur
-GE 7481;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7481;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7482;l;18.10;Deutsche Literatur
-GE 7482;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7482;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7483;m;18.10;Deutsche Literatur
-GE 7483;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7483;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7484;n;18.10;Deutsche Literatur
-GE 7484;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7484;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7485;o;18.10;Deutsche Literatur
-GE 7485;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7485;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7486;p;18.10;Deutsche Literatur
-GE 7486;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7486;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7487;q;18.10;Deutsche Literatur
-GE 7487;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7487;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7488;r;18.10;Deutsche Literatur
-GE 7488;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7488;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7489;s;18.10;Deutsche Literatur
-GE 7489;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7489;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7490;sch;18.10;Deutsche Literatur
-GE 7490;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7490;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7491;sp;18.10;Deutsche Literatur
-GE 7491;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7491;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7492;st;18.10;Deutsche Literatur
-GE 7492;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7492;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7493;t;18.10;Deutsche Literatur
-GE 7493;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7493;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7494;u;18.10;Deutsche Literatur
-GE 7494;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7494;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7495;v;18.10;Deutsche Literatur
-GE 7495;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7495;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7496;w;18.10;Deutsche Literatur
-GE 7496;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7496;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7497;x;18.10;Deutsche Literatur
-GE 7497;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7497;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7498;y;18.10;Deutsche Literatur
-GE 7498;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7498;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7499;z;18.10;Deutsche Literatur
-GE 7499;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7499;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7501;Allgemeines;18.10;Deutsche Literatur
-GE 7501;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7501;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7551;Allgemeines;18.10;Deutsche Literatur
-GE 7551;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7551;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7560;Strophen- und Gedichtformen;18.10;Deutsche Literatur
-GE 7560;Strophen- und Gedichtformen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7560;Strophen- und Gedichtformen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7570;Werktypen;18.10;Deutsche Literatur
-GE 7570;Werktypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7570;Werktypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7606;Klangliche Stilmittel;18.10;Deutsche Literatur
-GE 7606;Klangliche Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7606;Klangliche Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7655;Syntaktische Stilmittel;18.10;Deutsche Literatur
-GE 7655;Syntaktische Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7655;Syntaktische Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7707;Wortgebrauch;18.10;Deutsche Literatur
-GE 7707;Wortgebrauch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GE 7750;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7707;Wortgebrauch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GE 7750;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7761;a;18.10;Deutsche Literatur
 GE 7762;b;18.10;Deutsche Literatur
-GE 7762;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7762;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7763;c;18.10;Deutsche Literatur
-GE 7763;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7763;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7764;d;18.10;Deutsche Literatur
-GE 7764;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7764;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7765;e;18.10;Deutsche Literatur
-GE 7765;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7765;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7766;f;18.10;Deutsche Literatur
-GE 7766;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7766;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7767;g;18.10;Deutsche Literatur
-GE 7767;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7767;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7768;h;18.10;Deutsche Literatur
-GE 7768;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7768;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7769;i;18.10;Deutsche Literatur
-GE 7769;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7769;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7770;j;18.10;Deutsche Literatur
-GE 7770;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7770;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7771;k;18.10;Deutsche Literatur
-GE 7771;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7771;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7772;l;18.10;Deutsche Literatur
-GE 7772;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7772;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7773;m;18.10;Deutsche Literatur
-GE 7773;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7773;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7774;n;18.10;Deutsche Literatur
-GE 7774;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7774;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7775;o;18.10;Deutsche Literatur
-GE 7775;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7775;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7776;p;18.10;Deutsche Literatur
-GE 7776;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7776;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7777;q;18.10;Deutsche Literatur
-GE 7777;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7777;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7778;r;18.10;Deutsche Literatur
-GE 7778;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7778;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7779;s;18.10;Deutsche Literatur
-GE 7779;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7779;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7780;sch;18.10;Deutsche Literatur
-GE 7780;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7780;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7781;sp;18.10;Deutsche Literatur
-GE 7781;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7781;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7782;st;18.10;Deutsche Literatur
-GE 7782;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7782;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7783;t;18.10;Deutsche Literatur
-GE 7783;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7783;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7784;u;18.10;Deutsche Literatur
-GE 7784;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7784;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7785;v;18.10;Deutsche Literatur
-GE 7785;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7785;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7786;w;18.10;Deutsche Literatur
-GE 7786;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7786;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7787;x;18.10;Deutsche Literatur
-GE 7787;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7787;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7788;y;18.10;Deutsche Literatur
-GE 7788;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7788;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7789;z;18.10;Deutsche Literatur
-GE 7789;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7789;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7808;Allgemeines;18.10;Deutsche Literatur
-GE 7808;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7808;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7825;Allegorie;18.10;Deutsche Literatur
-GE 7825;Allegorie;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7825;Allegorie;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7875;Symbol;18.10;Deutsche Literatur
-GE 7875;Symbol;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7875;Symbol;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7896;Metapher;18.10;Deutsche Literatur
-GE 7896;Metapher;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7896;Metapher;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7901;a;18.10;Deutsche Literatur
-GE 7901;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7901;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7902;b;18.10;Deutsche Literatur
-GE 7902;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7902;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7903;c;18.10;Deutsche Literatur
-GE 7903;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7903;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7904;d;18.10;Deutsche Literatur
-GE 7904;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7904;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7905;e;18.10;Deutsche Literatur
-GE 7905;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7905;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7906;f;18.10;Deutsche Literatur
-GE 7906;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7906;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7907;g;18.10;Deutsche Literatur
-GE 7907;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7907;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7908;h;18.10;Deutsche Literatur
-GE 7908;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7908;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7909;i;18.10;Deutsche Literatur
-GE 7909;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7909;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7910;j;18.10;Deutsche Literatur
-GE 7910;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7910;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7911;k;18.10;Deutsche Literatur
-GE 7911;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7911;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7912;l;18.10;Deutsche Literatur
-GE 7912;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7912;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7913;m;18.10;Deutsche Literatur
-GE 7913;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7913;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7914;n;18.10;Deutsche Literatur
-GE 7914;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7914;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7915;o;18.10;Deutsche Literatur
-GE 7915;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7915;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7916;p;18.10;Deutsche Literatur
-GE 7916;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7916;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7917;q;18.10;Deutsche Literatur
-GE 7917;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7917;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7918;r;18.10;Deutsche Literatur
-GE 7918;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7918;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7919;s;18.10;Deutsche Literatur
-GE 7919;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7919;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7920;sch;18.10;Deutsche Literatur
-GE 7920;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7920;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7921;sp;18.10;Deutsche Literatur
-GE 7921;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7921;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7922;st;18.10;Deutsche Literatur
-GE 7922;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7922;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7923;t;18.10;Deutsche Literatur
-GE 7923;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7923;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7924;u;18.10;Deutsche Literatur
-GE 7924;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7924;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7925;v;18.10;Deutsche Literatur
-GE 7925;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7925;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7926;w;18.10;Deutsche Literatur
-GE 7926;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7926;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7927;x;18.10;Deutsche Literatur
-GE 7927;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7927;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7928;y;18.10;Deutsche Literatur
-GE 7928;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7928;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7929;z;18.10;Deutsche Literatur
-GE 7929;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7929;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7931;a;18.10;Deutsche Literatur
-GE 7931;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7931;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7932;b;18.10;Deutsche Literatur
-GE 7932;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7932;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7933;c;18.10;Deutsche Literatur
-GE 7933;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7933;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7934;d;18.10;Deutsche Literatur
-GE 7934;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7934;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7935;e;18.10;Deutsche Literatur
-GE 7935;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7935;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7936;f;18.10;Deutsche Literatur
-GE 7936;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7936;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7937;g;18.10;Deutsche Literatur
-GE 7937;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7937;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7938;h;18.10;Deutsche Literatur
-GE 7938;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7938;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7939;i;18.10;Deutsche Literatur
-GE 7939;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7939;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7940;j;18.10;Deutsche Literatur
-GE 7940;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7940;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7941;k;18.10;Deutsche Literatur
-GE 7941;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7941;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7942;l;18.10;Deutsche Literatur
-GE 7942;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7942;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7943;m;18.10;Deutsche Literatur
-GE 7943;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7943;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7944;n;18.10;Deutsche Literatur
-GE 7944;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7944;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7945;o;18.10;Deutsche Literatur
-GE 7945;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7945;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7946;p;18.10;Deutsche Literatur
-GE 7946;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7946;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7947;q;18.10;Deutsche Literatur
-GE 7947;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7947;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7948;r;18.10;Deutsche Literatur
-GE 7948;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7948;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7949;s;18.10;Deutsche Literatur
-GE 7949;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7949;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7950;sch;18.10;Deutsche Literatur
-GE 7950;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7950;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7951;sp;18.10;Deutsche Literatur
-GE 7951;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7951;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7952;st;18.10;Deutsche Literatur
-GE 7952;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7952;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7953;t;18.10;Deutsche Literatur
-GE 7953;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7953;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7954;u;18.10;Deutsche Literatur
-GE 7954;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7954;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7955;v;18.10;Deutsche Literatur
-GE 7955;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7955;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7956;w;18.10;Deutsche Literatur
-GE 7956;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7956;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7957;x;18.10;Deutsche Literatur
-GE 7957;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7957;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7958;y;18.10;Deutsche Literatur
-GE 7958;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7958;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7959;z;18.10;Deutsche Literatur
-GE 7959;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7959;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7976;Stiltypen;18.10;Deutsche Literatur
-GE 7976;Stiltypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7976;Stiltypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7987;Allgemeines;18.10;Deutsche Literatur
 GE 7987;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GE 7990;Lyrik;18.10;Deutsche Literatur
@@ -9324,9 +9324,9 @@ GE 8303;Allgemeines;18.10;Deutsche Literatur
 GE 8303;Allgemeines;17.71;Literaturgeschichte
 GE 8404;Allgemeines;18.10;Deutsche Literatur
 GE 8404;Allgemeines;17.83;Lyrik
-GE 8411 ;a;18.10;Deutsche Literatur
-GE 8411 ;a;17.83;Lyrik
-GE 8411 ;a;17.93;Literarische Stoffe, literarische Motive, literarische Themen
+GE 8411;a;18.10;Deutsche Literatur
+GE 8411;a;17.83;Lyrik
+GE 8411;a;17.93;Literarische Stoffe, literarische Motive, literarische Themen
 GE 8412;b;18.10;Deutsche Literatur
 GE 8412;b;17.83;Lyrik
 GE 8412;b;17.93;Literarische Stoffe, literarische Motive, literarische Themen
@@ -9515,8 +9515,8 @@ GX 1214;Literaturkritik;17.75;Literaturkritik
 GX 1238;Literaturkritik;17.75;Literaturkritik
 GX 1262;Literaturkritik;17.75;Literaturkritik
 GX 1284;Literaturkritik;17.75;Literaturkritik
-GX 1060;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GX 1070;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GX 1060;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GX 1070;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GX 1130;Einzelne Gattungen;17.80;Literarische Gattungen: Allgemeines
 GX 1188;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GX 1212;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -9709,8 +9709,8 @@ GX 5274;Literaturkritik;17.75;Literaturkritik
 GX 5300;Literaturkritik;17.75;Literaturkritik
 GX 5324;Literaturkritik;17.75;Literaturkritik
 GX 5352;Literaturkritik;17.75;Literaturkritik
-GX 5060;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GX 5070;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GX 5060;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GX 5070;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GX 5110;Einzelne Gattungen;17.80;Literarische Gattungen: Allgemeines
 GX 5224;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GX 5248;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -9923,8 +9923,8 @@ GY 1240;Prosa;18.17;Schwedische Sprache und Literatur
 GY 1250;Dramatik;18.17;Schwedische Sprache und Literatur
 GY 1260;Sonstiges;18.17;Schwedische Sprache und Literatur
 GY 1270;Textsammlungen, Anthologien;18.17;Schwedische Sprache und Literatur
-GE 9001 ;Allgemeines;18.10;Deutsche Literatur
-GE 9001 ;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
+GE 9001;Allgemeines;18.10;Deutsche Literatur
+GE 9001;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GE 9102;Literaturwissenschaft;18.10;Deutsche Literatur
 GE 9102;Literaturwissenschaft;17.70;Literaturwissenschaft: Allgemeines
 GE 9203;Gesamtdarstellungen;18.10;Deutsche Literatur
@@ -9940,9 +9940,9 @@ GE 9310;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GE 9331;Allgemeines;18.10;Deutsche Literatur
 GE 9331;Allgemeines;17.97;Texte eines einzelnen Autors
 GE 9331;Allgemeines;17.98;Textsammlungen
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";18.10;Deutsche Literatur
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";17.97;Texte eines einzelnen Autors
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";17.98;Textsammlungen
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";18.10;Deutsche Literatur
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";17.97;Texte eines einzelnen Autors
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";17.98;Textsammlungen
 GE 9336;Sekundärliteratur;18.10;Deutsche Literatur
 GE 9340;Capitulare (Trierer Capitulare);18.10;Deutsche Literatur
 GE 9340;Capitulare (Trierer Capitulare);17.97;Texte eines einzelnen Autors
@@ -9960,9 +9960,9 @@ GE 9355;Gespräche;18.10;Deutsche Literatur
 GE 9355;Gespräche;17.97;Texte eines einzelnen Autors
 GE 9355;Gespräche;17.98;Textsammlungen
 GE 9356;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";18.10;Deutsche Literatur
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";17.97;Texte eines einzelnen Autors
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";17.98;Textsammlungen
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";18.10;Deutsche Literatur
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";17.97;Texte eines einzelnen Autors
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";17.98;Textsammlungen
 GE 9361;Sekundärliteratur;18.10;Deutsche Literatur
 GE 9361;Sekundärliteratur;17.98;Textsammlungen
 GE 9365;Inschriften;18.10;Deutsche Literatur
@@ -10043,8 +10043,8 @@ GE 9426;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9427;Übersetzungen;18.10;Deutsche Literatur
 GE 9427;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9428;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9430 ;Gesamtausgaben;18.10;Deutsche Literatur
-GE 9430 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GE 9430;Gesamtausgaben;18.10;Deutsche Literatur
+GE 9430;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GE 9431;Einzelausgaben;18.10;Deutsche Literatur
 GE 9431;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9432;Übersetzungen;18.10;Deutsche Literatur
@@ -10092,7 +10092,7 @@ GE 9476;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9477;Übersetzungen;18.10;Deutsche Literatur
 GE 9477;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9478;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9485 ;Gesamtausgaben;18.10;Deutsche Literatur
+GE 9485;Gesamtausgaben;18.10;Deutsche Literatur
 GE 9485;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GE 9486;Einzelausgaben;18.10;Deutsche Literatur
 GE 9486;Einzelausgaben;17.97;Texte eines einzelnen Autors
@@ -10371,8 +10371,8 @@ GF 2054;Gesamtausgaben;18.10;Deutsche Literatur
 GF 2054;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 2055;Einzelausgaben;18.10;Deutsche Literatur
 GF 2055;Einzelausgaben;17.97;Texte eines einzelnen Autors
-GF 2056 ;Übersetzungen;18.10;Deutsche Literatur
-GF 2056 ;Übersetzungen;17.97;Texte eines einzelnen Autors
+GF 2056;Übersetzungen;18.10;Deutsche Literatur
+GF 2056;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 2057;Sekundärliteratur;18.10;Deutsche Literatur
 GF 2061;Gesamtausgaben;18.10;Deutsche Literatur
 GF 2061;Gesamtausgaben;17.97;Texte eines einzelnen Autors
@@ -10689,21 +10689,21 @@ GF 2601;Allgemeines;18.10;Deutsche Literatur
 GF 2601;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 2604;Poetik, Metrik;18.10;Deutsche Literatur
 GF 2604;Poetik, Metrik;17.73;Literaturtheorie: Allgemeines
-GF 2604;Poetik, Metrik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2604;Poetik, Metrik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2608;Allgemeines;18.10;Deutsche Literatur
-GF 2608;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2608;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2609;Syntaktische Stilmiitel;18.10;Deutsche Literatur
-GF 2609;Syntaktische Stilmiitel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2609;Syntaktische Stilmiitel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2610;Wortgebrauch;18.10;Deutsche Literatur
-GF 2610;Wortgebrauch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2610;Wortgebrauch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2611;Bildersprache;18.10;Deutsche Literatur
-GF 2611;Bildersprache;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2611;Bildersprache;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2612;Sonstige Stilmittel;18.10;Deutsche Literatur
-GF 2612;Sonstige Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2612;Sonstige Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2613;Stilarten, Stiltypen;18.10;Deutsche Literatur
-GF 2613;Stilarten, Stiltypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2613;Stilarten, Stiltypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2614;Literarische Rhetorik;18.10;Deutsche Literatur
-GF 2614;Literarische Rhetorik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2614;Literarische Rhetorik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2615;Gesamtdarstellungen und Darstellungen einzelner Regionen;18.10;Deutsche Literatur
 GF 2615;Gesamtdarstellungen und Darstellungen einzelner Regionen;17.71;Literaturgeschichte
 GF 2616;Geistes-, Ideen- und Kulturgeschichte;18.10;Deutsche Literatur
@@ -10795,7 +10795,7 @@ GF 3368;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 3369;Übersetzungen;18.10;Deutsche Literatur
 GF 3369;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 3370;Sekundärliteratur;18.10;Deutsche Literatur
-GF 3375 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 3375;Gesamtausgaben;18.10;Deutsche Literatur
 GF 3375;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 3376;Einzelausgaben;18.10;Deutsche Literatur
 GF 3376;Einzelausgaben;17.97;Texte eines einzelnen Autors
@@ -11240,7 +11240,7 @@ GF 5102;Einzelausgaben;18.10;Deutsche Literatur
 GF 5102;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 5103;Übersetzungen;18.10;Deutsche Literatur
 GF 5103;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 5104;"Allgemeines; Siegfried- und Nibelungensage";18.10;Deutsche Literatur
+GF 5104;"Allgemeines;Siegfried- und Nibelungensage";18.10;Deutsche Literatur
 GF 5109;Untersuchungen zum Gesamtwerk;18.10;Deutsche Literatur
 GF 5111;Untersuchungen zu einzelnen Problemen;18.10;Deutsche Literatur
 GF 5115;Gesamtausgaben;18.10;Deutsche Literatur
@@ -11575,9 +11575,9 @@ GF 6342;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 6345;Allgemeines;18.10;Deutsche Literatur
 GF 6345;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GF 6360;Stilforschung;18.10;Deutsche Literatur
-GF 6360;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 6360;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 6365;Stilarten;18.10;Deutsche Literatur
-GF 6365;Stilarten;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 6365;Stilarten;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 6370;Gattungsprobleme;18.10;Deutsche Literatur
 GF 6370;Gattungsprobleme;17.80;Literarische Gattungen: Allgemeines
 GF 6375;Allgemeines und Regionale Darstellungen;18.10;Deutsche Literatur
@@ -11629,9 +11629,9 @@ GF 6432;Sekundärliteratur;18.10;Deutsche Literatur
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);18.10;Deutsche Literatur
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);17.97;Texte eines einzelnen Autors
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);17.98;Textsammlungen
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";18.10;Deutsche Literatur
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";17.97;Texte eines einzelnen Autors
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";17.98;Textsammlungen
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";18.10;Deutsche Literatur
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";17.97;Texte eines einzelnen Autors
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";17.98;Textsammlungen
 GF 6435;Sekundärliteratur zum Drama der Festkreise;18.10;Deutsche Literatur
 GF 6437;Sonstige Spiele (Legendenspiel, Weltgerichtsspiel u.a.) (Texte);18.10;Deutsche Literatur
 GF 6437;Sonstige Spiele (Legendenspiel, Weltgerichtsspiel u.a.) (Texte);17.97;Texte eines einzelnen Autors
@@ -11678,9 +11678,9 @@ GF 6532;Prosaerzählung, Prosaroman (Texte);18.10;Deutsche Literatur
 GF 6532;Prosaerzählung, Prosaroman (Texte);17.97;Texte eines einzelnen Autors
 GF 6532;Prosaerzählung, Prosaroman (Texte);17.98;Textsammlungen
 GF 6533;Sekundärliteratur;18.10;Deutsche Literatur
-GF 6551;Sonstiges ;18.10;Deutsche Literatur
-GF 6551;Sonstiges ;17.81;Epik, Prosa
-GF 6551;Sonstiges ;17.98;Textsammlungen
+GF 6551;Sonstiges;18.10;Deutsche Literatur
+GF 6551;Sonstiges;17.81;Epik, Prosa
+GF 6551;Sonstiges;17.98;Textsammlungen
 GF 6552;Sekundärliteratur;18.10;Deutsche Literatur
 GF 6701;Allgemeines;18.10;Deutsche Literatur
 GF 6701;Allgemeines;17.84;Sonstige literarische Gattungen
@@ -11873,8 +11873,8 @@ GF 7182;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7183;Übersetzungen;18.10;Deutsche Literatur
 GF 7183;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7184;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7199;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7199;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7200;Einzelausgaben;18.10;Deutsche Literatur
 GF 7200;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7201;Übersetzungen;18.10;Deutsche Literatur
@@ -11973,8 +11973,8 @@ GF 7353;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7354;Übersetzungen;18.10;Deutsche Literatur
 GF 7354;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7355;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7470;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7470;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7471;Einzelausgaben;18.10;Deutsche Literatur
 GF 7471;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7472;Übersetzungen;18.10;Deutsche Literatur
@@ -12259,7 +12259,7 @@ GF 7992;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;17.97;Texte eines einzelnen Autors
 GF 7902;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7904 ;Primärliteratur;18.10;Deutsche Literatur
+GF 7904;Primärliteratur;18.10;Deutsche Literatur
 GF 7904;Primärliteratur;17.97;Texte eines einzelnen Autors
 GF 7905;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7907;Primärliteratur;18.10;Deutsche Literatur
@@ -12596,7 +12596,7 @@ GF 7181;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7182;Einzelausgaben;18.10;Deutsche Literatur
 GF 7183;Übersetzungen;18.10;Deutsche Literatur
 GF 7184;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7199 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7199;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7200;Einzelausgaben;18.10;Deutsche Literatur
 GF 7201;Übersetzungen;18.10;Deutsche Literatur
 GF 7202;Sekundärliteratur;18.10;Deutsche Literatur
@@ -12654,7 +12654,7 @@ GF 7352;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7353;Einzelausgaben;18.10;Deutsche Literatur
 GF 7354;Übersetzungen;18.10;Deutsche Literatur
 GF 7355;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7470 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 7470;Gesamtausgaben;18.10;Deutsche Literatur
 GF 7471;Einzelausgaben;18.10;Deutsche Literatur
 GF 7472;Übersetzungen;18.10;Deutsche Literatur
 GF 7473;Sekundärliteratur;18.10;Deutsche Literatur
@@ -12820,7 +12820,7 @@ GF 7991;Übersetzungen;18.10;Deutsche Literatur
 GF 7992;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7901;Primärliteratur;18.10;Deutsche Literatur
 GF 7902;Sekundärliteratur;18.10;Deutsche Literatur
-GF 7904 ;Primärliteratur;18.10;Deutsche Literatur
+GF 7904;Primärliteratur;18.10;Deutsche Literatur
 GF 7905;Sekundärliteratur;18.10;Deutsche Literatur
 GF 7907;Primärliteratur;18.10;Deutsche Literatur
 GF 7908;Sekundärliteratur;18.10;Deutsche Literatur
@@ -13033,7 +13033,7 @@ GF 7177;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7181;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7182;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7183;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 7199 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7199;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7200;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7201;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7215;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -13075,7 +13075,7 @@ GF 7346;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7352;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7353;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7354;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 7470 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GF 7470;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 7471;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 7472;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 7498;Gesamtausgaben;17.97;Texte eines einzelnen Autors
@@ -13401,9 +13401,9 @@ GG 3871;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu ande
 GG 3925;Allgemeines;18.10;Deutsche Literatur
 GG 3925;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GG 4033;Metrik. Rhythmik;18.10;Deutsche Literatur
-GG 4033;Metrik. Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GG 4033;Metrik. Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GG 4125;Stilistik (Stilforschung);18.10;Deutsche Literatur
-GG 4125;Stilistik (Stilforschung);17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GG 4125;Stilistik (Stilforschung);17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GG 4130;Gattungsprobleme;18.10;Deutsche Literatur
 GG 4130;Gattungsprobleme;17.80;Literarische Gattungen: Allgemeines
 GG 4141;Sonstiges;18.10;Deutsche Literatur
@@ -13660,7 +13660,7 @@ GN 2935;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 2946;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GN 2947;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GN 2948;Übersetzungen;17.97;Texte eines einzelnen Autors
-Gn 3058;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 3058;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3070;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3090;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3173;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -13744,7 +13744,7 @@ GN 3970;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 3990;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GN 3991;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GN 3992;Übersetzungen;17.97;Texte eines einzelnen Autors
-GN 4058 ;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 4058;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4081;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4100;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 4140;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -14114,8 +14114,8 @@ GN 8877;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8881;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8887;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8889;Primärliteratur;17.97;Texte eines einzelnen Autors
-Gn 8891;Primärliteratur;17.97;Texte eines einzelnen Autors
-Gn 8894;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 8891;Primärliteratur;17.97;Texte eines einzelnen Autors
+GN 8894;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8897;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 8899;Primärliteratur;17.97;Texte eines einzelnen Autors
 GN 9001;Primärliteratur;17.97;Texte eines einzelnen Autors
@@ -14285,8 +14285,8 @@ GN 2946;Gesamtausgaben;18.10;Deutsche Literatur
 GN 2947;Einzelausgaben;18.10;Deutsche Literatur
 GN 2948;Übersetzungen;18.10;Deutsche Literatur
 GN 2949;Sekundärliteratur;18.10;Deutsche Literatur
-Gn 3058;Primärliteratur;18.10;Deutsche Literatur
-Gn 3059;Sekundärliteratur;18.10;Deutsche Literatur
+GN 3058;Primärliteratur;18.10;Deutsche Literatur
+GN 3059;Sekundärliteratur;18.10;Deutsche Literatur
 GN 3070;Primärliteratur;18.10;Deutsche Literatur
 GN 3071;Sekundärliteratur;18.10;Deutsche Literatur
 GN 3090;Primärliteratur;18.10;Deutsche Literatur
@@ -14447,7 +14447,7 @@ GN 3990;Gesamtausgaben;18.10;Deutsche Literatur
 GN 3991;Einzelausgaben;18.10;Deutsche Literatur
 GN 3992;Übersetzungen;18.10;Deutsche Literatur
 GN 3993;Sekundärliteratur;18.10;Deutsche Literatur
-GN 4058 ;Primärliteratur;18.10;Deutsche Literatur
+GN 4058;Primärliteratur;18.10;Deutsche Literatur
 GN 4059;Sekundärliteratur;18.10;Deutsche Literatur
 GN 4081;Primärliteratur;18.10;Deutsche Literatur
 GN 4082;Sekundärliteratur;18.10;Deutsche Literatur
@@ -14975,7 +14975,7 @@ GN 7842;Primärliteratur;18.10;Deutsche Literatur
 GN 7843;Sekundärliteratur;18.10;Deutsche Literatur
 GN 7844;Primärliteratur;18.10;Deutsche Literatur
 GN 7845;Sekundärliteratur;18.10;Deutsche Literatur
-GN 7848 ;Primärliteratur;18.10;Deutsche Literatur
+GN 7848;Primärliteratur;18.10;Deutsche Literatur
 GN 7849;Sekundärliteratur;18.10;Deutsche Literatur
 GN 7850;Primärliteratur;18.10;Deutsche Literatur
 GN 7851;Sekundärliteratur;18.10;Deutsche Literatur
@@ -15476,8 +15476,8 @@ GO 23410;Texte. Sammlungen;17.75;Literaturkritik
 GO 23450;Einzelne Rezensenten;17.75;Literaturkritik
 GO 24100;Allgemeine Sammlungen;17.75;Literaturkritik
 GO 24300;Sammlungen nach Gattungen;17.75;Literaturkritik
-GO 11300;Metrik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GO 11400;Stilistik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GO 11300;Metrik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GO 11400;Stilistik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GO 11500;Gattungstheorie;17.80;Literarische Gattungen: Allgemeines
 GO 20100;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GO 21100;Prosa allgemein;17.81;Epik, Prosa
@@ -16145,7 +16145,7 @@ GT 1078;Literaturpsychologie;17.90;Literatur in Beziehung zu anderen Bereichen v
 GT 1087;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GT 1054;Literatursoziologie. Literarisches Leben;17.91;Literatursoziologie
 GT 1431;Thematische Sammlungen;17.93;Literarische Stoffe, literarische Motive, literarische Themen
-GT 1375 ;Allgemeine Sammlungen;17.98;Textsammlungen
+GT 1375;Allgemeine Sammlungen;17.98;Textsammlungen
 GT 1401;Regionale Sammlungen;17.98;Textsammlungen
 GT 1431;Thematische Sammlungen;17.98;Textsammlungen
 GT 1467;Lyrik;17.98;Textsammlungen
@@ -16193,7 +16193,7 @@ GT 1356;w;18.10;Deutsche Literatur
 GT 1357;x;18.10;Deutsche Literatur
 GT 1358;y;18.10;Deutsche Literatur
 GT 1359;z;18.10;Deutsche Literatur
-GT 1375 ;Allgemeine Sammlungen;18.10;Deutsche Literatur
+GT 1375;Allgemeine Sammlungen;18.10;Deutsche Literatur
 GT 1401;Regionale Sammlungen;18.10;Deutsche Literatur
 GT 1431;Thematische Sammlungen;18.10;Deutsche Literatur
 GT 1467;Lyrik;18.10;Deutsche Literatur
@@ -16249,7 +16249,7 @@ GU 19000;Allgemeines;17.18;Dialektologie
 GU 19050;Sprachgeographie;17.18;Dialektologie
 GU 19125;Allgemeines;17.18;Dialektologie
 GU 19150;Besonderes;17.18;Dialektologie
-GU 19175;Einzelne Mundarten ;17.18;Dialektologie
+GU 19175;Einzelne Mundarten;17.18;Dialektologie
 GU 19225;Allgemeines;17.18;Dialektologie
 GU 19250;Besonderes;17.18;Dialektologie
 GU 19275;Einzelne Mundarten;17.18;Dialektologie
@@ -16392,22 +16392,22 @@ GU 18370;Idiom- und Argotwörterbücher;17.59;Lexikologie
 GU 18380;Stilwörterbücher und Sprachschwierigkeiten;17.59;Lexikologie
 GU 18390;Synonymwörterbücher;17.59;Lexikologie
 GU 18395;Sonstige Wörterbücher;17.59;Lexikologie
-GU 18400 ;Allgemeines;17.59;Lexikologie
+GU 18400;Allgemeines;17.59;Lexikologie
 GU 18425;Einzelne Wörter;17.59;Lexikologie
 GU 18450;Wortgeschichte, Etymologie;17.59;Lexikologie
 GU 18475;Semantik;17.59;Lexikologie
 GU 18490;Lehn- und Fremdwörter;17.59;Lexikologie
 GU 19475;Wortschatz;17.59;Lexikologie
 GU 18250;Lexikographie;17.60;Lexikographie
-GU 18000;Wissenschaftliche Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
-GU 18050;Phraseologie, Idiomatik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
-GU 18075;normative Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GU 18000;Wissenschaftliche Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GU 18050;Phraseologie, Idiomatik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GU 18075;normative Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
 GU 18100;Allgemeines;17.63;Textlinguistik
 GU 18150;Diskursanalyse, Konversationsanalyse;17.63;Textlinguistik
 GU 18175;Spezielle Probleme;17.63;Textlinguistik
 GU 19500;Sonstiges;17.69;Sprachwissenschaft: Sonstiges
 GU 10430;Literaturwissenschaft;17.70;Literaturwissenschaft: Allgemeines
-GU 20000;"Allgemeines (Handbücher; Schriftstellerlexika)";17.70;Literaturwissenschaft: Allgemeines
+GU 20000;"Allgemeines (Handbücher;Schriftstellerlexika)";17.70;Literaturwissenschaft: Allgemeines
 GU 20300;Sachwörterbücher;17.70;Literaturwissenschaft: Allgemeines
 GU 20500;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GU 25000;Allgemeines;17.71;Literaturgeschichte
@@ -16431,15 +16431,15 @@ GU 27810;Lyrik;17.75;Literaturkritik
 GU 27825;Dramatik;17.75;Literaturkritik
 GU 27850;Prosa;17.75;Literaturkritik
 GU 27875;Sonstige Gattungen;17.75;Literaturkritik
-GU 22300;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22350;Reim, Assonanz;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22400;Einzelne Versmaße;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22450;Strophen und feste Gedichtformen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22500;Rhythmus;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22800;Stil;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 22900;Rhetorische Figuren;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 26700;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GU 20600;"Handschriften; Textkritik";17.78;Textkritik <Literaturwissenschaft>
+GU 22300;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22350;Reim, Assonanz;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22400;Einzelne Versmaße;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22450;Strophen und feste Gedichtformen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22500;Rhythmus;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22800;Stil;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 22900;Rhetorische Figuren;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 26700;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GU 20600;"Handschriften;Textkritik";17.78;Textkritik <Literaturwissenschaft>
 GU 23000;Gattungsfragen;17.80;Literarische Gattungen: Allgemeines
 GU 27000;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GU 27025;Prosa im Allgemeinen;17.81;Epik, Prosa
@@ -16454,7 +16454,7 @@ GU 27500;Allgemeines;17.81;Epik, Prosa
 GU 27525;Tagebuch, Memoiren;17.81;Epik, Prosa
 GU 27850;Prosa;17.81;Epik, Prosa
 GU 28450;Prosa;17.81;Epik, Prosa
-GU 27200 ;Allgemeines;17.82;Dramatik
+GU 27200;Allgemeines;17.82;Dramatik
 GU 27210;Prosadrama;17.82;Dramatik
 GU 27225;Tragödie;17.82;Dramatik
 GU 27250;Komödie;17.82;Dramatik
@@ -16473,7 +16473,7 @@ GU 27875;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GU 28475;Briefe;17.84;Sonstige literarische Gattungen
 GU 28490;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GU 25800;Sonstige Regionen und Mundartliteratur;17.87;Besondere Literaturkategorien
-GU 20800;"Literaturpsychologie; Literaturphilosophie";17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
+GU 20800;"Literaturpsychologie;Literaturphilosophie";17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21600;Allgemeines;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21650;Beziehung der Literatur zu Theologie und Religion;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21675;Beziehung der Literatur zu Philosophie und Psychologie;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
@@ -16484,7 +16484,7 @@ GU 21775;Beziehung der Literatur zur Erziehung;17.90;Literatur in Beziehung zu a
 GU 21800;Beziehung der Literatur zu den Naturwissenschaften;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21850;Beziehungen zu sonstigen Gebieten;17.90;Literatur in Beziehung zu anderen Bereichen von Wissenschaft und Kultur
 GU 21000;Allgemeines;17.91;Literatursoziologie
-GU 21100;"Schriftsteller; gesammelte biographische Essays über Dichter";17.91;Literatursoziologie
+GU 21100;"Schriftsteller;gesammelte biographische Essays über Dichter";17.91;Literatursoziologie
 GU 21300;Publikum;17.91;Literatursoziologie
 GU 21400;Literarisches Leben;17.91;Literatursoziologie
 GU 21500;Sonstiges;17.91;Literatursoziologie
@@ -16685,7 +16685,7 @@ GU 18370;Idiom- und Argotwörterbücher;18.12;Niederländische Sprache
 GU 18380;Stilwörterbücher und Sprachschwierigkeiten;18.12;Niederländische Sprache
 GU 18390;Synonymwörterbücher;18.12;Niederländische Sprache
 GU 18395;Sonstige Wörterbücher;18.12;Niederländische Sprache
-GU 18400 ;Allgemeines;18.12;Niederländische Sprache
+GU 18400;Allgemeines;18.12;Niederländische Sprache
 GU 18425;Einzelne Wörter;18.12;Niederländische Sprache
 GU 18450;Wortgeschichte, Etymologie;18.12;Niederländische Sprache
 GU 18475;Semantik;18.12;Niederländische Sprache
@@ -16697,7 +16697,7 @@ GU 19000;Allgemeines;18.12;Niederländische Sprache
 GU 19050;Sprachgeographie;18.12;Niederländische Sprache
 GU 19125;Allgemeines;18.12;Niederländische Sprache
 GU 19150;Besonderes;18.12;Niederländische Sprache
-GU 19175;Einzelne Mundarten ;18.12;Niederländische Sprache
+GU 19175;Einzelne Mundarten;18.12;Niederländische Sprache
 GU 19225;Allgemeines;18.12;Niederländische Sprache
 GU 19250;Besonderes;18.12;Niederländische Sprache
 GU 19275;Einzelne Mundarten;18.12;Niederländische Sprache
@@ -16716,14 +16716,14 @@ GU 14100;Literaturgeschichte;18.13;Niederländische Literatur
 GU 14150;Interpretation;18.13;Niederländische Literatur
 GU 14200;Lesebücher;18.13;Niederländische Literatur
 GU 14250;Besonderes;18.13;Niederländische Literatur
-GU 20000;"Allgemeines (Handbücher; Schriftstellerlexika)";18.13;Niederländische Literatur
+GU 20000;"Allgemeines (Handbücher;Schriftstellerlexika)";18.13;Niederländische Literatur
 GU 20300;Sachwörterbücher;18.13;Niederländische Literatur
 GU 20500;Allgemeines;18.13;Niederländische Literatur
-GU 20600;"Handschriften; Textkritik";18.13;Niederländische Literatur
+GU 20600;"Handschriften;Textkritik";18.13;Niederländische Literatur
 GU 20700;Literaturtheorie allgemein;18.13;Niederländische Literatur
-GU 20800;"Literaturpsychologie; Literaturphilosophie";18.13;Niederländische Literatur
+GU 20800;"Literaturpsychologie;Literaturphilosophie";18.13;Niederländische Literatur
 GU 21000;Allgemeines;18.13;Niederländische Literatur
-GU 21100;"Schriftsteller; gesammelte biographische Essays über Dichter";18.13;Niederländische Literatur
+GU 21100;"Schriftsteller;gesammelte biographische Essays über Dichter";18.13;Niederländische Literatur
 GU 21200;Verleger;18.13;Niederländische Literatur
 GU 21300;Publikum;18.13;Niederländische Literatur
 GU 21400;Literarisches Leben;18.13;Niederländische Literatur
@@ -16802,7 +16802,7 @@ GU 27050;Versdichtung im Allgemeinen;18.13;Niederländische Literatur
 GU 27080;Allgemeines;18.13;Niederländische Literatur
 GU 27100;Einzelne Formen;18.13;Niederländische Literatur
 GU 27150;Besondere Gesichtspunkte;18.13;Niederländische Literatur
-GU 27200 ;Allgemeines;18.13;Niederländische Literatur
+GU 27200;Allgemeines;18.13;Niederländische Literatur
 GU 27210;Prosadrama;18.13;Niederländische Literatur
 GU 27225;Tragödie;18.13;Niederländische Literatur
 GU 27250;Komödie;18.13;Niederländische Literatur
@@ -16849,7 +16849,7 @@ GU 12750;Schriftlicher Ausdruck, Aufsatz, Textproduktion, Schreibdidaktik;80.60;
 GU 12850;Mündlicher Ausdruck, Konversation, Hörverstehen, Leseverstehen;80.60;Schreibunterricht, Leseunterricht
 GU 12100;Unterrichtsplanung;81.60;Unterrichtsprozess: Allgemeines
 GU 10800;Curriculumforschung, Empirische Fremdsprachenunterrichtsforschung, Lehrerbildung;81.62;Curriculum
-GU 12200;Sprachtest, Prüfung, Evaluation;81.64 ;Unterrichtsprozess: Sonstiges
+GU 12200;Sprachtest, Prüfung, Evaluation;81.64;Unterrichtsprozess: Sonstiges
 GU 11500;Allgemeines;81.65;Lehrmitttel, Lernmittel: Allgemeines
 GU 12000;Schulbuch (Theorie und Analyse);81.66;Schulbuch
 GU 12550;Sprachlehrbuch (Theorie und Analyse);81.66;Schulbuch
@@ -16882,8 +16882,8 @@ GE 4251;Ostdeutschland;18.10;Deutsche Literatur
 GE 4251;Ostdeutschland;17.87;Besondere Literaturkategorien
 GE 4275;Das literarische Leben in einzelnen Regionen und Orten;18.10;Deutsche Literatur
 GE 4275;Das literarische Leben in einzelnen Regionen und Orten;17.71;Literaturgeschichte
-GE 4301 ;mehrere Gebiete umfassend;18.10;Deutsche Literatur
-GE 4301 ;mehrere Gebiete umfassend;17.71;Literaturgeschichte
+GE 4301;mehrere Gebiete umfassend;18.10;Deutsche Literatur
+GE 4301;mehrere Gebiete umfassend;17.71;Literaturgeschichte
 GE 4325;Österreich;18.10;Deutsche Literatur
 GE 4325;Österreich;17.71;Literaturgeschichte
 GE 4355;Gesamtdarstellungen;18.10;Deutsche Literatur
@@ -16971,13 +16971,13 @@ GE 4600;spanische und portugiesische;18.10;Deutsche Literatur
 GE 4600;spanische und portugiesische;17.71;Literaturgeschichte
 GE 4600;spanische und portugiesische;18.32;Spanische Literatur
 GE 4600;spanische und portugiesische;18.37;Portugiesische Literatur
-GE 4606;slawische ;18.10;Deutsche Literatur
-GE 4606;slawische ;17.71;Literaturgeschichte
-GE 4606;slawische ;18.50;Slawische Sprachen und Literaturen: Allgemeines
+GE 4606;slawische;18.10;Deutsche Literatur
+GE 4606;slawische;17.71;Literaturgeschichte
+GE 4606;slawische;18.50;Slawische Sprachen und Literaturen: Allgemeines
 GE 4608;orientalische;18.10;Deutsche Literatur
 GE 4608;orientalische;17.71;Literaturgeschichte
-GE 4611 ;a;18.10;Deutsche Literatur
-GE 4611 ;a;17.71;Literaturgeschichte
+GE 4611;a;18.10;Deutsche Literatur
+GE 4611;a;17.71;Literaturgeschichte
 GE 4612;b;18.10;Deutsche Literatur
 GE 4612;b;17.71;Literaturgeschichte
 GE 4613;c;18.10;Deutsche Literatur
@@ -17036,8 +17036,8 @@ GE 4639;z;18.10;Deutsche Literatur
 GE 4639;z;17.71;Literaturgeschichte
 GE 4705;Allgemeines;18.10;Deutsche Literatur
 GE 4705;Allgemeines;17.95;Literarische Übersetzung
-GE 4711 ;a;18.10;Deutsche Literatur
-GE 4711 ;a;17.95;Literarische Übersetzung
+GE 4711;a;18.10;Deutsche Literatur
+GE 4711;a;17.95;Literarische Übersetzung
 GE 4712;b;18.10;Deutsche Literatur
 GE 4712;b;17.95;Literarische Übersetzung
 GE 4713;c;18.10;Deutsche Literatur
@@ -17294,8 +17294,8 @@ GE 5250;Allgemeines;18.10;Deutsche Literatur
 GE 5250;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GE 5505;Allgemeines;18.10;Deutsche Literatur
 GE 5505;Allgemeines;17.83;Lyrik
-GE 5511 ;a;18.10;Deutsche Literatur
-GE 5511 ;a;17.83;Lyrik
+GE 5511;a;18.10;Deutsche Literatur
+GE 5511;a;17.83;Lyrik
 GE 5512;b;18.10;Deutsche Literatur
 GE 5512;b;17.83;Lyrik
 GE 5513;c;18.10;Deutsche Literatur
@@ -17692,8 +17692,8 @@ GE 6086;Aphorismus, Fragment;18.10;Deutsche Literatur
 GE 6086;Aphorismus, Fragment;17.84;Sonstige literarische Gattungen
 GE 6088;Spruch;18.10;Deutsche Literatur
 GE 6088;Spruch;17.84;Sonstige literarische Gattungen
-GE 6095;Sonstige Gattungen ;18.10;Deutsche Literatur
-GE 6095;Sonstige Gattungen ;17.84;Sonstige literarische Gattungen
+GE 6095;Sonstige Gattungen;18.10;Deutsche Literatur
+GE 6095;Sonstige Gattungen;17.84;Sonstige literarische Gattungen
 GE 6101;Allgemeines;18.10;Deutsche Literatur
 GE 6101;Allgemeines;17.84;Sonstige literarische Gattungen
 GE 6155;Autobiographie;18.10;Deutsche Literatur
@@ -17726,7 +17726,7 @@ GE 6290;Moritat;18.10;Deutsche Literatur
 GE 6290;Moritat;17.87;Besondere Literaturkategorien
 GE 6295;Volksschauspiel;18.10;Deutsche Literatur
 GE 6295;Volksschauspiel;17.87;Besondere Literaturkategorien
-GE 6296 -6421;Nichtfiktive Prosa;;
+GE 6296 - 6421;Nichtfiktive Prosa;;
 GE 6296;Allgemeines;18.10;Deutsche Literatur
 GE 6296;Allgemeines;17.81;Epik, Prosa
 GE 6297;Biographik;18.10;Deutsche Literatur
@@ -17814,9 +17814,9 @@ GE 6601;Epik;18.10;Deutsche Literatur
 GE 6601;Epik;17.75;Literaturkritik
 GE 6601;Epik;17.81;Epik, Prosa
 GE 6601;Epik;17.98;Textsammlungen
-GE 6631 ;a;18.10;Deutsche Literatur
-GE 6631 ;a;17.75;Literaturkritik
-GE 6631 ;a;17.98;Textsammlungen
+GE 6631;a;18.10;Deutsche Literatur
+GE 6631;a;17.75;Literaturkritik
+GE 6631;a;17.98;Textsammlungen
 GE 6632;b;18.10;Deutsche Literatur
 GE 6632;b;17.75;Literaturkritik
 GE 6632;b;17.98;Textsammlungen
@@ -18163,13 +18163,13 @@ GE 6814;Komödie;17.98;Textsammlungen
 GE 6817;Tragikomödie;18.10;Deutsche Literatur
 GE 6817;Tragikomödie;17.82;Dramatik
 GE 6817;Tragikomödie;17.98;Textsammlungen
-GE 6819;"Sonstige Gattungen; Bearbeitungen";18.10;Deutsche Literatur
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.82;Dramatik
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.98;Textsammlungen
-GE 6819;"Sonstige Gattungen; Bearbeitungen";17.84;Sonstige literarische Gattungen
-GE 6821 ;Allgemeine Sammlungen;18.10;Deutsche Literatur
-GE 6821 ;Allgemeine Sammlungen;17.81;Epik, Prosa
-GE 6821 ;Allgemeine Sammlungen;17.98;Textsammlungen
+GE 6819;"Sonstige Gattungen;Bearbeitungen";18.10;Deutsche Literatur
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.82;Dramatik
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.98;Textsammlungen
+GE 6819;"Sonstige Gattungen;Bearbeitungen";17.84;Sonstige literarische Gattungen
+GE 6821;Allgemeine Sammlungen;18.10;Deutsche Literatur
+GE 6821;Allgemeine Sammlungen;17.81;Epik, Prosa
+GE 6821;Allgemeine Sammlungen;17.98;Textsammlungen
 GE 6824;Einzelne Themen und Motive;18.10;Deutsche Literatur
 GE 6824;Einzelne Themen und Motive;17.81;Epik, Prosa
 GE 6824;Einzelne Themen und Motive;17.98;Textsammlungen
@@ -18389,10 +18389,10 @@ GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);18.10;Deutsche 
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.98;Textsammlungen
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.97;Texte eines einzelnen Autors
 GE 6963;Regionale Sammlungen (Textsammlung und einzelne Autoren);17.87;Besondere Literaturkategorien
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;18.10;Deutsche Literatur
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.98;Textsammlungen
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.97;Texte eines einzelnen Autors
-GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren) ;17.87;Besondere Literaturkategorien
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);18.10;Deutsche Literatur
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.98;Textsammlungen
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.97;Texte eines einzelnen Autors
+GE 6975;Sammlungen altbayer. Und österreichischer Texte (auch einzelne Autoren);17.87;Besondere Literaturkategorien
 GV 1050;Landes- und Volkskunde;15.63;Belgien, Niederlande, Luxemburg <Geschichte>
 GV 1000;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 1010;Bibliographie;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -18414,7 +18414,7 @@ GV 1790;Morphologie <Linguistik>;17.55;Morphologie, Wortbildung
 GV 1920;Namenkunde;17.57;Namenkunde
 GV 1860;Lexikologie (Wortkunde);17.59;Lexikologie
 GV 1880;Wörterbücher;17.59;Lexikologie
-GV 1820;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GV 1820;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
 GV 1840;Textlinguistik;17.63;Textlinguistik
 GV 1960;Sonstiges;17.69;Sprachwissenschaft: Sonstiges
 GV 2000;Allgemeines (Einführungen, Bibliographie, Nachschlagewerke);17.70;Literaturwissenschaft: Allgemeines
@@ -18488,7 +18488,7 @@ GV 2800;Textsammlungen;18.13;Niederländische Literatur
 GV 2810;nach Gattungen;18.13;Niederländische Literatur
 GV 2820;nach Themen;18.13;Niederländische Literatur
 GV 2830;Sonstige;18.13;Niederländische Literatur
-GV 4001;Allgemeines ;17.00;Sprach- und Literaturwissenschaft: Allgemeines
+GV 4001;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4010;Bibliographien;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4100;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
 GV 4206;Allgemeines;17.00;Sprach- und Literaturwissenschaft: Allgemeines
@@ -18517,7 +18517,7 @@ GV 6174;Sprachgeschichte. Sprachpflege;17.22;Sprachlenkung, Sprachpolitik
 GV 4030;Sprachverbreitung. Sprachkontakt (Sprachberührung);17.23;Mehrsprachigkeit
 GV 4026;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);17.30;Psycholinguistik: Allgemeines
 GV 6092;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);17.30;Psycholinguistik: Allgemeines
-GV 4045 ;Allgemeines;17.50;Allgemeine Grammatik
+GV 4045;Allgemeines;17.50;Allgemeine Grammatik
 GV 4046;Historische Grammatik;17.50;Allgemeine Grammatik
 GV 4050;(Deskriptive) Grammatik;17.50;Allgemeine Grammatik
 GV 4110;Grammatik. Stilistik;17.50;Allgemeine Grammatik
@@ -18552,10 +18552,10 @@ GV 6561;Allgemeines;17.59;Lexikologie
 GV 6652;Wörterbücher;17.59;Lexikologie
 GV 6743;Wortschatz. Etymologie (Wortgeschichte);17.59;Lexikologie
 GV 8078;Wortschatz;17.59;Lexikologie
-GV 4070;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
-GV 4110;Grammatik. Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
-GV 5057;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
-GV 6468;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GV 4070;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GV 4110;Grammatik. Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GV 5057;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
+GV 6468;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft> <Sprachwissenschaft>
 GV 7525;Allgemeines;17.71;Literaturgeschichte
 GV 7636;Systematische Literaturgeschichte;17.71;Literaturgeschichte
 GV 7757;Literaturepochen;17.71;Literaturgeschichte
@@ -18572,7 +18572,7 @@ GV 7303;Allgemeines;17.79;Literaturwissenschaft: Allgemeines
 GV 7414;Literaturwissenschaft;17.79;Literaturwissenschaft: Allgemeines
 GV 7755;Textsammlungen;17.98;Textsammlungen
 GV 8189;Textsammlungen;17.98;Textsammlungen
-GV 4001;Allgemeines ;18.19;Germanische Sprachen und Literaturen: Sonstiges
+GV 4001;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4010;Bibliographien;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4023;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4026;Psycholinguistik. Soziolinguistik (Sprachpsychologie. Sprachsoziologie);18.19;Germanische Sprachen und Literaturen: Sonstiges
@@ -18580,7 +18580,7 @@ GV 4029;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4030;Sprachverbreitung. Sprachkontakt (Sprachberührung);18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4035;Sprachpflege;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4040;Einzelne Epochen;18.19;Germanische Sprachen und Literaturen: Sonstiges
-GV 4045 ;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
+GV 4045;Allgemeines;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4046;Historische Grammatik;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4050;(Deskriptive) Grammatik;18.19;Germanische Sprachen und Literaturen: Sonstiges
 GV 4055;Lautlehre. Schreibung;18.19;Germanische Sprachen und Literaturen: Sonstiges
@@ -18773,12 +18773,12 @@ GW 2470;Sprachgeschichte;17.15;Historische Linguistik
 GW 3228;Sprachgeschichte;17.15;Historische Linguistik
 GW 4410;Sprachgeschichte;17.15;Historische Linguistik
 GW 4753;Sprachgeschichte;17.15;Historische Linguistik
-GW 1130 ;Allgemeines;17.18;Dialektologie
+GW 1130;Allgemeines;17.18;Dialektologie
 GW 1132;Sprachgeographie;17.18;Dialektologie
-GW 1133 ;Besonderes;17.18;Dialektologie
-GW 1134 ;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
+GW 1133;Besonderes;17.18;Dialektologie
+GW 1134;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
 GW 1140;Besonderes;17.18;Dialektologie
-GW 1960 ;Allgemeines;17.18;Dialektologie
+GW 1960;Allgemeines;17.18;Dialektologie
 GW 1962;Sprachgeographie;17.18;Dialektologie
 GW 1963;Besonderes;17.18;Dialektologie
 GW 1964;Einzelne Mundarten (CSN der Mundart);17.18;Dialektologie
@@ -19006,7 +19006,7 @@ GW 2355;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 2515;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 3320;Rechtschreibung (Orthographie);17.54;Orthographie
 GW 4510;Rechtschreibung (Orthographie);17.54;Orthographie
-GW 1078 ;Wortbildung;17.55;Morphologie, Wortbildung
+GW 1078;Wortbildung;17.55;Morphologie, Wortbildung
 GW 1080;Morphologie (Formenlehre);17.55;Morphologie, Wortbildung
 GW 1081;Wortklassen;17.55;Morphologie, Wortbildung
 GW 1255;Wortbildung;17.55;Morphologie, Wortbildung
@@ -19159,7 +19159,7 @@ GW 2015;Lexikographie;17.60;Lexikographie
 GW 2190;Allgemeines;17.60;Lexikographie
 GW 2400;Allgemeines;17.60;Lexikographie
 GW 2560;Allgemeines;17.60;Lexikographie
-GW 3370 ;Allgemeines;17.60;Lexikographie
+GW 3370;Allgemeines;17.60;Lexikographie
 GW 4570;Allgemeines;17.60;Lexikographie
 GW 4770;Lexikographie;17.60;Lexikographie
 GW 1027;Pragmatik;17.61;Pragmatik, Sprechakttheorie
@@ -19171,19 +19171,19 @@ GW 2468;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 3225;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 4408;Pragmatik;17.61;Pragmatik, Sprechakttheorie
 GW 4752;Pragmatik;17.61;Pragmatik, Sprechakttheorie
-GW 1090;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 1275;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 1420;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 1552;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 1668;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 1860;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 2000;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 2180;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 2380;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 2540;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 3360;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 4550;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
-GW 4766;Stilistik;17.62; Rhetorik; Stilistik <Sprachwissenschaft>
+GW 1090;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 1275;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 1420;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 1552;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 1668;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 1860;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 2000;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 2180;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 2380;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 2540;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 3360;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 4550;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
+GW 4766;Stilistik;17.62;Rhetorik;Stilistik <Sprachwissenschaft>
 GW 1027;Textlinguistik;17.63;Textlinguistik
 GW 1755;Textlinguistik;17.63;Textlinguistik
 GW 1980;Textlinguistik;17.63;Textlinguistik
@@ -19220,7 +19220,7 @@ GW 1038;Sprachpflege. Sprachlenkung. Sprachpolitik;18.15;Skandinavische Sprachen
 GW 1071;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1076;Lautlehre. Phonologie. Phonetik;18.15;Skandinavische Sprachen und Literaturen
 GW 1077;Rechtschreibung (Orthographie);18.15;Skandinavische Sprachen und Literaturen
-GW 1078 ;Wortbildung;18.15;Skandinavische Sprachen und Literaturen
+GW 1078;Wortbildung;18.15;Skandinavische Sprachen und Literaturen
 GW 1080;Morphologie (Formenlehre);18.15;Skandinavische Sprachen und Literaturen
 GW 1081;Wortklassen;18.15;Skandinavische Sprachen und Literaturen
 GW 1082;Syntax;18.15;Skandinavische Sprachen und Literaturen
@@ -19238,10 +19238,10 @@ GW 1120;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1121;Personennamen;18.15;Skandinavische Sprachen und Literaturen
 GW 1123;Geographische Namen;18.15;Skandinavische Sprachen und Literaturen
 GW 1125;Sonstige Namen;18.15;Skandinavische Sprachen und Literaturen
-GW 1130 ;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
+GW 1130;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1132;Sprachgeographie;18.15;Skandinavische Sprachen und Literaturen
-GW 1133 ;Besonderes;18.15;Skandinavische Sprachen und Literaturen
-GW 1134 ;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
+GW 1133;Besonderes;18.15;Skandinavische Sprachen und Literaturen
+GW 1134;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
 GW 1137;Sondersprachen;18.15;Skandinavische Sprachen und Literaturen
 GW 1140;Besonderes;18.15;Skandinavische Sprachen und Literaturen
 GW 1145;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
@@ -19350,7 +19350,7 @@ GW 1920;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1930;Personennamen;18.15;Skandinavische Sprachen und Literaturen
 GW 1940;Geographische Namen;18.15;Skandinavische Sprachen und Literaturen
 GW 1950;Sonstige Namen;18.15;Skandinavische Sprachen und Literaturen
-GW 1960 ;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
+GW 1960;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 1962;Sprachgeographie;18.15;Skandinavische Sprachen und Literaturen
 GW 1963;Besonderes;18.15;Skandinavische Sprachen und Literaturen
 GW 1964;Einzelne Mundarten (CSN der Mundart);18.15;Skandinavische Sprachen und Literaturen
@@ -19706,7 +19706,7 @@ GW 3340;Morphologie (Formenlehre);18.18;Dänische Sprache und Literatur
 GW 3345;Wortklassen;18.18;Dänische Sprache und Literatur
 GW 3350;Syntax;18.18;Dänische Sprache und Literatur
 GW 3360;Stilistik;18.18;Dänische Sprache und Literatur
-GW 3370 ;Allgemeines;18.18;Dänische Sprache und Literatur
+GW 3370;Allgemeines;18.18;Dänische Sprache und Literatur
 GW 3381;Einsprachige Wörterbücher;18.18;Dänische Sprache und Literatur
 GW 3382;Mehrsprachige Wörterbücher;18.18;Dänische Sprache und Literatur
 GW 3690;Allgemeines;18.18;Dänische Sprache und Literatur
@@ -19770,8 +19770,8 @@ GW 4385;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 4746;Lehrbücher;81.66;Schulbuch, Lehrbuch
 GW 1008;Recht und Wirtschaft;83.30;Wirtschaftsentwicklung, Wirtschaftsstruktur: Allgemeines
 GW 1008;Recht und Wirtschaft;89.00;Politologie: Allgemeines
-GW 5060;Metrik, Rhythmik;17.62;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 5070;Stilforschung;17.62;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5060;Metrik, Rhythmik;17.62;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 5070;Stilforschung;17.62;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5000;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GW 5003;Bibliographien;17.70;Literaturwissenschaft: Allgemeines
 GW 5005;Lexika;17.70;Literaturwissenschaft: Allgemeines
@@ -19783,7 +19783,7 @@ GW 5110;Beziehungen zu anderen Literaturen bzw. Rezeption skandinavischer Litera
 GW 5120;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GW 5040;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GW 5050;Geschichte der Poetik;17.73;Literaturtheorie: Allgemeines
-GW 5140;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5140;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5150;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GW 5180;Epik;17.81;Epik, Prosa
 GW 5250;Epik;17.81;Epik, Prosa
@@ -19849,25 +19849,25 @@ GW 5430;Bez. zu anderen Gebieten;17.90;Literatur in Beziehung zu anderen Bereich
 GW 5432;Rezeptionsgeschichte;18.15;Skandinavische Sprachen und Literaturen
 GW 5432;Rezeptionsgeschichte;17.94;Literarische Einflüsse und Beziehungen, Rezeption
 GW 5470;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
-GW 5470;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5470;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5480;Reim, Stabreim;18.15;Skandinavische Sprachen und Literaturen
-GW 5480;Reim, Stabreim;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5480;Reim, Stabreim;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5490;Versmaß, Strophenbau;18.15;Skandinavische Sprachen und Literaturen
-GW 5490;Versmaß, Strophenbau;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5490;Versmaß, Strophenbau;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5510;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 5510;Sonstiges;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5510;Sonstiges;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5530;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
-GW 5530;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5530;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5535;Stilgeschichte;18.15;Skandinavische Sprachen und Literaturen
-GW 5535;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5535;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5550;Figuren;18.15;Skandinavische Sprachen und Literaturen
-GW 5550;Figuren;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5550;Figuren;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5560;Syntaktische Formen;18.15;Skandinavische Sprachen und Literaturen
-GW 5560;Syntaktische Formen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5560;Syntaktische Formen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5670;Stilarten;18.15;Skandinavische Sprachen und Literaturen
-GW 5670;Stilarten;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5670;Stilarten;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5680;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 5680;Sonstiges;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 5680;Sonstiges;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 5690;Allgemeines, Literaturgeschichten;18.15;Skandinavische Sprachen und Literaturen
 GW 5690;Allgemeines, Literaturgeschichten;17.71;Literaturgeschichte
 GW 5700;Darstellungen unter besonderen Gesichtspunkten;18.15;Skandinavische Sprachen und Literaturen
@@ -19899,7 +19899,7 @@ GW 5810;Allgemeines;17.71;Literaturgeschichte
 GW 5850;Gesamtdarstellungen;17.71;Literaturgeschichte
 GW 5860;Einzelne Sachverhalte;17.71;Literaturgeschichte
 GW 5865;Einzelne Formen;17.71;Literaturgeschichte
-GW 5950;Allgemeines ;17.71;Literaturgeschichte
+GW 5950;Allgemeines;17.71;Literaturgeschichte
 GW 6010;Gesamtdarstellungen zur edd. Dichtung;17.71;Literaturgeschichte
 GW 6020;Einzelne Sachverhalte;17.71;Literaturgeschichte
 GW 6050;Allgemeines;17.71;Literaturgeschichte
@@ -19968,7 +19968,7 @@ GW 5840;Ausgaben, Übersetzungen, Kommentare;18.15;Skandinavische Sprachen und L
 GW 5850;Gesamtdarstellungen;18.15;Skandinavische Sprachen und Literaturen
 GW 5860;Einzelne Sachverhalte;18.15;Skandinavische Sprachen und Literaturen
 GW 5865;Einzelne Formen;18.15;Skandinavische Sprachen und Literaturen
-GW 5950;Allgemeines ;18.15;Skandinavische Sprachen und Literaturen
+GW 5950;Allgemeines;18.15;Skandinavische Sprachen und Literaturen
 GW 5960;Überlieferung, Textkritik;18.15;Skandinavische Sprachen und Literaturen
 GW 5970;Ausgaben;18.15;Skandinavische Sprachen und Literaturen
 GW 5980;Übersetzungen;18.15;Skandinavische Sprachen und Literaturen
@@ -20017,7 +20017,7 @@ GW 6660;Darstellungen unter besonderen Gesichtspunkten;17.71;Literaturgeschichte
 GW 6670;Beziehungen zu anderen Literaturen, Rezeption in anderen Ländern;17.71;Literaturgeschichte
 GW 6680;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GW 6640;Poetik;17.73;Literaturtheorie: Allgemeines
-GW 6700;Stilgeschichte;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 6700;Stilgeschichte;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 6710;Geschichte einzelner Gattungen;17.80;Literarische Gattungen: Allgemeines
 GW 6740;Epik;17.81;Epik, Prosa
 GW 6795;Epik;17.81;Epik, Prosa
@@ -20071,8 +20071,8 @@ GW 6890;Allgemeines;17.71;Literaturgeschichte
 GW 6900;Besondere Gebiete;17.71;Literaturgeschichte
 GW 6840;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GW 6850;Geschichte der Poetik;17.73;Literaturtheorie: Allgemeines
-GW 6860;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 6870;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 6860;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 6870;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 6940;Epik;17.81;Epik, Prosa
 GW 7020;Epik;17.81;Epik, Prosa
 GW 6930;Dramatik;17.82;Dramatik
@@ -20123,15 +20123,15 @@ GW 7010;Dramatik;18.15;Skandinavische Sprachen und Literaturen
 GW 7020;Epik;18.15;Skandinavische Sprachen und Literaturen
 GW 7025;Volksdichtung;18.15;Skandinavische Sprachen und Literaturen
 GW 7030;Sonstiges;18.15;Skandinavische Sprachen und Literaturen
-GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 - ;17.97;Texte eines einzelnen Autors
+GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 -;17.97;Texte eines einzelnen Autors
 GW 7036;Agnar Þórðarson (1917 -;17.97;Texte eines einzelnen Autors
 GW 7038;Álfrún Gunnlaugsdóttir (1938 -;17.97;Texte eines einzelnen Autors
 GW 7040;Andrés Indriðason (1941 -;17.97;Texte eines einzelnen Autors
 GW 7042;Anton Helgi Jónsson (1955 -;17.97;Texte eines einzelnen Autors
 GW 7044;Ármann Kr. Einarsson (1915 -;17.97;Texte eines einzelnen Autors
-GW 7046;Árni Bergmann (1935 - ;17.97;Texte eines einzelnen Autors
+GW 7046;Árni Bergmann (1935 -;17.97;Texte eines einzelnen Autors
 GW 7048;Ásta Sigurðardóttir (1930 - 1971);17.97;Texte eines einzelnen Autors
-GW 7050;Auður Haralds (1947 - ;17.97;Texte eines einzelnen Autors
+GW 7050;Auður Haralds (1947 -;17.97;Texte eines einzelnen Autors
 GW 7052;Axel Thorsteinson (1985 - 1984);17.97;Texte eines einzelnen Autors
 GW 7054;Balður Óskarsson (1932 -;17.97;Texte eines einzelnen Autors
 GW 7056;Baldvin Einarsson (1801 - 1833);17.97;Texte eines einzelnen Autors
@@ -20261,7 +20261,7 @@ GW 7306 - 7312;Autoren M;17.97;Texte eines einzelnen Autors
 GW 7306;Magnea Matthiasdóttir (1953 -;17.97;Texte eines einzelnen Autors
 GW 7308;Már Kristjónsson (1927 -;17.97;Texte eines einzelnen Autors
 GW 7310;Matthias Jochumsson (1835 - 1920);17.97;Texte eines einzelnen Autors
-GW 7312;Matthias Jóhannessen (1930 - ;17.97;Texte eines einzelnen Autors
+GW 7312;Matthias Jóhannessen (1930 -;17.97;Texte eines einzelnen Autors
 GW 7314;Nina Björk Árnadóttir (1941 -;17.97;Texte eines einzelnen Autors
 GW 7316;Njörður P[étursson] Njarðvik (1936 -;17.97;Texte eines einzelnen Autors
 GW 7318;Oddur Björnsson (1932 -;17.97;Texte eines einzelnen Autors
@@ -20277,7 +20277,7 @@ GW 7336;Óskar Aðalsteinn [Guðjónsson] (1919 -;17.97;Texte eines einzelnen Au
 GW 7338;Páll H. Jónsson (1908 - 1990);17.97;Texte eines einzelnen Autors
 GW 7340;Páll J[ónsson] Árdal (1857 - 1930);17.97;Texte eines einzelnen Autors
 GW 7342;Páll Jónsson (1535 - 1598);17.97;Texte eines einzelnen Autors
-GW 7344;Pálmi Örn Guðmundsson (1949 - ;17.97;Texte eines einzelnen Autors
+GW 7344;Pálmi Örn Guðmundsson (1949 -;17.97;Texte eines einzelnen Autors
 GW 7346;Pétur Gunnarsson (1947 -;17.97;Texte eines einzelnen Autors
 GW 7348;Ragnheiður Jónsdóttir (1895 - 1967);17.97;Texte eines einzelnen Autors
 GW 7350;Rósa B[jörnsdóttir] Blöndals (1913 -;17.97;Texte eines einzelnen Autors
@@ -20352,15 +20352,15 @@ GW 7486;Vigdís Grímsdóttir (1953 -;17.97;Texte eines einzelnen Autors
 GW 7488;Vilborg Dagbjartsdóttir (1930 -;17.97;Texte eines einzelnen Autors
 GW 7490;Vilhjálmur S[igursteinn] Vilhjálmsson (1930 - 1966);17.97;Texte eines einzelnen Autors
 GW 7492;Vilmundur Gylfason (1948 - 1983);17.97;Texte eines einzelnen Autors
-GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7034;Aðalsteinn Ásberg Sigurðsson (1955 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7036;Agnar Þórðarson (1917 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7038;Álfrún Gunnlaugsdóttir (1938 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7040;Andrés Indriðason (1941 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7042;Anton Helgi Jónsson (1955 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7044;Ármann Kr. Einarsson (1915 -;18.15;Skandinavische Sprachen und Literaturen
-GW 7046;Árni Bergmann (1935 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7046;Árni Bergmann (1935 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7048;Ásta Sigurðardóttir (1930 - 1971);18.15;Skandinavische Sprachen und Literaturen
-GW 7050;Auður Haralds (1947 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7050;Auður Haralds (1947 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7052;Axel Thorsteinson (1985 - 1984);18.15;Skandinavische Sprachen und Literaturen
 GW 7054;Balður Óskarsson (1932 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7056;Baldvin Einarsson (1801 - 1833);18.15;Skandinavische Sprachen und Literaturen
@@ -20490,7 +20490,7 @@ GW 7304;Lárus Már Björnsson (1952 -;18.15;Skandinavische Sprachen und Literat
 GW 7306;Magnea Matthiasdóttir (1953 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7308;Már Kristjónsson (1927 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7310;Matthias Jochumsson (1835 - 1920);18.15;Skandinavische Sprachen und Literaturen
-GW 7312;Matthias Jóhannessen (1930 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7312;Matthias Jóhannessen (1930 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7314;Nina Björk Árnadóttir (1941 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7316;Njörður P[étursson] Njarðvik (1936 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7318;Oddur Björnsson (1932 -;18.15;Skandinavische Sprachen und Literaturen
@@ -20506,7 +20506,7 @@ GW 7336;Óskar Aðalsteinn [Guðjónsson] (1919 -;18.15;Skandinavische Sprachen 
 GW 7338;Páll H. Jónsson (1908 - 1990);18.15;Skandinavische Sprachen und Literaturen
 GW 7340;Páll J[ónsson] Árdal (1857 - 1930);18.15;Skandinavische Sprachen und Literaturen
 GW 7342;Páll Jónsson (1535 - 1598);18.15;Skandinavische Sprachen und Literaturen
-GW 7344;Pálmi Örn Guðmundsson (1949 - ;18.15;Skandinavische Sprachen und Literaturen
+GW 7344;Pálmi Örn Guðmundsson (1949 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7346;Pétur Gunnarsson (1947 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7348;Ragnheiður Jónsdóttir (1895 - 1967);18.15;Skandinavische Sprachen und Literaturen
 GW 7350;Rósa B[jörnsdóttir] Blöndals (1913 -;18.15;Skandinavische Sprachen und Literaturen
@@ -20573,7 +20573,7 @@ GW 7470;Þuriður Guðmundsdóttir (1939 -;18.15;Skandinavische Sprachen und Lit
 GW 7472;Tómas Guðmundsson (1901 - 1983);18.15;Skandinavische Sprachen und Literaturen
 GW 7474;Torfhildur [Þorsteinsdóttir] Hólm (1845 - 1918);18.15;Skandinavische Sprachen und Literaturen
 GW 7476;Tryggvi Emilsson (1902 - 1993);18.15;Skandinavische Sprachen und Literaturen
-GW 7478 ;Úlfar Þormóðsson (1944 -;18.15;Skandinavische Sprachen und Literaturen
+GW 7478;Úlfar Þormóðsson (1944 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7480;Úlfur Hjörvar (1935 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7482;Valdís Óskarsdóttir (1949 -;18.15;Skandinavische Sprachen und Literaturen
 GW 7484;Vésteinn Lúðviksson (1944 -;18.15;Skandinavische Sprachen und Literaturen
@@ -20615,8 +20615,8 @@ GW 7655;Literaturkritik;17.75;Literaturkritik
 GW 7780;Literaturkritik;17.75;Literaturkritik
 GW 7802;Literaturkritik;17.75;Literaturkritik
 GW 7826;Literaturkritik;17.75;Literaturkritik
-GW 7560;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GW 7570;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GW 7560;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GW 7570;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GW 7778;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GW 7800;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GW 7824;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -20736,269 +20736,269 @@ GE 7111;Beziehungen zu anderen Sachgebieten;17.90;Literatur in Beziehung zu ande
 GE 7200;Allgemeines;18.10;Deutsche Literatur
 GE 7200;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GE 7301;Allgemeines;18.10;Deutsche Literatur
-GE 7301;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7301;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7355;Reim;18.10;Deutsche Literatur
-GE 7355;Reim;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7355;Reim;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7374;Rhythmus;18.10;Deutsche Literatur
-GE 7374;Rhythmus;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7374;Rhythmus;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7404;Metrum (Versmaße);18.10;Deutsche Literatur
-GE 7404;Metrum (Versmaße);17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7404;Metrum (Versmaße);17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7471;a;18.10;Deutsche Literatur
-GE 7471;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7471;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7472;b;18.10;Deutsche Literatur
-GE 7472;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7472;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7473;c;18.10;Deutsche Literatur
-GE 7473;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7473;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7474;d;18.10;Deutsche Literatur
-GE 7474;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7474;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7475;e;18.10;Deutsche Literatur
-GE 7475;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7475;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7476;f;18.10;Deutsche Literatur
-GE 7476;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7476;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7477;g;18.10;Deutsche Literatur
-GE 7477;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7477;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7478;h;18.10;Deutsche Literatur
-GE 7478;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7478;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7479;i;18.10;Deutsche Literatur
-GE 7479;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7479;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7480;j;18.10;Deutsche Literatur
-GE 7480;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7480;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7481;k;18.10;Deutsche Literatur
-GE 7481;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7481;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7482;l;18.10;Deutsche Literatur
-GE 7482;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7482;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7483;m;18.10;Deutsche Literatur
-GE 7483;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7483;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7484;n;18.10;Deutsche Literatur
-GE 7484;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7484;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7485;o;18.10;Deutsche Literatur
-GE 7485;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7485;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7486;p;18.10;Deutsche Literatur
-GE 7486;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7486;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7487;q;18.10;Deutsche Literatur
-GE 7487;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7487;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7488;r;18.10;Deutsche Literatur
-GE 7488;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7488;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7489;s;18.10;Deutsche Literatur
-GE 7489;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7489;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7490;sch;18.10;Deutsche Literatur
-GE 7490;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7490;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7491;sp;18.10;Deutsche Literatur
-GE 7491;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7491;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7492;st;18.10;Deutsche Literatur
-GE 7492;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7492;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7493;t;18.10;Deutsche Literatur
-GE 7493;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7493;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7494;u;18.10;Deutsche Literatur
-GE 7494;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7494;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7495;v;18.10;Deutsche Literatur
-GE 7495;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7495;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7496;w;18.10;Deutsche Literatur
-GE 7496;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7496;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7497;x;18.10;Deutsche Literatur
-GE 7497;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7497;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7498;y;18.10;Deutsche Literatur
-GE 7498;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7498;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7499;z;18.10;Deutsche Literatur
-GE 7499;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7499;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7501;Allgemeines;18.10;Deutsche Literatur
-GE 7501;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7501;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7551;Allgemeines;18.10;Deutsche Literatur
-GE 7551;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7551;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7560;Strophen- und Gedichtformen;18.10;Deutsche Literatur
-GE 7560;Strophen- und Gedichtformen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7560;Strophen- und Gedichtformen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7570;Werktypen;18.10;Deutsche Literatur
-GE 7570;Werktypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7570;Werktypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7606;Klangliche Stilmittel;18.10;Deutsche Literatur
-GE 7606;Klangliche Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7606;Klangliche Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7655;Syntaktische Stilmittel;18.10;Deutsche Literatur
-GE 7655;Syntaktische Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7655;Syntaktische Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7707;Wortgebrauch;18.10;Deutsche Literatur
-GE 7707;Wortgebrauch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GE 7750;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7707;Wortgebrauch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GE 7750;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7761;a;18.10;Deutsche Literatur
 GE 7762;b;18.10;Deutsche Literatur
-GE 7762;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7762;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7763;c;18.10;Deutsche Literatur
-GE 7763;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7763;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7764;d;18.10;Deutsche Literatur
-GE 7764;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7764;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7765;e;18.10;Deutsche Literatur
-GE 7765;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7765;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7766;f;18.10;Deutsche Literatur
-GE 7766;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7766;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7767;g;18.10;Deutsche Literatur
-GE 7767;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7767;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7768;h;18.10;Deutsche Literatur
-GE 7768;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7768;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7769;i;18.10;Deutsche Literatur
-GE 7769;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7769;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7770;j;18.10;Deutsche Literatur
-GE 7770;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7770;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7771;k;18.10;Deutsche Literatur
-GE 7771;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7771;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7772;l;18.10;Deutsche Literatur
-GE 7772;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7772;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7773;m;18.10;Deutsche Literatur
-GE 7773;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7773;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7774;n;18.10;Deutsche Literatur
-GE 7774;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7774;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7775;o;18.10;Deutsche Literatur
-GE 7775;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7775;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7776;p;18.10;Deutsche Literatur
-GE 7776;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7776;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7777;q;18.10;Deutsche Literatur
-GE 7777;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7777;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7778;r;18.10;Deutsche Literatur
-GE 7778;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7778;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7779;s;18.10;Deutsche Literatur
-GE 7779;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7779;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7780;sch;18.10;Deutsche Literatur
-GE 7780;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7780;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7781;sp;18.10;Deutsche Literatur
-GE 7781;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7781;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7782;st;18.10;Deutsche Literatur
-GE 7782;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7782;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7783;t;18.10;Deutsche Literatur
-GE 7783;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7783;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7784;u;18.10;Deutsche Literatur
-GE 7784;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7784;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7785;v;18.10;Deutsche Literatur
-GE 7785;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7785;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7786;w;18.10;Deutsche Literatur
-GE 7786;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7786;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7787;x;18.10;Deutsche Literatur
-GE 7787;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7787;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7788;y;18.10;Deutsche Literatur
-GE 7788;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7788;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7789;z;18.10;Deutsche Literatur
-GE 7789;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7789;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7808;Allgemeines;18.10;Deutsche Literatur
-GE 7808;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7808;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7825;Allegorie;18.10;Deutsche Literatur
-GE 7825;Allegorie;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7825;Allegorie;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7875;Symbol;18.10;Deutsche Literatur
-GE 7875;Symbol;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7875;Symbol;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7896;Metapher;18.10;Deutsche Literatur
-GE 7896;Metapher;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7896;Metapher;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7901;a;18.10;Deutsche Literatur
-GE 7901;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7901;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7902;b;18.10;Deutsche Literatur
-GE 7902;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7902;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7903;c;18.10;Deutsche Literatur
-GE 7903;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7903;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7904;d;18.10;Deutsche Literatur
-GE 7904;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7904;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7905;e;18.10;Deutsche Literatur
-GE 7905;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7905;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7906;f;18.10;Deutsche Literatur
-GE 7906;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7906;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7907;g;18.10;Deutsche Literatur
-GE 7907;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7907;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7908;h;18.10;Deutsche Literatur
-GE 7908;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7908;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7909;i;18.10;Deutsche Literatur
-GE 7909;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7909;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7910;j;18.10;Deutsche Literatur
-GE 7910;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7910;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7911;k;18.10;Deutsche Literatur
-GE 7911;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7911;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7912;l;18.10;Deutsche Literatur
-GE 7912;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7912;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7913;m;18.10;Deutsche Literatur
-GE 7913;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7913;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7914;n;18.10;Deutsche Literatur
-GE 7914;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7914;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7915;o;18.10;Deutsche Literatur
-GE 7915;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7915;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7916;p;18.10;Deutsche Literatur
-GE 7916;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7916;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7917;q;18.10;Deutsche Literatur
-GE 7917;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7917;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7918;r;18.10;Deutsche Literatur
-GE 7918;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7918;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7919;s;18.10;Deutsche Literatur
-GE 7919;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7919;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7920;sch;18.10;Deutsche Literatur
-GE 7920;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7920;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7921;sp;18.10;Deutsche Literatur
-GE 7921;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7921;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7922;st;18.10;Deutsche Literatur
-GE 7922;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7922;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7923;t;18.10;Deutsche Literatur
-GE 7923;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7923;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7924;u;18.10;Deutsche Literatur
-GE 7924;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7924;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7925;v;18.10;Deutsche Literatur
-GE 7925;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7925;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7926;w;18.10;Deutsche Literatur
-GE 7926;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7926;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7927;x;18.10;Deutsche Literatur
-GE 7927;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7927;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7928;y;18.10;Deutsche Literatur
-GE 7928;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7928;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7929;z;18.10;Deutsche Literatur
-GE 7929;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7929;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7931;a;18.10;Deutsche Literatur
-GE 7931;a;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7931;a;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7932;b;18.10;Deutsche Literatur
-GE 7932;b;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7932;b;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7933;c;18.10;Deutsche Literatur
-GE 7933;c;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7933;c;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7934;d;18.10;Deutsche Literatur
-GE 7934;d;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7934;d;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7935;e;18.10;Deutsche Literatur
-GE 7935;e;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7935;e;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7936;f;18.10;Deutsche Literatur
-GE 7936;f;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7936;f;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7937;g;18.10;Deutsche Literatur
-GE 7937;g;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7937;g;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7938;h;18.10;Deutsche Literatur
-GE 7938;h;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7938;h;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7939;i;18.10;Deutsche Literatur
-GE 7939;i;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7939;i;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7940;j;18.10;Deutsche Literatur
-GE 7940;j;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7940;j;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7941;k;18.10;Deutsche Literatur
-GE 7941;k;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7941;k;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7942;l;18.10;Deutsche Literatur
-GE 7942;l;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7942;l;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7943;m;18.10;Deutsche Literatur
-GE 7943;m;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7943;m;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7944;n;18.10;Deutsche Literatur
-GE 7944;n;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7944;n;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7945;o;18.10;Deutsche Literatur
-GE 7945;o;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7945;o;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7946;p;18.10;Deutsche Literatur
-GE 7946;p;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7946;p;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7947;q;18.10;Deutsche Literatur
-GE 7947;q;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7947;q;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7948;r;18.10;Deutsche Literatur
-GE 7948;r;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7948;r;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7949;s;18.10;Deutsche Literatur
-GE 7949;s;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7949;s;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7950;sch;18.10;Deutsche Literatur
-GE 7950;sch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7950;sch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7951;sp;18.10;Deutsche Literatur
-GE 7951;sp;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7951;sp;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7952;st;18.10;Deutsche Literatur
-GE 7952;st;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7952;st;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7953;t;18.10;Deutsche Literatur
-GE 7953;t;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7953;t;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7954;u;18.10;Deutsche Literatur
-GE 7954;u;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7954;u;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7955;v;18.10;Deutsche Literatur
-GE 7955;v;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7955;v;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7956;w;18.10;Deutsche Literatur
-GE 7956;w;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7956;w;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7957;x;18.10;Deutsche Literatur
-GE 7957;x;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7957;x;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7958;y;18.10;Deutsche Literatur
-GE 7958;y;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7958;y;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7959;z;18.10;Deutsche Literatur
-GE 7959;z;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7959;z;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7976;Stiltypen;18.10;Deutsche Literatur
-GE 7976;Stiltypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GE 7976;Stiltypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GE 7987;Allgemeines;18.10;Deutsche Literatur
 GE 7987;Allgemeines;17.80;Literarische Gattungen: Allgemeines
 GE 7990;Lyrik;18.10;Deutsche Literatur
@@ -21025,9 +21025,9 @@ GE 8303;Allgemeines;18.10;Deutsche Literatur
 GE 8303;Allgemeines;17.71;Literaturgeschichte
 GE 8404;Allgemeines;18.10;Deutsche Literatur
 GE 8404;Allgemeines;17.83;Lyrik
-GE 8411 ;a;18.10;Deutsche Literatur
-GE 8411 ;a;17.83;Lyrik
-GE 8411 ;a;17.93;Literarische Stoffe, literarische Motive, literarische Themen
+GE 8411;a;18.10;Deutsche Literatur
+GE 8411;a;17.83;Lyrik
+GE 8411;a;17.93;Literarische Stoffe, literarische Motive, literarische Themen
 GE 8412;b;18.10;Deutsche Literatur
 GE 8412;b;17.83;Lyrik
 GE 8412;b;17.93;Literarische Stoffe, literarische Motive, literarische Themen
@@ -21216,8 +21216,8 @@ GX 1214;Literaturkritik;17.75;Literaturkritik
 GX 1238;Literaturkritik;17.75;Literaturkritik
 GX 1262;Literaturkritik;17.75;Literaturkritik
 GX 1284;Literaturkritik;17.75;Literaturkritik
-GX 1060;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GX 1070;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GX 1060;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GX 1070;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GX 1130;Einzelne Gattungen;17.80;Literarische Gattungen: Allgemeines
 GX 1188;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GX 1212;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -21410,8 +21410,8 @@ GX 5274;Literaturkritik;17.75;Literaturkritik
 GX 5300;Literaturkritik;17.75;Literaturkritik
 GX 5324;Literaturkritik;17.75;Literaturkritik
 GX 5352;Literaturkritik;17.75;Literaturkritik
-GX 5060;Metrik, Rhythmik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
-GX 5070;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GX 5060;Metrik, Rhythmik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
+GX 5070;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GX 5110;Einzelne Gattungen;17.80;Literarische Gattungen: Allgemeines
 GX 5224;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
 GX 5248;Gattungs- und Formengeschichte;17.80;Literarische Gattungen: Allgemeines
@@ -21624,8 +21624,8 @@ GY 1240;Prosa;18.17;Schwedische Sprache und Literatur
 GY 1250;Dramatik;18.17;Schwedische Sprache und Literatur
 GY 1260;Sonstiges;18.17;Schwedische Sprache und Literatur
 GY 1270;Textsammlungen, Anthologien;18.17;Schwedische Sprache und Literatur
-GE 9001 ;Allgemeines;18.10;Deutsche Literatur
-GE 9001 ;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
+GE 9001;Allgemeines;18.10;Deutsche Literatur
+GE 9001;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GE 9102;Literaturwissenschaft;18.10;Deutsche Literatur
 GE 9102;Literaturwissenschaft;17.70;Literaturwissenschaft: Allgemeines
 GE 9203;Gesamtdarstellungen;18.10;Deutsche Literatur
@@ -21641,9 +21641,9 @@ GE 9310;Geistes- und Ideengeschichte;17.71;Literaturgeschichte
 GE 9331;Allgemeines;18.10;Deutsche Literatur
 GE 9331;Allgemeines;17.97;Texte eines einzelnen Autors
 GE 9331;Allgemeines;17.98;Textsammlungen
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";18.10;Deutsche Literatur
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";17.97;Texte eines einzelnen Autors
-GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte; zweite bairische Beichte)";17.98;Textsammlungen
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";18.10;Deutsche Literatur
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";17.97;Texte eines einzelnen Autors
+GE 9335;"Beichten (Erste bairische Beichte und St. Emmeramer Gebet, Lorscher Beichte, Mainzer Beichte;zweite bairische Beichte)";17.98;Textsammlungen
 GE 9336;Sekundärliteratur;18.10;Deutsche Literatur
 GE 9340;Capitulare (Trierer Capitulare);18.10;Deutsche Literatur
 GE 9340;Capitulare (Trierer Capitulare);17.97;Texte eines einzelnen Autors
@@ -21661,9 +21661,9 @@ GE 9355;Gespräche;18.10;Deutsche Literatur
 GE 9355;Gespräche;17.97;Texte eines einzelnen Autors
 GE 9355;Gespräche;17.98;Textsammlungen
 GE 9356;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";18.10;Deutsche Literatur
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";17.97;Texte eines einzelnen Autors
-GE 9360;"Glossen (Abrogans; Kassler Glossen; St. Pauler Glossen; Glossen R b, Vocabularius St. Galli)";17.98;Textsammlungen
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";18.10;Deutsche Literatur
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";17.97;Texte eines einzelnen Autors
+GE 9360;"Glossen (Abrogans;Kassler Glossen;St. Pauler Glossen;Glossen R b, Vocabularius St. Galli)";17.98;Textsammlungen
 GE 9361;Sekundärliteratur;18.10;Deutsche Literatur
 GE 9361;Sekundärliteratur;17.98;Textsammlungen
 GE 9365;Inschriften;18.10;Deutsche Literatur
@@ -21744,8 +21744,8 @@ GE 9426;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9427;Übersetzungen;18.10;Deutsche Literatur
 GE 9427;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9428;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9430 ;Gesamtausgaben;18.10;Deutsche Literatur
-GE 9430 ;Gesamtausgaben;17.97;Texte eines einzelnen Autors
+GE 9430;Gesamtausgaben;18.10;Deutsche Literatur
+GE 9430;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GE 9431;Einzelausgaben;18.10;Deutsche Literatur
 GE 9431;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9432;Übersetzungen;18.10;Deutsche Literatur
@@ -21793,7 +21793,7 @@ GE 9476;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GE 9477;Übersetzungen;18.10;Deutsche Literatur
 GE 9477;Übersetzungen;17.97;Texte eines einzelnen Autors
 GE 9478;Sekundärliteratur;18.10;Deutsche Literatur
-GE 9485 ;Gesamtausgaben;18.10;Deutsche Literatur
+GE 9485;Gesamtausgaben;18.10;Deutsche Literatur
 GE 9485;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GE 9486;Einzelausgaben;18.10;Deutsche Literatur
 GE 9486;Einzelausgaben;17.97;Texte eines einzelnen Autors
@@ -22072,8 +22072,8 @@ GF 2054;Gesamtausgaben;18.10;Deutsche Literatur
 GF 2054;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 2055;Einzelausgaben;18.10;Deutsche Literatur
 GF 2055;Einzelausgaben;17.97;Texte eines einzelnen Autors
-GF 2056 ;Übersetzungen;18.10;Deutsche Literatur
-GF 2056 ;Übersetzungen;17.97;Texte eines einzelnen Autors
+GF 2056;Übersetzungen;18.10;Deutsche Literatur
+GF 2056;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 2057;Sekundärliteratur;18.10;Deutsche Literatur
 GF 2061;Gesamtausgaben;18.10;Deutsche Literatur
 GF 2061;Gesamtausgaben;17.97;Texte eines einzelnen Autors
@@ -22390,21 +22390,21 @@ GF 2601;Allgemeines;18.10;Deutsche Literatur
 GF 2601;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 2604;Poetik, Metrik;18.10;Deutsche Literatur
 GF 2604;Poetik, Metrik;17.73;Literaturtheorie: Allgemeines
-GF 2604;Poetik, Metrik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2604;Poetik, Metrik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2608;Allgemeines;18.10;Deutsche Literatur
-GF 2608;Allgemeines;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2608;Allgemeines;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2609;Syntaktische Stilmiitel;18.10;Deutsche Literatur
-GF 2609;Syntaktische Stilmiitel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2609;Syntaktische Stilmiitel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2610;Wortgebrauch;18.10;Deutsche Literatur
-GF 2610;Wortgebrauch;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2610;Wortgebrauch;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2611;Bildersprache;18.10;Deutsche Literatur
-GF 2611;Bildersprache;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2611;Bildersprache;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2612;Sonstige Stilmittel;18.10;Deutsche Literatur
-GF 2612;Sonstige Stilmittel;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2612;Sonstige Stilmittel;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2613;Stilarten, Stiltypen;18.10;Deutsche Literatur
-GF 2613;Stilarten, Stiltypen;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2613;Stilarten, Stiltypen;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2614;Literarische Rhetorik;18.10;Deutsche Literatur
-GF 2614;Literarische Rhetorik;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 2614;Literarische Rhetorik;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 2615;Gesamtdarstellungen und Darstellungen einzelner Regionen;18.10;Deutsche Literatur
 GF 2615;Gesamtdarstellungen und Darstellungen einzelner Regionen;17.71;Literaturgeschichte
 GF 2616;Geistes-, Ideen- und Kulturgeschichte;18.10;Deutsche Literatur
@@ -22496,7 +22496,7 @@ GF 3368;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 3369;Übersetzungen;18.10;Deutsche Literatur
 GF 3369;Übersetzungen;17.97;Texte eines einzelnen Autors
 GF 3370;Sekundärliteratur;18.10;Deutsche Literatur
-GF 3375 ;Gesamtausgaben;18.10;Deutsche Literatur
+GF 3375;Gesamtausgaben;18.10;Deutsche Literatur
 GF 3375;Gesamtausgaben;17.97;Texte eines einzelnen Autors
 GF 3376;Einzelausgaben;18.10;Deutsche Literatur
 GF 3376;Einzelausgaben;17.97;Texte eines einzelnen Autors
@@ -22941,7 +22941,7 @@ GF 5102;Einzelausgaben;18.10;Deutsche Literatur
 GF 5102;Einzelausgaben;17.97;Texte eines einzelnen Autors
 GF 5103;Übersetzungen;18.10;Deutsche Literatur
 GF 5103;Übersetzungen;17.97;Texte eines einzelnen Autors
-GF 5104;"Allgemeines; Siegfried- und Nibelungensage";18.10;Deutsche Literatur
+GF 5104;"Allgemeines;Siegfried- und Nibelungensage";18.10;Deutsche Literatur
 GF 5109;Untersuchungen zum Gesamtwerk;18.10;Deutsche Literatur
 GF 5111;Untersuchungen zu einzelnen Problemen;18.10;Deutsche Literatur
 GF 5115;Gesamtausgaben;18.10;Deutsche Literatur
@@ -23276,9 +23276,9 @@ GF 6342;Allgemeines;17.70;Literaturwissenschaft: Allgemeines
 GF 6345;Allgemeines;18.10;Deutsche Literatur
 GF 6345;Allgemeines;17.73;Literaturtheorie: Allgemeines
 GF 6360;Stilforschung;18.10;Deutsche Literatur
-GF 6360;Stilforschung;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 6360;Stilforschung;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 6365;Stilarten;18.10;Deutsche Literatur
-GF 6365;Stilarten;17.77;"Stilistik; Rhetorik <Literaturwissenschaft>"
+GF 6365;Stilarten;17.77;"Stilistik;Rhetorik <Literaturwissenschaft>"
 GF 6370;Gattungsprobleme;18.10;Deutsche Literatur
 GF 6370;Gattungsprobleme;17.80;Literarische Gattungen: Allgemeines
 GF 6375;Allgemeines und Regionale Darstellungen;18.10;Deutsche Literatur
@@ -23330,9 +23330,9 @@ GF 6432;Sekundärliteratur;18.10;Deutsche Literatur
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);18.10;Deutsche Literatur
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);17.97;Texte eines einzelnen Autors
 GF 6433;Weihnachtsfestkreis (Hirtenspiel, Dreikönigsspiel u.a.) (Texte);17.98;Textsammlungen
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";18.10;Deutsche Literatur
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";17.97;Texte eines einzelnen Autors
-GF 6434;"Osterfestkreis (Osterspiel; Frohnleichnamsspiel Passionsspiel; Marienklage u.a.) (Texte)";17.98;Textsammlungen
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";18.10;Deutsche Literatur
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";17.97;Texte eines einzelnen Autors
+GF 6434;"Osterfestkreis (Osterspiel;Frohnleichnamsspiel Passionsspiel;Marienklage u.a.) (Texte)";17.98;Textsammlungen
 GF 6435;Sekundärliteratur zum Drama der Festkreise;18.10;Deutsche Literatur
 GF 6437;Sonstige Spiele (Legendenspiel, Weltgerichtsspiel u.a.) (Texte);18.10;Deutsche Literatur
 GF 6437;Sonstige Spiele (Legendenspiel, Weltgerichtsspiel u.a.) (Texte);17.97;Texte eines einzelnen Autors
@@ -23379,9 +23379,9 @@ GF 6532;Prosaerzählung, Prosaroman (Texte);18.10;Deutsche Literatur
 GF 6532;Prosaerzählung, Prosaroman (Texte);17.97;Texte eines einzelnen Autors
 GF 6532;Prosaerzählung, Prosaroman (Texte);17.98;Textsammlungen
 GF 6533;Sekundärliteratur;18.10;Deutsche Literatur
-GF 6551;Sonstiges ;18.10;Deutsche Literatur
-GF 6551;Sonstiges ;17.81;Epik, Prosa
-GF 6551;Sonstiges ;17.98;Textsammlungen
+GF 6551;Sonstiges;18.10;Deutsche Literatur
+GF 6551;Sonstiges;17.81;Epik, Prosa
+GF 6551;Sonstiges;17.98;Textsammlungen
 GF 6552;Sekundärliteratur;18.10;Deutsche Literatur
 GF 6701;Allgemeines;18.10;Deutsche Literatur
 GF 6701;Allgemeines;17.84;Sonstige literarische Gattungen
