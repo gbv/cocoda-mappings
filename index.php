@@ -9,9 +9,9 @@ include "$BASE/header.php";
 We collect concordances and mappings in a public database run with
 [jskos-server](https://github.com/gbv/jskos-server). The database can be
 queried via this web interface and via an API at
-<https://coli-conc.gbv.de/api/>. 
+<https://coli-conc.gbv.de/api/>.
 
-🡒 [See all concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances).
+→ [See all concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances).
 
 <table class="table table-sm" id="release-table">
  <tr>
@@ -38,11 +38,11 @@ $(document).ready(function(){
       row.append('<td>'+conc.scopeNote.de[0]+'</td>')
       row.append('<td>'+conc.creator[0].prefLabel.de+'</td>')
       row.append('<td>'+(conc.created || '')+'</td>')
-      row.append('<td align="right">'+(conc.extent || '')+'</td>')      
+      row.append('<td align="right">'+(conc.extent || '')+'</td>')
       // TODO: get downloads from conc.distributions
-      var url = "https://coli-conc.gbv.de/cocoda/app/?search=" 
+      var url = "https://coli-conc.gbv.de/cocoda/app/?search="
       + encodeURI(JSON.stringify({partOf: conc.uri}))
-      row.append('<td>🡒 <a href="'+url+'">Cocoda</a></td>')
+      row.append('<td>→ <a href="'+url+'">Cocoda</a></td>')
       $('#release-table').append(row)
     })
   })
