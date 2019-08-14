@@ -11,7 +11,6 @@ We collect concordances and mappings in a public database run with
 queried via this web interface and via an API at
 <https://coli-conc.gbv.de/api/>.
 
-→ [See all concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances).
 
 <table class="table table-sm" id="release-table">
  <tr>
@@ -26,6 +25,7 @@ queried via this web interface and via an API at
  </tr>
 </table>
 
+→ [See all concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances).
 
 <script type="text/javascript">
 $(document).ready(function(){
@@ -40,9 +40,9 @@ $(document).ready(function(){
       row.append('<td>'+(conc.created || '')+'</td>')
       row.append('<td align="right">'+(conc.extent || '')+'</td>')
       // TODO: get downloads from conc.distributions
-      var url = "https://coli-conc.gbv.de/cocoda/app/?search="
+      var url = "https://coli-conc.gbv.de/cocoda/app/concordances.html?search="
       + encodeURI(JSON.stringify({partOf: conc.uri}))
-      row.append('<td>→ <a href="'+url+'">Cocoda</a></td>')
+      row.append('<td>→ <a href="'+url+'">Mappings</a></td>')
       $('#release-table').append(row)
     })
   })
