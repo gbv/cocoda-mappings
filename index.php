@@ -15,7 +15,7 @@ queried via this web interface and via an API at
 
 ##### ➡  [Browse all concordances and mappings](https://coli-conc.gbv.de/cocoda/app/concordances.html)
 
-🡒  alternatively [open concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances)
+→  alternatively [open concordances in Cocoda](https://coli-conc.gbv.de/cocoda/app/?concordances)
 
 <script type="text/javascript">
 $(document).ready(function(){
