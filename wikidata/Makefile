@@ -43,7 +43,7 @@ indirect.csv: $(CSVDUMPS)
 
 # create JSKOS file with summary of all concordances
 wikidata-concordances.json: properties.tsv stats.csv
-	php concordances.php
+	./concordances.pl
 
 sparklines:
 	php sparklines.php
