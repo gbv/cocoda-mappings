@@ -1,31 +1,31 @@
 #!/bin/bash
-
 set -e
+
 cd $(dirname $(realpath $0))
 
-make -B properties.ids
-
 # cronjobs run without local $PATH environment
-WDMAPPER=/usr/local/bin/wdmapper
+WDMAPPER=$(which wdmapper)
+WDMAPPER=${WDMAPPER:-/usr/local/bin/wdmapper}
 
-source ./wikidata.sh
+make -B properties.ids
 
 date -Im
 
 set +e # ignore errors
 
 while read p; do
-    echo -n "$p "
-    
-    # check expected result size
-    COUNT=$(wdquerytsv "query=SELECT (COUNT(?x) AS ?c) { ?x wdt:$p ?v }" \
-            | awk -F\" 'NR>1{print $2}')
-    if (( $COUNT > 200000 )); then
+    echo "SELECT (COUNT(?x) AS ?c) { ?x wdt:$p ?v }" > tmp.sparql
+    COUNT=$(wd sparql tmp.sparql)
+   
+    # omit labels for large result sets
+    if [ $COUNT -ge 200000 ]; then
         LANGUAGE=
     else
         LANGUAGE=en
     fi
 
+    echo -n "$p "
+ 
     # harvest mappings with wdmapper
     timeout 240 $WDMAPPER get $p -o tmp.txt -g "$LANGUAGE"
     if [ $? -ne 0 ]; then

@@ -7,8 +7,13 @@ all: stats website
 stats: stats.csv statlog.csv growth total.csv indirect.csv indirectlog.csv
 
 # get current list of properties from Wikidata
-properties.ids:
-	./properties.sh
+properties.ndjson:
+	wd sparql properties.sparql | jq -c '.[]' > $@
+
+# extract Wikidata property ids
+properties.ids: properties.ndjson
+	jq -r .prop.value $< > $@
+
 
 # count number of mappings of each CSV dump
 stats.csv: $(CSVDUMPS)

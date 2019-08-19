@@ -7,9 +7,8 @@ $LICENSE = '<img src="../cc-zero.svg">';
 $registry = json_decode(file_get_contents('wikidata-concordances.json'));
 
 $sum = 0;
-$concordances = [];
-foreach ($registry->concordances[0]->set as $conc) {
-    $concordances[substr($conc->notation[0],1)] = new JSKOS\Concordance($conc);
+$concordances = $registry->concordances;
+foreach ($concordances as $conc) {    
     $sum += $conc->extent;
 }
 
@@ -38,16 +37,17 @@ foreach ($registry->concordances[0]->set as $conc) {
   </thead>
   <tbody>
 <?php foreach ($concordances as $conc) {
+  //var_dump($concordances); 
   $prop = $conc->notation[0];
   echo "<tr><td class='text-right'><a href='http://www.wikidata.org/entity/$prop'>$prop</a></td>";
   echo "<td><a href='http://www.wikidata.org/entity/$prop'>";
-  echo htmlspecialchars($conc->prefLabel['en'] ?? '');
+  echo htmlspecialchars($conc->prefLabel->en ?? '');
   echo "</a></td>";
   echo "<td><a href='{$conc->toScheme->uri}'";
   if ($conc->toScheme->extent) {
     echo " title='total size {$conc->toScheme->extent}'";
   }
-  echo ">".htmlspecialchars($conc->toScheme->prefLabel['en'] ?? '')."</a></td>";
+  echo ">".htmlspecialchars($conc->toScheme->prefLabel->en ?? '')."</a></td>";
   echo "<td>";
   foreach ($conc->mappings as $map) {
     if ($map->download) {
