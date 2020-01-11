@@ -62,10 +62,10 @@ ddc_rvk_biblinf:
   created: 2009
 ddc_rvk_math:
   about: Mathematik
-  count: 37
+  count: 46
   creator: Philipp Zumstein
   created: 2016
-  modified: 2018
+  modified: 2020
 ddc_rvk_medizin:
   about: Medizin und Gesundheit
   count: 2814
