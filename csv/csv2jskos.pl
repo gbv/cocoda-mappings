@@ -9,7 +9,7 @@ binmode *STDERR, ':encoding(UTF-8)';
 my ($csvfile) = @ARGV;
 
 # known concept schemes
-my $kos = importer( 'YAML', file => 'kos.yaml' )->first;
+my $kos = importer( 'YAML', file => '../kos-registry/kos.yaml' )->first;
 $kos->{$_} = GBV::ConceptScheme->new( $kos->{$_} ) for keys %$kos;
 
 # get source and target KOS from filename

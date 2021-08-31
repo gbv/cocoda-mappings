@@ -5,7 +5,7 @@ use Catmandu -all;
 my $json = exporter( 'JSON', line_delimited => 1, canonical => 1 );
 
 my $concordances = importer( 'YAML', file => 'concordances.yaml' )->next;
-my $kos          = importer( 'YAML', file => 'kos.yaml' )->next;
+my $kos          = importer( 'YAML', file => '../kos-registry/kos.yaml' )->next;
 
 while ( my ( $id, $conc ) = each %$concordances ) {
     my $file = $conc->{file} // "$id.csv";
