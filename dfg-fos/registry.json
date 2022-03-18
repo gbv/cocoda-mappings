@@ -1,0 +1,57 @@
+{
+  "schemes": [
+    {
+      "uri": "http://bartoc.org/en/node/1042",
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "Organisation for Economic Co-operation and Development (OECD)"
+          },
+          "uri": "http://viaf.org/viaf/149776292"
+        }
+      ],
+      "notation": [
+        "FOS"
+      ],
+      "prefLabel": {
+        "en": "Field of Science and Technology Classification"
+      },
+      "altLabel": {
+        "en": [
+          "Revised Field of Science and Technology (FOS) Classification in the Frascati Manual",
+          "FOS Classification",
+          "OECD FOS Classification"
+        ]
+      },
+      "namespace": "http://bartoc.org/en/node/1042/"
+    },
+    {
+      "uri": "http://bartoc.org/en/node/520",
+      "identifier": [
+        "http://uri.gbv.de/terminology/dfg/"
+      ],
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "Deutsche Forschungsgemeinschaft (DFG)"
+          },
+          "uri": "http://viaf.org/viaf/122652571"
+        }
+      ],
+      "notation": [
+        "DFG"
+      ],
+      "prefLabel": {
+        "de": "Systematik der Fächer und Fachkollegien der Deutschen Forschungsgemeinschaft",
+        "en": "Systematics of the subjects and colleges of the German Research Association"
+      },
+      "altLabel": {
+        "de": [
+          "Systematik der Fächer und Fachkollegien der DFG",
+          "DFG-Fachsystematik"
+        ]
+      },
+      "namespace": "http://uri.gbv.de/terminology/dfg/"
+    }
+  ]
+}
