@@ -1,0 +1,19 @@
+{
+  "name": "cocoda-mappings",
+  "version": "0.0.0",
+  "scripts": {
+    "jskos-convert": "cd $INIT_CWD; jskos-convert",
+    "jskos-validate": "cd $INIT_CWD; jskos-validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbv/cocoda-mappings.git"
+  },
+  "author": "Jakob Voß",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/gbv/cocoda-mappings#readme",
+  "dependencies": {
+    "jskos-cli": "^0.5.11",
+    "jskos-validate": "^0.5.7"
+  }
+}

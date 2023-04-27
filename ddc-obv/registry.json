@@ -1,0 +1,54 @@
+{
+  "schemes": [
+    {
+      "uri": "http://bartoc.org/en/node/241",
+      "identifier": [
+        "http://www.wikidata.org/entity/Q48460",
+        "http://dewey.info/scheme/edition/e23/"
+      ],
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "Online Computer Library Center (OCLC)"
+          },
+          "uri": "http://viaf.org/viaf/156508705"
+        }
+      ],
+      "notation": [
+        "DDC"
+      ],
+      "prefLabel": {
+        "de": "Dewey-Dezimalklassifikation",
+        "en": "Dewey Decimal Classification"
+      },
+      "uriPattern": "http://dewey.info/class/(.+)/e23/"
+    },
+    {
+      "uri": "http://bartoc.org/en/node/20430",
+      "identifier": [
+        "http://uri.gbv.de/terminology/obv/"
+      ],
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "OBV"
+          },
+          "uri": "http://viaf.org/viaf/151959534"
+        }
+      ],
+      "notation": [
+        "OBV"
+      ],
+      "prefLabel": {
+        "de": "OBV-Fachgruppen",
+        "en": "OBV classes"
+      },
+      "altLabel": {
+        "de": [
+          "Fachgruppen des OBV"
+        ]
+      },
+      "namespace": "http://uri.gbv.de/terminology/obv/"
+    }
+  ]
+}

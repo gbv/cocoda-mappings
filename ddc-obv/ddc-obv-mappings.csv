@@ -1,0 +1,100 @@
+fromNotation,fromLabel,toNotation
+00,"Informatik, Information & Wissen, allgemeine Werke",24
+01,Bibliografien,03
+02,Bibliotheks- & Informationswissenschaften,03
+03,Enzyklopädien & Faktenbücher,01
+05,"Magazine, Zeitschriften & fortlaufende Sammelwerke",01
+06,"Verbände, Organisationen & Museen",01
+07,"Publizistische Medien, Journalismus & Verlagswesen",02
+08,Zitate,01
+09,Handschriften & seltene Bücher,03
+10,Philosophie & Psychologie,04
+11,Metaphysik,04
+12,Epistemologie,04
+13,Parapsychologie & Okkultismus,05
+14,Philosophische Schulen,04
+15,Psychologie,05
+16,Philosophische Logik,04
+17, Ethik,04
+18,"Antike, mittelalterliche & östliche Philosophie",04
+19,Neuzeitliche westliche Philosophie,04
+20,Religion,06
+21,"Religionsphilosophie, Religionstheorie",06
+22,Bibel,06
+23,"Christentum, christliche Theologie",06
+24,"Christliche Erfahrung, christliches Leben",06
+25,"Christliche Pastoraltheologie, Ordensgemeinschaften",06
+26,"Kirchenorganisation, Sozialarbeit, Religionsausübung",06
+27,Geschichte des Christentums,06
+28,Christliche Konfessionen,06
+29,Andere Religionen,06
+30,"Sozialwissenschaften, Soziologie",11
+31,Statistiken,14
+32,Politikwissenschaft,09
+33,Wirtschaft,12
+34,Recht,08
+35,"Öffentliche Verwaltung, Militärwissenschaft",09
+36,"Soziale Probleme, Sozialdienste",08
+37,Bildung und Erziehung,07
+38,"Handel, Kommunikation, Verkehr",44
+39,"Bräuche, Etikette, Folklore",52
+40,Sprache,15
+41,Linguistik,15
+42,"Englisch, Altenglisch",16
+43,"Deutsch, germanische Sprachen allgemein",17
+44,"Französisch, romanische Sprachen allgemein",18
+45,"Italienisch, Rumänisch, Rätoromanisch",18
+46,"Spanisch, Portugiesisch",18
+47,"Latein, italische Sprachen",20
+48,Griechisch,20
+49,Andere Sprachen,22
+50,Naturwissenschaften,25
+51,Mathematik,23
+52,Astronomie,26
+53,Physik,33
+54,Chemie,30
+55,"Geowissenschaften, Geologie",31
+56,"Fossilien, Paläontologie",31
+57,Biowissenschaften; Biologie,27
+58,Pflanzen (Botanik),28
+59,Tiere (Zoologie),29
+60,Technik,37
+61,Medizin und Gesundheit,34
+62,Ingenieurwissenschaften,37
+63,Landwirtschaft,43
+64,Hauswirtschaft und Familie,43
+65,"Management, Öffentlichkeitsarbeit",13
+66,Chemische Verfahrenstechnik,37
+67,Industrielle Fertigung,37
+68,Industrielle Fertigung für einzelne Verwendungszwecke,37
+69,"Hausbau, Bauhandwerk",37
+70,"Künste, Freizeit & Erholung",45
+71,"Landschaftsgestaltung, Raumplanung",51
+72,Architektur,42
+73,"Bildhauerkunst, Keramik, Metallkunst",45
+74,"Zeichnung, angewandte Kunst",45
+75,Malerei,45
+76,Grafik,45
+77,"Fotografie, Computerkunst",45
+78,Musik,46
+79,"Sport, Spiele, Unterhaltung",49
+80,"Literatur, Rhetorik, Literaturwissenschaft",15
+81,Amerikanische Literatur in Englisch,16
+82,"Englische, altenglische Literaturen",16
+83,Deutsche und verwandte Literaturen,17
+84,Französische und verwandte Literaturen,18
+85,"Italienische, rumänische, rätoromanische Literaturen",18
+86,"Spanische, portugiesische Literaturen",18
+87,"Lateinische, italische Literaturen",20
+88,Griechische Literaturen,20
+89,Andere Literaturen,22
+90,Geschichte und Geografie,54
+91,"Geografie, Reisen",50
+92,"Biografie, Genealogie",54
+93,"Geschichte des Altertums (bis ca. 499), Archäologie",55
+94,Geschichte Europas,54
+95,Geschichte Asiens,54
+96,Geschichte Afrikas,54
+97,Geschichte Nordamerikas,54
+98,Geschichte Südamerikas,54
+99,Geschichte anderer Gebiete,54
