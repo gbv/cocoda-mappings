@@ -1,0 +1,63 @@
+{
+  "schemes": [
+    {
+      "uri": "http://bartoc.org/en/node/18915",
+      "identifier": [
+        "https://bartoc.org/de/node/18915"
+      ],
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "http://viaf.org/viaf/213141461"
+          },
+          "uri": "http://viaf.org/viaf/213141461"
+        }
+      ],
+      "notation": [
+        "ZDB-FGS"
+      ],
+      "prefLabel": {
+        "de": "ZDB-Fachgruppensystematik",
+        "en": "ZDB-Classification",
+        "und": "ZDB-Systematik"
+      },
+      "altLabel": {
+        "und": [
+          "ZDB-Fachgruppen",
+          "ZDB-FGS",
+          "FGS"
+        ]
+      },
+      "namespace": "http://uri.gbv.de/terminology/zdb-fgs/"
+    },
+    {
+      "uri": "http://bartoc.org/en/node/20049",
+      "identifier": [
+        "http://www.wikidata.org/entity/Q67011877",
+        "http://uri.gbv.de/terminology/sdnb",
+        "http://www.mycore.org/classifications/SDNB"
+      ],
+      "publisher": [
+        {
+          "prefLabel": {
+            "en": "Deutsche Nationalbibliothek"
+          },
+          "uri": "http://viaf.org/viaf/148328332"
+        }
+      ],
+      "notation": [
+        "SDNB"
+      ],
+      "prefLabel": {
+        "de": "Sachgruppen der DNB"
+      },
+      "altLabel": {
+        "de": [
+          "Sachgruppen der Deutschen Nationalbibliographie",
+          "DDC-Sachgruppen"
+        ]
+      },
+      "namespace": "http://uri.gbv.de/terminology/sdnb/"
+    }
+  ]
+}
