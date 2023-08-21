@@ -1,0 +1,26 @@
+# Extract DDC mappings from GND as JSKOS mappings
+
+# Usage: catmandu convert marcxml --skip-errors 1 --fix gnd-ddc.fix to ndjson < gnd.xml > gnd-ddc.ndjson
+
+# Only keep those that have a DDC notation
+select marc_match(083$a, '.+')
+
+# GND URI
+marc_map(024$0, gnd)
+
+# DDC URI
+marc_map(083$a, ddc)
+prepend(ddc, "http://dewey.info/class/")
+# TODO: Targets are actually version 22
+append(ddc, "/e23/")
+
+# Make a valid JSKOS mapping
+move_field(gnd, "from.memberSet.0.uri")
+move_field(ddc, "to.memberSet.0.uri")
+
+add_field("fromScheme.uri", "http://bartoc.org/en/node/430")
+add_field("toScheme.uri", "http://bartoc.org/en/node/241")
+add_field("type.0", "http://www.w3.org/2004/02/skos/core#exactMatch")
+
+rm(record)
+rm(_id)
