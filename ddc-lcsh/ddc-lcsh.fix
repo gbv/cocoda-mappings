@@ -1,0 +1,27 @@
+# Extract DDC mappings from LCSH as JSKOS mappings
+
+# Usage: catmandu convert marcxml --skip-errors 1 --fix ddc-lcsh.fix to ndjson < lcsh.xml > ddc-lcsh.ndjson
+
+# Only keep those that have a DDC notation
+select marc_match(083, 'a')
+
+# LCSH URI
+marc_map(010$a, lcsh)
+replace_all(lcsh, " ", "")
+prepend(lcsh, "http://id.loc.gov/authorities/subjects/")
+
+# DDC URI
+marc_map(083$a, ddc)
+prepend(ddc, "http://dewey.info/class/")
+append(ddc, "/e23/")
+
+# Make a valid JSKOS mapping
+move_field(ddc, "from.memberSet.0.uri")
+move_field(lcsh, "to.memberSet.0.uri")
+
+add_field("fromScheme.uri", "http://bartoc.org/en/node/241")
+add_field("toScheme.uri", "http://bartoc.org/en/node/454")
+add_field("type.0", "http://www.w3.org/2004/02/skos/core#exactMatch")
+
+rm(record)
+rm(_id)
