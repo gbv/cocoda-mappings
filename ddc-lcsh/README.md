@@ -1,4 +1,5 @@
 # DDC-LCSH Mappings
+Mappings by OCLC.
 
 ## Requirements
 - Catmandu with MARC importer and JSON exporter
@@ -11,5 +12,7 @@ make
 ```
 
 ## To-Dos
-- [ ] Add `creator` to mappings
+- [x] Add `creator` to mappings
 - [ ] Better documentation
+- [ ] Allow repeating field 083$a (e.g. for "sh 85035869")
+- [ ] Add LCSH `prefLabel` to mapping? (150$a)

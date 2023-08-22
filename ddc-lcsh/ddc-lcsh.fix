@@ -23,5 +23,8 @@ add_field("fromScheme.uri", "http://bartoc.org/en/node/241")
 add_field("toScheme.uri", "http://bartoc.org/en/node/454")
 add_field("type.0", "http://www.w3.org/2004/02/skos/core#exactMatch")
 
+add_field("creator.0.prefLabel.en", "OCLC")
+add_field("creator.0.uri", "http://viaf.org/viaf/156508705")
+
 rm(record)
 rm(_id)
