@@ -12,6 +12,8 @@ prepend(lcsh, "http://id.loc.gov/authorities/subjects/")
 
 # Make a valid JSKOS mapping
 move_field(lcsh, "to.memberSet.0.uri")
+# Add LCSH prefLabel
+marc_map(150$a, "to.memberSet.0.prefLabel.en")
 
 add_field("fromScheme.uri", "http://bartoc.org/en/node/241")
 add_field("toScheme.uri", "http://bartoc.org/en/node/454")

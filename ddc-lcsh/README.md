@@ -15,4 +15,4 @@ make
 - [x] Add `creator` to mappings
 - [ ] Better documentation
 - [x] Allow repeating field 083$a (e.g. for "sh 85035869")
-- [ ] Add LCSH `prefLabel` to mapping? (150$a)
+- [x] Add LCSH `prefLabel` to mapping? (150$a)
