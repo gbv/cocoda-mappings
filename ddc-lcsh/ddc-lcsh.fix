@@ -1,6 +1,6 @@
 # Extract DDC mappings from LCSH as JSKOS mappings
 
-# Usage: catmandu convert marcxml --skip-errors 1 --fix ddc-lcsh.fix to ndjson < lcsh.xml > ddc-lcsh.ndjson
+# Usage: catmandu convert marcxml --skip-errors 1 --fix ddc-lcsh.fix to Null < lcsh.xml > ddc-lcsh.ndjson
 
 # Only keep those that have a DDC notation
 select marc_match(083, 'a')
@@ -10,13 +10,7 @@ marc_map(010$a, lcsh)
 replace_all(lcsh, " ", "")
 prepend(lcsh, "http://id.loc.gov/authorities/subjects/")
 
-# DDC URI
-marc_map(083$a, ddc)
-prepend(ddc, "http://dewey.info/class/")
-append(ddc, "/e23/")
-
 # Make a valid JSKOS mapping
-move_field(ddc, "from.memberSet.0.uri")
 move_field(lcsh, "to.memberSet.0.uri")
 
 add_field("fromScheme.uri", "http://bartoc.org/en/node/241")
@@ -26,5 +20,17 @@ add_field("type.0", "http://www.w3.org/2004/02/skos/core#exactMatch")
 add_field("creator.0.prefLabel.en", "OCLC")
 add_field("creator.0.uri", "http://viaf.org/viaf/156508705")
 
+# DDC URIs
+marc_map(083$a, ddcs.$append)
+
 rm(record)
 rm(_id)
+
+# Iterate over DDCs and export one mapping for each
+do list(path: ddcs, var: ddc)
+  rm(ddcs)
+  prepend(ddc, "http://dewey.info/class/")
+  append(ddc, "/e23/")
+  move_field(ddc, "from.memberSet.0.uri")
+  add_to_exporter(., JSON, line_delimited: 1, canonical: 1)
+end
