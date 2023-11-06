@@ -1,5 +1,14 @@
 .PHONY: codelist update
 
+download:
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-agrovoc_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-embne_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-lcsh-ram_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-mesh_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-nsogg_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-stw_lds.jsonld.gz
+	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-thesoz_lds.jsonld.gz
+
 codelist: 
 	@curl -s http://id.loc.gov/vocabulary/identifiers.madsrdf.nt \
 		| grep 'hasMADSSchemeMember>' \
