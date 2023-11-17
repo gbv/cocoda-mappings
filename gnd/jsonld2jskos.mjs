@@ -71,7 +71,6 @@ for (let from in graph) {
     // check/extend to.memberSet
     to = to.map(({uri}) => ({uri: toScheme.urifix(uri), inScheme: [ { uri: toScheme.uri } ] }))
 
-    // TODO: allow null-mappings
     to = to.filter(({uri}) => {
       if (!uri.startsWith(toScheme.namespace)) {
         console.error(`URI ${uri} does not match ${toScheme.namespace}`)
@@ -80,7 +79,11 @@ for (let from in graph) {
       return true
     })
 
-    if (to.length) {
+    // TODO: allow null-mappings
+    if (to.length) {  
+      for (let c of to) {
+        c.inScheme = [{uri:toScheme.uri}]
+      }
       const jskos = {
         from: { memberSet: [ { uri: from, inScheme: [ { uri: fromScheme.uri } ] } ] },
         to: { memberSet: to },
