@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/20450",
-    "namespace": "https://datos.bne.es/resource/"
+    "namespace": "https://datos.bne.es/resource/",
+    "notation": [
+      "EMBNE"
+    ]
   },
   "notation": [
     "gnd_embne_dnb"

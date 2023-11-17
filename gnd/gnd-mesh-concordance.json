@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/305",
-    "namespace": "http://id.nlm.nih.gov/mesh/"
+    "namespace": "http://id.nlm.nih.gov/mesh/",
+    "notation": [
+      "MeSH"
+    ]
   },
   "notation": [
     "gnd_mesh_dnb"

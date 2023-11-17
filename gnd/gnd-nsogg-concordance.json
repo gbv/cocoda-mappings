@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/305",
-    "namespace": "https://purl.org/bncf/tid/"
+    "namespace": "https://purl.org/bncf/tid/",
+    "notation": [
+      "NSogg"
+    ]
   },
   "notation": [
     "gnd_nsogg_dnb"

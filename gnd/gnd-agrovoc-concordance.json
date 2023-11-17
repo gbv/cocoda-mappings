@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/305",
-    "namespace": "http://aims.fao.org/aos/agrovoc/"
+    "namespace": "http://aims.fao.org/aos/agrovoc/",
+    "notation": [
+      "AGROVOC"
+    ]
   },
   "notation": [
     "gnd_agrovoc_dnb"

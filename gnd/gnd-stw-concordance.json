@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/313",
-    "namespace": "http://zbw.eu/stw/descriptor/"
+    "namespace": "http://zbw.eu/stw/descriptor/",
+    "notation": [
+      "STW"
+    ]
   },
   "notation": [
     "gnd_stw_dnb"

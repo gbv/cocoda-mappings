@@ -5,7 +5,7 @@
 # gnd-lcsh-mappings.ndjson 
 # gnd-rameau-mappings.ndjson 
 
-all: gnd-agrovoc-mappings.ndjson gnd-embne-mappings.ndjson gnd-mesh-mappings.ndjson gnd-nsogg-mappings.ndjson gnd-stw-mappings.ndjson
+all: gnd-agrovoc-mappings.ndjson gnd-embne-mappings.ndjson gnd-mesh-mappings.ndjson gnd-nsogg-mappings.ndjson gnd-stw-mappings.ndjson gnd-concordances.ndjson
 
 gnd-agrovoc-mappings.ndjson:
 	./etl.sh agrovoc
@@ -30,6 +30,9 @@ gnd-lcsh-mappings.ndjson:
 
 gnd-rameau-mappings.ndjson:
 	./etl.sh rameau
+
+gnd-concordances.ndjson: validate
+	jq -c . *-concordance.json > $@
 
 validate:
 	npm run --silent -- jskos-validate --verbose concordance *-concordance.json

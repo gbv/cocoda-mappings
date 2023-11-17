@@ -5,7 +5,10 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/305",
-    "namespace": "http://aims.fao.org/aos/thesoz/"
+    "namespace": "http://aims.fao.org/aos/thesoz/",
+    "notation": [
+      "TheSoz"
+    ]
   },
   "notation": [
     "gnd_thesoz_dnb"
