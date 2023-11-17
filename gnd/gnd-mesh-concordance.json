@@ -1,0 +1,50 @@
+{
+  "uri": "https://coli-conc.gbv.de/api/concordances/gnd_mesh_dnb",
+  "fromScheme": {
+    "uri": "http://bartoc.org/en/node/430"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/305",
+    "namespace": "http://id.nlm.nih.gov/mesh/"
+  },
+  "notation": [
+    "gnd_mesh_dnb"
+  ],
+  "type": [
+    "http://rdfs.org/ns/void#Linkset"
+  ],
+  "license": [
+    {
+      "uri": "http://creativecommons.org/licences/by/4.0/"
+    }
+  ],
+  "creator": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-587",
+      "prefLabel": {
+        "de": "GESIS"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-38M",
+      "prefLabel": {
+        "de": "ZB Med"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "url": "https://wiki.dnb.de/display/GND/Mapping+GND+-+MeSH"
+}

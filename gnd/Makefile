@@ -1,13 +1,38 @@
-.PHONY: codelist update
+.PHONY: validate codelist update
 
-download:
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-agrovoc_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-embne_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-lcsh-ram_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-mesh_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-nsogg_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-stw_lds.jsonld.gz
-	wget -N https://data.dnb.de/opendata/mapping-authorities-gnd-thesoz_lds.jsonld.gz
+# TODO
+# gnd-thesoz-mappings.ndjson
+# gnd-lcsh-mappings.ndjson 
+# gnd-rameau-mappings.ndjson 
+
+all: gnd-agrovoc-mappings.ndjson gnd-embne-mappings.ndjson gnd-mesh-mappings.ndjson gnd-nsogg-mappings.ndjson gnd-stw-mappings.ndjson
+
+gnd-agrovoc-mappings.ndjson:
+	./etl.sh agrovoc
+
+gnd-embne-mappings.ndjson:
+	./etl.sh embne
+
+gnd-mesh-mappings.ndjson:
+	./etl.sh mesh
+
+gnd-nsogg-mappings.ndjson:
+	./etl.sh nsogg
+
+gnd-thesoz-mappings.ndjson:
+	./etl.sh thesoz
+
+gnd-stw-mappings.ndjson:
+	./etl.sh stw
+
+gnd-lcsh-mappings.ndjson:
+	./etl.sh lcsh
+
+gnd-rameau-mappings.ndjson:
+	./etl.sh rameau
+
+validate:
+	npm run --silent -- jskos-validate --verbose concordance *-concordance.json
 
 codelist: 
 	@curl -s http://id.loc.gov/vocabulary/identifiers.madsrdf.nt \
@@ -17,12 +42,6 @@ codelist:
 
 update:
 	cat codelist | ./count-gnd-mappings.pl >> count-gnd-mappings.csv
-
-# GND-LCSH (project macs)
-GNDLCSH=../csv/gnd_lcsh_macs.csv
-MACSNT=$(wildcard macs-*.nt.gz)
-macs: $(MACSNT) 
-	zcat $< | perl macs-gnd2lcsh.pl > $(GNDLCSH) 2> macs.err
 
 # GND-DDC mappings (CrissCross project)
 CRISSCROSS=../csv/gnd_ddc_crisscross.csv

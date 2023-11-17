@@ -1,0 +1,44 @@
+{
+  "uri": "https://coli-conc.gbv.de/api/concordances/gnd_thesoz_dnb",
+  "fromScheme": {
+    "uri": "http://bartoc.org/en/node/430"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/305",
+    "namespace": "http://aims.fao.org/aos/thesoz/"
+  },
+  "notation": [
+    "gnd_thesoz_dnb"
+  ],
+  "license": [
+    {
+      "uri": "http://creativecommons.org/licences/by/4.0/"
+    }
+  ],
+  "type": [
+    "http://rdfs.org/ns/void#Linkset"
+  ],
+  "creator": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-587",
+      "prefLabel": {
+        "de": "GESIS"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "url": "https://wiki.dnb.de/display/GND/Mapping+GND+-+TheSoz"
+}

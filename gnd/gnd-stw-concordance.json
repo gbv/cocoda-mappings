@@ -1,0 +1,44 @@
+{
+  "uri": "https://coli-conc.gbv.de/api/concordances/gnd_stw_dnb",
+  "fromScheme": {
+    "uri": "http://bartoc.org/en/node/430"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/313",
+    "namespace": "http://zbw.eu/stw/descriptor/"
+  },
+  "notation": [
+    "gnd_stw_dnb"
+  ],
+  "license": [
+    {
+      "uri": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "type": [
+    "http://rdfs.org/ns/void#Linkset"
+  ],
+  "creator": [
+    {
+      "uri": "http://www.wikidata.org/entity/Q317179",
+      "prefLabel": {
+        "de": "ZBW"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "url": "https://wiki.dnb.de/display/GND/Mapping+GND+-+STW"
+}

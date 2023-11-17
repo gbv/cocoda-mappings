@@ -1,0 +1,50 @@
+{
+  "uri": "https://coli-conc.gbv.de/api/concordances/gnd_embne_dnb",
+  "fromScheme": {
+    "uri": "http://bartoc.org/en/node/430"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/20450",
+    "namespace": "https://datos.bne.es/resource/"
+  },
+  "notation": [
+    "gnd_embne_dnb"
+  ],
+  "type": [
+    "http://rdfs.org/ns/void#Linkset"
+  ],
+  "license": [
+    {
+      "uri": "http://creativecommons.org/licences/by/4.0/"
+    }
+  ],
+  "creator": [
+    {
+      "uri": "http://www.wikidata.org/entity/Q63870266",
+      "prefLabel": {
+        "de": "FID Romanistik"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    },
+    {
+      "uri": "http://viaf.org/viaf/150572288",
+      "prefLabel": {
+        "es": "BNE"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "url": "https://wiki.dnb.de/display/GND/Mapping+GND+-+EMBNE"
+}

@@ -1,1 +1,4 @@
+*.jsonld.gz
+*.mappings.ndjson
+
 count-gnd-mappings.csv

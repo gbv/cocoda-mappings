@@ -1,0 +1,58 @@
+{
+  "uri": "https://coli-conc.gbv.de/api/concordances/gnd_agrovoc_dnb",
+  "fromScheme": {
+    "uri": "http://bartoc.org/en/node/430"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/305",
+    "namespace": "http://aims.fao.org/aos/agrovoc/"
+  },
+  "notation": [
+    "gnd_agrovoc_dnb"
+  ],
+  "type": [
+    "http://rdfs.org/ns/void#Linkset"
+  ],
+  "license": [
+    {
+      "uri": "http://creativecommons.org/licences/by/4.0/"
+    }
+  ],
+  "creator": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-587",
+      "prefLabel": {
+        "de": "GESIS"
+      }
+    },
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    },
+    {
+      "uri": "https://viaf.org/viaf/148396178/",
+      "prefLabel": {
+        "de": "FAO"
+      }
+    }
+  ],
+  "publisher": [
+    {
+      "uri": "https://ld.zdb-services.de/resource/organisations/DE-101",
+      "prefLabel": {
+        "de": "DNB"
+      }
+    }
+  ],
+  "scopeNote": {
+    "de": [
+      "Aufgebaut durch GESIS, FAO und DNB und laufend fortgeschrieben von Expertinnen aus FAO und DNB"
+    ],
+    "en": [
+      "Created by GESIS, FAO and DNB and continously maintained by FAO's and DNB‘s domain experts"
+    ]
+  },
+  "url": "https://wiki.dnb.de/display/GND/Mapping+GND+-+AGROVOC"
+}
