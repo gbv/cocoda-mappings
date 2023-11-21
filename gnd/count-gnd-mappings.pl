@@ -7,10 +7,11 @@ my $date = POSIX::strftime '%Y%m%d', localtime;
 
 foreach my $code (<>) {
     chomp $code;
-    my $count = importer('SRU', 
-        base => 'http://sru.gbv.de/ognd',
-        query => "pica.stn=$code",
-        limit => 0,
+    my $count = importer(
+        'SRU',
+        base   => 'http://sru.bsz-bw.de/ognd',
+        query  => "pica.stn=$code",
+        limit  => 0,
         parser => 'meta'
     )->first->{numberOfRecords};
     say join ',', $date, $code, $count;
