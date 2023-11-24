@@ -1,11 +1,11 @@
 .PHONY: validate codelist update
 
 # TODO
-# gnd-thesoz-mappings.ndjson
+# 
 # gnd-lcsh-mappings.ndjson 
 # gnd-rameau-mappings.ndjson 
 
-all: gnd-agrovoc-mappings.ndjson gnd-embne-mappings.ndjson gnd-mesh-mappings.ndjson gnd-nsogg-mappings.ndjson gnd-stw-mappings.ndjson gnd-concordances.ndjson
+all: gnd-agrovoc-mappings.ndjson gnd-embne-mappings.ndjson gnd-mesh-mappings.ndjson gnd-nsogg-mappings.ndjson gnd-stw-mappings.ndjson gnd-concordances.ndjson gnd-thesoz-mappings.ndjson
 
 gnd-agrovoc-mappings.ndjson:
 	./etl.sh agrovoc

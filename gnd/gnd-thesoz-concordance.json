@@ -5,7 +5,7 @@
   },
   "toScheme": {
     "uri": "http://bartoc.org/en/node/294",
-    "namespace": "http://aims.fao.org/aos/thesoz/",
+    "namespace": "http://lod.gesis.org/thesoz/",
     "notation": [
       "TheSoz"
     ]
