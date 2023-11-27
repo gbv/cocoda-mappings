@@ -86,7 +86,7 @@ gnd_ddc_crisscross:
   count: 170641
   creator: DNB
 rvk_bk_recht:
-  about: Recht
+  about: P Recht
   count: 16835
   creator: UB WU Wien
   contributor:
@@ -94,7 +94,7 @@ rvk_bk_recht:
       de: Andreas Waldhör
   created: 2013
 rvk_bk_wiwi:
-  about: Wirtschaft
+  about: Q Wirtschaft
   count: 1042
   creator: UB WU Wien
   contributor:
@@ -102,7 +102,7 @@ rvk_bk_wiwi:
       de: Andreas Waldhör
   created: 2013
 rvk_bk_germanistik:
-  about: Germanistik
+  about: GE - GY Germanistik
   count: 23435
   creator: ULB Tirol
   contributor:
