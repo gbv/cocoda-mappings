@@ -18,29 +18,14 @@ while ( my ( $id, $conc ) = each %$concordances ) {
     $id =~ /^([^_]+)_([^_]+)/ or die "$id pattern not recognized";
     die "unknown scheme: $_\n" for grep { !$kos->{$_} } ( $1, $2 );
 
-    my @distributions = {
-        download => $file,
-        mimetype => 'text/csv; charset=utf-8',
-    };
-
-    if ( -f "$id.ndjson" ) {
-        push @distributions,
-          {
-            download => "$id.ndjson",
-            mimetype => "application/x-ndjson",
-            format   => "http://format.gbv.de/jskos"
-          };
-    }
-
     my %jskos = (
-        '@context'    => 'https://gbv.github.io/jskos/context.json',
-        type          => ['http://rdfs.org/ns/void#Linkset'],
-        uri           => "http://coli-conc.gbv.de/concordances/$id",
-        notation      => [$id],
-        extent        => "$extent",
-        fromScheme    => $kos->{$1},
-        toScheme      => $kos->{$2},
-        distributions => \@distributions,
+        '@context' => 'https://gbv.github.io/jskos/context.json',
+        type       => ['http://rdfs.org/ns/void#Linkset'],
+        uri        => "http://coli-conc.gbv.de/concordances/$id",
+        notation   => [$id],
+        extent     => "$extent",
+        fromScheme => $kos->{$1},
+        toScheme   => $kos->{$2},
     );
 
     $jskos{created} = "$conc->{created}" if $conc->{created};
