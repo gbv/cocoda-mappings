@@ -1,0 +1,29 @@
+---
+gnd:
+  uri: http://bartoc.org/en/node/533
+  notation:
+  - RVK
+bk:
+  uri: http://bartoc.org/en/node/18785
+  notation:
+  - BK
+ddc:
+  uri: http://bartoc.org/en/node/241
+  notation:
+  - DDC
+stw:
+  uri: http://bartoc.org/en/node/313
+  notation:
+  - STW
+ixtheo:
+  uri: http://bartoc.org/en/node/18797
+  notation:
+  - IxTheo
+lcsh:
+  uri: http://bartoc.org/en/node/454
+  notation:
+  - LCSH
+rvk:
+  uri: http://bartoc.org/en/node/533
+  notation:
+  - RVK

@@ -9,7 +9,7 @@ binmode *STDERR, ':encoding(UTF-8)';
 my ($csvfile) = @ARGV;
 
 # known concept schemes
-my $kos = importer( 'YAML', file => '../kos-registry/kos.yaml' )->first;
+my $kos = importer( 'YAML', file => '../kos.yaml' )->first;
 $kos->{$_} = GBV::ConceptScheme->new( $kos->{$_} ) for keys %$kos;
 
 # get source and target KOS from filename
@@ -20,7 +20,7 @@ my ( $fromScheme, $toScheme ) =
   map { $kos->{$_} || die "KOS $_ not defined!\n" } ( $1, $2 );
 
 # convert mappings in CSV to JSKOS
-my $exporter = exporter( 'JSON', line_delimited => 1 );
+my $exporter     = exporter( 'JSON', line_delimited => 1 );
 my $fromNotation = '';
 importer( 'CSV', file => $csvfile, sep_char => ';', allow_loose_quotes => 1 )
   ->each(

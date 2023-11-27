@@ -88,17 +88,26 @@ gnd_ddc_crisscross:
 rvk_bk_recht:
   about: Recht
   count: 16835
-  creator: ULB Tirol
+  creator: UB WU Wien
+  contributor:
+  - prefLabel:
+      de: Andreas Waldhör
   created: 2013
 rvk_bk_wiwi:
   about: Wirtschaft
   count: 1042
-  creator: ULB Tirol
+  creator: UB WU Wien
+  contributor:
+  - prefLabel:
+      de: Andreas Waldhör
   created: 2013
 rvk_bk_germanistik:
   about: Germanistik
   count: 23435
   creator: ULB Tirol
+  contributor:
+  - prefLabel:
+      de: Irene Rauner
   created: 2013
 rvk_ddc_ethik:
   about: Ethik
