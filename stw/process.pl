@@ -11,6 +11,6 @@ while (<>) {
     say "$1;$3;$2" if $_ =~ qr{^
         <http://zbw\.eu/stw/descriptor/([^>]+)>\s+
         <http://www\.w3\.org/2004/02/skos/core\#(broad|narrow|exact|close|related)Match>\s+
-        <http://d-nb\.info/gnd/([^>]+)>
+        <https://d-nb\.info/gnd/([^>]+)>
     }x;
 }
