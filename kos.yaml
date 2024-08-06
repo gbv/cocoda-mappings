@@ -1,8 +1,8 @@
 ---
 gnd:
-  uri: http://bartoc.org/en/node/533
+  uri: http://bartoc.org/en/node/430
   notation:
-  - RVK
+  - GND
 bk:
   uri: http://bartoc.org/en/node/18785
   notation:
