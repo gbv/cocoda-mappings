@@ -3,7 +3,7 @@ use v5.14;
 
 # convert ZBW STW mappings from NTriples to CSV
 #
-# $ wget http://zbw.eu/stw/version/9.0/download/stw_gnd_mapping.nt.zip
+# $ wget http://zbw.eu/stw/version/9.16/download/stw_gnd_mapping.nt.zip
 # $ zcat stw_gnd_mapping.nt.zip | ./process.pl > stw_gnd_zbw.csv
 
 say "fromNotation;toNotation;type";
