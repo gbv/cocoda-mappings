@@ -1,2 +1,2 @@
 *.xml
-!gnd-ddc.ndjson
+*.nt

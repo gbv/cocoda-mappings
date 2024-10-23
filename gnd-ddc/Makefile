@@ -1,3 +1,3 @@
 
 gnd-ddc.ndjson:
-	catmandu convert marcxml --skip-errors 1 --fix gnd-ddc.fix to ndjson < gnd.xml > gnd-ddc.ndjson
+	curl --silent https://data.dnb.de/opendata/authorities-gnd_lds.nt.gz | zcat - | grep "dewey.info" | node convert.mjs > gnd-ddc.ndjson

@@ -1,15 +1,16 @@
-# GND-DDC Mappings
+# GND-DDC Mappings from DNB
 
 ## Requirements
-- Catmandu with MARC importer and JSON exporter
-- Pansoft-provided source file `gnd.xml` (MARC XML file of GND with DDC links in 083$a)
+- Node.js 18+
+- Internet access with [this file](https://data.dnb.de/opendata/authorities-gnd_lds.nt.gz) accessible
 
 ## Conversion to JSKOS
 
 ```bash
-make
+make -B
 ```
 
 ## To-Dos
-- [ ] Add `creator` to mappings
-- [ ] Better documentation
+- [ ] Fix skipped mappings (JSKOS Server does not import all the converted mappings, but jskos-validate doesn't show any errors)
+- [ ] Can we mint stable URIs so that they don't change whenever we update the mappings?
+- [ ] Download data instead of streaming it directly into conversion script
