@@ -9,8 +9,3 @@
 ```bash
 make -B
 ```
-
-## To-Dos
-- [ ] Fix skipped mappings (JSKOS Server does not import all the converted mappings, but jskos-validate doesn't show any errors)
-- [ ] Can we mint stable URIs so that they don't change whenever we update the mappings?
-- [ ] Download data instead of streaming it directly into conversion script
