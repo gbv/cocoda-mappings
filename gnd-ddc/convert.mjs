@@ -3,6 +3,11 @@
  */
 
 import * as readline from "node:readline/promises"
+import crypto from "node:crypto"
+
+function getHash(text) {
+  return crypto.createHash("md5").update(text).digest("hex")
+}
 
 const mapping = {
   from: {
@@ -19,11 +24,6 @@ const mapping = {
       }
     }
   ],
-  // partOf: [
-  //   {
-  //     uri: "https://coli-conc.gbv.de/api/concordances/gnd_ddc_crisscross"
-  //   }
-  // ],
 }
 
 const typeMap = {
@@ -32,6 +32,8 @@ const typeMap = {
   "https://d-nb.info/standards/elementset/gnd#relatedDdcWithDegreeOfDeterminacy3": "http://www.w3.org/2004/02/skos/core#closeMatch",
   "https://d-nb.info/standards/elementset/gnd#relatedDdcWithDegreeOfDeterminacy4": "http://www.w3.org/2004/02/skos/core#exactMatch",
 }
+
+const hashes = new Set()
 
 const rl = readline.createInterface({
   input: process.stdin,
@@ -54,5 +56,10 @@ for await (const line of rl) {
   mapping.from.memberSet[0].uri = gnd
   mapping.to.memberSet[0].uri = `${ddc}e23/`
   mapping.type[0] = typeMap[type]
-  console.log(JSON.stringify(mapping))
+  const mappingString = JSON.stringify(mapping)
+  const hash = getHash(mappingString)
+  if (!hashes.has(hash)) {
+    console.log(mappingString)
+    hashes.add(hash)
+  }
 }
