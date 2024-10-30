@@ -80,6 +80,8 @@ die Unterfelder `$0` (GND-ID + Präfix), `$2` (Hauptbenennung) und `$a` (immer
 
 [MARC 21 Format for Classification Data](http://www.loc.gov/marc/classification/)
 
+Ein [Deno](https://deno.com/)-Skript zur Konvertierung der GND-Registerbegriffe zu JSKOS-Mappings ist unter `extract-gnd.js` zu finden. Zum Downloaden und Konvertieren der Daten, einfach `make` ausführen. Zum Aktualisieren der Version muss lediglich in der `Makefile` die Versionsnummer angepasst werden.
+
 ## Entitätstypen
 
 Die RVK kennt keine Entitätstypen wie die GND
