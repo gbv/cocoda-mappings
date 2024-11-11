@@ -62,8 +62,14 @@ for await (const record of stream) {
     const gnd = getSubfieldFromField(field, "0")[0]?.match(/\(.+\)(.+)/)?.[1]
     if (gnd) {
       // Create a mapping and print to console
-      mapping.from.memberSet[0] = { uri: `http://rvk.uni-regensburg.de/nt/${encodeURIComponent(rvk)}` }
-      mapping.to.memberSet[0] = { uri: `https://d-nb.info/gnd/${encodeURIComponent(gnd)}` }
+      mapping.from.memberSet[0] = {
+        uri: `http://rvk.uni-regensburg.de/nt/${encodeURIComponent(rvk)}`,
+        notation: [rvk],
+      }
+      mapping.to.memberSet[0] = {
+        uri: `https://d-nb.info/gnd/${encodeURIComponent(gnd)}`,
+        notation: [gnd],
+      }
       console.log(JSON.stringify(mapping))
     }
   })
