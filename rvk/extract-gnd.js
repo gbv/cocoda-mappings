@@ -19,6 +19,15 @@ function getSubfieldFromField(field, subfield) {
   return field._subfields.filter(({ _code }) => _code === subfield).map(({ _data }) => _data)
 }
 
+function getRvkFromField(field) {
+  const $a = getSubfieldFromField(field, "a")[0]
+  const $c = getSubfieldFromField(field, "c")[0]
+  if (!$c) {
+    return $a
+  }
+  return `${$a} - ${$c}`
+}
+
 // Mapping skeleton
 const mapping = {
   // from and to will be filled by loop below
@@ -45,7 +54,7 @@ for await (const record of stream) {
 
   // Get RVK notation from record
   const rvkData = getFieldsFromRecord(record, "153")[0]
-  const rvk = getSubfieldFromField(rvkData, "a").join(" - ")
+  const rvk = getRvkFromField(rvkData)
   
   // Find GND IDs
   const gndData = getFieldsFromRecord(record, gndFields).filter(field => getSubfieldFromField(field, "2")[0] === "gnd")
