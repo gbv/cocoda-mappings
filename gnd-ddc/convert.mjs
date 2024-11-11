@@ -3,6 +3,7 @@
  */
 
 import * as readline from "node:readline/promises"
+import process from "node:process"
 import crypto from "node:crypto"
 
 function getHash(text) {
