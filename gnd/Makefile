@@ -33,7 +33,7 @@ validate:
 	npm run --silent -- jskos-validate --verbose concordance *-concordance.json
 
 codelist: 
-	@curl -s http://id.loc.gov/vocabulary/identifiers.madsrdf.nt \
+	@curl -sL http://id.loc.gov/vocabulary/identifiers.madsrdf.nt \
 		| grep 'hasMADSSchemeMember>' \
 		| perl -p -e 's!.*/([^/>]+)>.*!$$1!' | sort > $@
 	@wc -l $@
