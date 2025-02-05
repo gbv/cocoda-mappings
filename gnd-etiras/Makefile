@@ -7,9 +7,8 @@ gnd-etiras-mappings.csv:
 	sed -Ei 's/([0-9]{2})-([0-9]{2})-([0-9]{2})/20\3-\2-\1/' gnd-etiras-mappings.csv
 	sed -i 's|http//uri.gbv.de/terminology/etiras/||g' gnd-etiras-mappings.csv
 	sed -i '1!s/^/https:\/\/coli-conc.gbv.de\/api\/mappings\/gnd-etiras-/' gnd-etiras-mappings.csv
-	sed -i -e 's/ftaa/closeMatch/g' -e 's/ftae/exactMatch/g' -e 's/ftai/closeMatch/g' -e 's/ftob/broadMatch/g' -e 's/ftub/narrowMatch/g' -e 's/ftvb/relatedMatch/g' gnd-etiras-mappings.csv
-	# TODO Releationstypen ftao, ftau, frao, ftnu
-	# TODO make type usable for ndjson
+	sed -i -e 's/ftaa/≈/g' -e 's/ftae/=/g' -e 's/ftai/≈/g' -e 's/ftob/>/g' -e 's/ftub/</g' -e 's/ftvb/~/g' -e 's/ftao/≈/g' gnd-etiras-mappings.csv
+	# TODO Releationstypen ftau, frao, ftnu
 
 include ../Makefile
 
