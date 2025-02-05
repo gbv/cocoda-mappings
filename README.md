@@ -12,11 +12,11 @@ This work is part of [project coli-conc](https://coli-conc.gbv.de/).
 
 See file `README.md` in each particular directory for further documentation.
 
-# SOURCES AND ISSUE TRACKER
+## SOURCES AND ISSUE TRACKER
 
 <https://github.com/gbv/cocoda-mappings/>
 
-# REQUIREMENTS
+## REQUIREMENTS
 
 * wdmapper
 * PHP >= 7.0 with ext-gd enabled
@@ -25,4 +25,8 @@ See file `README.md` in each particular directory for further documentation.
 ~~~bash
 $ sudo apt-get install php-gd
 $ composer install
+$ sudo apt-get install python3-venv 
+$ python3 -m venv .venv
+$ .venv/bin/pip install -r requirements.txt
+$ source .venv/bin/activate
 ~~~~
