@@ -21,6 +21,6 @@ Mit pica select werden alle Felder mit ETIRAS-Notation (\*P.u) und deren Mapping
 
 Ein Python-Skript entfernt leere Felder, und verschiedene sed-Befehle bereinigen die CSV weiter: Datumsangaben werden ins ISO-Format konvertiert, Sonderzeichen korrigiert und eindeutige Mapping-URIs erzeugt, sodass die Datei für die Konvertierung in JSKOS vorbereitet ist.
 
-Die Schemen von GND (fromScheme) und ETIRAS (toScheme) werden in einer registry.json zusammengeführt, die als Referenz für die NDJSON-Erzeugung dient. Mit jskos-convert wird die bereinigte CSV schließlich in eine JSKOS-konforme NDJSON-Datei umgewandelt, die direkt für Concordances oder andere JSKOS-kompatible Systeme genutzt werden kann.
+Die Schemata von GND (fromScheme) und ETIRAS (toScheme) werden in einer registry.json zusammengeführt, die als Referenz für die NDJSON-Erzeugung dient. Mit jskos-convert wird die bereinigte CSV schließlich in eine JSKOS-konforme NDJSON-Datei umgewandelt.
 
-Nachdem die CSV erstellt wurde, genügt der Befehl **make gnd-etiras-mappings.ndjson**, woraufhin Make automatisch die Registry erstellt und die NDJSON-Datei gnd-etiras-mappings.ndjson erzeugt.
+Nachdem die CSV erstellt wurde, genügt der Befehl **make gnd-etiras-mappings.ndjson**, woraufhin Make automatisch die Registry-Datei erstellt und die NDJSON-Datei gnd-etiras-mappings.ndjson erzeugt.
