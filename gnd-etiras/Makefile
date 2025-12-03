@@ -20,6 +20,7 @@ gnd-etiras-mappings.ndjson: gnd-etiras-mappings.csv registry.json
 	$(jskos-convert) mappings -t ndjson -r registry.json \
 		-s ${fromScheme} -d ${toScheme} \
 		-v -p ${concordance} $< > $@
+	jq -c '.creator=[{prefLabel:{de:"Deutsch-Französisches Institut"},uri:"https://ror.org/039yjh421"}]' $@ > tmp.ndjson; mv tmp.ndjson $@
 	wc -l $@
 
 
